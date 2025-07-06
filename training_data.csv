@@ -1,0 +1,3001 @@
+pickup,drop,hour,dayofweek,event,demand,distance,competitor_fare,fare,pickup_code,drop_code
+Kolar,BHEL,18,6,1,81,13.11,190.32,314.31,5,2
+Kolar,Ashoka Garden,21,3,0,93,9.32,176.84,205.43,5,1
+Ashoka Garden,New Market,22,0,0,58,4.99,108.88,117.66,1,8
+Ashoka Garden,Kolar,8,5,1,57,9.32,181.84,218.58,1,5
+Shahpura,Airport,18,2,0,65,14.75,210.0,250.32,10,0
+Lalghati,BHEL,16,1,1,49,12.5,199.0,229.8,6,2
+Lalghati,New Market,17,2,0,62,5.76,138.12,133.1,6,8
+MP Nagar,Airport,13,2,1,44,11.19,186.28,211.54,7,0
+Railway Station,Ashoka Garden,21,5,0,45,0.98,45.76,50.56,9,1
+Habibganj,New Market,5,2,1,92,4.74,140.88,163.81,3,8
+BHEL,Airport,23,1,0,28,16.74,274.88,251.08,2,0
+New Market,Ashoka Garden,11,3,0,29,4.99,132.88,109.78,8,1
+Railway Station,Lalghati,16,5,1,73,4.47,139.64,140.3,9,6
+BHEL,Indrapuri,11,4,1,56,1.57,35.84,77.78,2,4
+New Market,Shahpura,3,5,0,29,6.72,161.64,132.94,8,10
+BHEL,Indrapuri,12,6,1,28,1.57,70.84,73.01,2,4
+Railway Station,MP Nagar,11,0,1,66,3.31,126.72,121.72,9,7
+Railway Station,Airport,6,3,0,24,8.55,113.6,136.8,9,0
+Habibganj,New Market,21,1,1,34,4.74,103.88,117.66,3,8
+Airport,Indrapuri,18,2,0,80,15.69,257.28,270.6,0,4
+Habibganj,New Market,13,1,1,48,4.74,78.88,112.66,3,8
+Ashoka Garden,Shahpura,12,2,1,82,7.18,108.16,198.26,1,10
+Airport,New Market,12,0,1,99,8.43,144.16,226.46,0,8
+Habibganj,Indrapuri,1,2,1,72,6.68,111.16,166.42,3,4
+Habibganj,Shahpura,4,5,0,46,2.26,58.12,65.32,3,10
+Indrapuri,MP Nagar,4,1,0,82,6.76,98.12,155.28,4,7
+Airport,Railway Station,5,1,1,83,8.55,176.6,234.96,0,9
+MP Nagar,Shahpura,5,6,0,68,3.67,72.04,95.09,7,10
+Lalghati,Airport,18,0,0,56,4.25,63.0,99.96,6,0
+Ashoka Garden,MP Nagar,7,4,1,71,3.76,64.12,114.97,1,7
+Ashoka Garden,Shahpura,8,5,0,76,7.18,156.16,152.82,1,10
+Lalghati,Ashoka Garden,5,1,0,99,4.78,146.36,139.32,6,1
+Shahpura,Habibganj,13,2,1,79,2.26,99.12,100.37,10,3
+MP Nagar,BHEL,15,0,0,37,8.3,173.6,149.8,7,2
+Habibganj,MP Nagar,21,4,1,44,1.42,48.04,66.65,3,7
+Airport,Kolar,23,2,0,91,14.03,189.36,271.24,0,5
+BHEL,Indrapuri,9,0,0,87,1.57,55.84,77.07,2,4
+Railway Station,Kolar,6,2,0,41,8.59,143.08,143.08,9,5
+BHEL,New Market,22,5,0,60,11.86,168.32,208.69,2,8
+BHEL,Kolar,21,3,0,65,13.11,231.32,235.69,2,5
+Shahpura,Habibganj,6,3,1,93,2.26,92.12,112.39,10,3
+Railway Station,MP Nagar,21,4,1,33,3.31,77.72,95.26,9,7
+BHEL,Shahpura,14,5,0,26,8.38,122.56,136.96,2,10
+MP Nagar,Railway Station,16,2,0,74,3.31,77.72,92.08,7,9
+Habibganj,Ashoka Garden,13,6,1,27,5.07,100.84,121.01,3,1
+Shahpura,Lalghati,19,2,0,75,11.14,176.68,202.07,10,6
+Ashoka Garden,Indrapuri,1,6,1,57,6.76,149.12,175.17,1,4
+Railway Station,Lalghati,5,4,0,33,4.47,139.64,107.44,9,6
+Kolar,Airport,21,4,1,74,14.03,241.36,298.3,5,0
+Ashoka Garden,Habibganj,13,0,0,98,5.07,104.84,133.91,1,3
+Airport,Habibganj,19,0,0,50,12.53,237.36,204.46,0,3
+Indrapuri,Shahpura,9,3,0,32,6.89,170.68,137.08,4,10
+MP Nagar,Railway Station,11,5,0,21,3.31,69.72,77.72,7,9
+Ashoka Garden,Shahpura,5,0,0,99,7.18,107.16,162.73,1,10
+Shahpura,Lalghati,1,5,0,99,11.14,208.68,236.26,10,6
+Kolar,Airport,4,1,0,66,14.03,187.36,237.5,5,0
+Airport,Kolar,12,6,0,29,14.03,228.36,214.36,0,5
+Lalghati,Kolar,0,6,1,92,11.53,149.36,279.58,6,5
+BHEL,Habibganj,5,3,1,64,8.25,146.0,196.0,2,3
+MP Nagar,New Market,2,3,1,95,3.82,72.84,134.74,7,8
+Habibganj,New Market,4,6,0,100,4.74,138.88,136.61,3,8
+Lalghati,New Market,15,1,1,35,5.76,156.12,142.32,6,8
+Shahpura,Indrapuri,5,6,1,94,6.89,169.68,205.69,10,4
+New Market,Lalghati,20,2,1,70,5.76,133.12,157.57,8,6
+Lalghati,Ashoka Garden,21,0,0,78,4.78,98.36,113.14,6,1
+Shahpura,Airport,4,4,1,76,14.75,253.0,311.0,10,0
+Ashoka Garden,New Market,17,3,1,66,4.99,129.88,145.83,1,8
+Lalghati,Ashoka Garden,9,6,0,73,4.78,75.36,108.54,6,1
+BHEL,Indrapuri,18,0,1,80,1.57,53.84,81.38,2,4
+Indrapuri,New Market,8,2,1,69,10.37,138.44,225.02,4,8
+Shahpura,Airport,18,0,1,56,14.75,255.0,311.4,10,0
+Railway Station,Kolar,3,3,0,68,8.59,147.08,166.77,9,5
+Ashoka Garden,Habibganj,5,5,1,62,5.07,99.84,140.98,1,3
+Indrapuri,Airport,11,1,0,43,15.69,219.28,226.48,4,0
+Kolar,New Market,9,6,1,27,5.79,134.48,136.38,5,8
+Indrapuri,Shahpura,15,3,1,99,6.89,134.68,198.69,4,10
+Lalghati,BHEL,6,2,1,92,12.5,232.0,312.4,6,2
+Kolar,BHEL,7,1,1,94,13.11,201.32,316.51,5,2
+Shahpura,Ashoka Garden,14,0,1,82,7.18,96.16,195.86,10,1
+New Market,Lalghati,11,4,1,100,5.76,82.12,169.19,8,6
+Railway Station,BHEL,3,3,0,37,8.71,166.52,151.12,9,2
+MP Nagar,Kolar,15,3,0,51,5.82,134.84,132.72,7,5
+Kolar,Lalghati,11,0,1,27,11.53,201.36,218.63,5,6
+Indrapuri,Shahpura,3,0,1,82,6.89,108.68,193.49,4,10
+New Market,Indrapuri,14,3,1,97,10.37,139.44,258.1,8,4
+Kolar,New Market,17,2,0,40,5.79,97.48,107.08,5,8
+Airport,Habibganj,1,3,1,88,12.53,208.36,308.18,0,3
+New Market,BHEL,14,5,0,98,11.86,192.32,242.66,8,2
+Airport,Habibganj,19,3,0,98,12.53,205.36,254.28,0,3
+Kolar,Indrapuri,7,2,1,98,11.56,185.72,287.35,5,4
+BHEL,Kolar,5,0,0,64,13.11,187.32,226.89,2,5
+Airport,Ashoka Garden,4,2,0,89,8.99,121.88,190.0,0,1
+New Market,MP Nagar,21,4,0,100,3.82,76.84,111.51,8,7
+Ashoka Garden,Railway Station,20,3,1,96,0.98,82.76,89.02,1,9
+BHEL,Indrapuri,21,2,0,55,1.57,49.84,66.45,2,4
+Lalghati,Kolar,15,4,1,98,11.53,196.36,288.98,6,5
+New Market,Airport,3,5,0,51,8.43,166.16,168.75,8,0
+Indrapuri,Kolar,18,6,0,52,11.56,151.72,201.92,4,5
+Lalghati,Indrapuri,1,6,0,96,11.44,186.28,235.81,6,4
+Indrapuri,New Market,8,1,0,47,10.37,136.44,158.84,4,8
+New Market,Lalghati,20,2,0,99,5.76,132.12,148.64,8,6
+MP Nagar,BHEL,13,6,1,81,8.3,130.6,221.56,7,2
+Habibganj,MP Nagar,10,4,1,25,1.42,59.04,68.85,3,7
+Kolar,Indrapuri,11,0,1,71,11.56,183.72,251.21,5,4
+New Market,Habibganj,6,2,1,33,4.74,87.88,114.46,8,3
+New Market,Railway Station,6,6,1,82,4.02,67.24,136.98,8,9
+Lalghati,Habibganj,3,0,0,74,8.88,145.56,169.81,6,3
+Habibganj,BHEL,5,6,0,85,8.25,149.0,185.48,3,2
+Shahpura,New Market,8,6,1,75,6.72,159.64,176.7,10,8
+MP Nagar,New Market,12,1,1,33,3.82,75.84,101.01,7,8
+BHEL,Lalghati,5,3,0,85,12.5,218.0,256.4,2,6
+Shahpura,Ashoka Garden,6,5,1,63,7.18,156.16,182.62,10,1
+BHEL,Ashoka Garden,20,1,1,23,7.96,154.52,166.42,2,1
+Habibganj,Kolar,20,6,0,78,5.08,88.96,114.71,3,5
+Shahpura,Ashoka Garden,5,3,1,34,7.18,116.16,149.39,10,1
+Habibganj,Kolar,22,4,0,31,5.08,93.96,99.56,3,5
+New Market,Kolar,10,3,0,77,5.79,121.48,129.4,8,5
+Railway Station,Habibganj,1,1,1,81,4.71,83.52,151.83,9,3
+Airport,BHEL,6,3,0,27,16.74,276.88,251.68,0,2
+MP Nagar,New Market,3,2,1,97,3.82,66.84,133.54,7,8
+Ashoka Garden,BHEL,12,4,1,84,7.96,112.52,212.23,1,2
+Ashoka Garden,Habibganj,14,4,1,97,5.07,150.84,171.34,1,3
+MP Nagar,Shahpura,23,2,0,40,3.67,57.04,78.64,7,10
+Habibganj,BHEL,8,0,0,97,8.25,112.0,178.08,3,2
+Ashoka Garden,Kolar,15,6,0,57,9.32,172.84,180.33,1,5
+Railway Station,Ashoka Garden,17,0,1,65,0.98,85.76,80.08,9,1
+Shahpura,Indrapuri,3,5,1,67,6.89,148.68,176.95,10,4
+Habibganj,Kolar,17,0,0,71,5.08,84.96,113.91,3,5
+Habibganj,Ashoka Garden,10,1,1,20,5.07,142.84,131.09,3,1
+Ashoka Garden,New Market,17,1,1,75,4.99,135.88,147.03,1,8
+Ashoka Garden,BHEL,14,5,1,74,7.96,156.52,193.93,1,2
+MP Nagar,Kolar,16,1,1,68,5.82,102.84,152.38,7,5
+Shahpura,BHEL,23,4,1,95,8.38,142.56,225.3,10,2
+Airport,Railway Station,3,5,0,23,8.55,168.6,150.4,0,9
+MP Nagar,Ashoka Garden,16,5,0,97,3.76,109.12,117.16,7,1
+MP Nagar,New Market,17,3,1,82,3.82,76.84,135.54,7,8
+Ashoka Garden,Airport,6,4,1,70,8.99,150.88,207.63,1,0
+Railway Station,Airport,12,6,0,51,8.55,189.6,176.66,9,0
+Railway Station,Habibganj,4,3,1,22,4.71,124.52,121.81,9,3
+BHEL,Shahpura,5,0,0,34,8.38,135.56,139.56,2,10
+Kolar,Indrapuri,16,6,0,79,11.56,169.72,205.52,5,4
+Indrapuri,Ashoka Garden,1,1,1,43,6.76,98.12,140.74,4,1
+MP Nagar,Kolar,2,3,0,81,5.82,125.84,148.19,7,5
+New Market,Lalghati,16,4,1,57,5.76,80.12,146.97,8,6
+Railway Station,BHEL,4,2,1,49,8.71,144.52,173.42,9,2
+Lalghati,BHEL,3,2,0,98,12.5,197.0,252.2,6,2
+MP Nagar,BHEL,13,4,0,67,8.3,186.6,173.24,7,2
+Railway Station,New Market,8,4,1,45,4.02,122.24,113.88,9,8
+MP Nagar,Railway Station,22,5,1,45,3.31,110.72,102.97,7,9
+Airport,Indrapuri,23,5,1,48,15.69,254.28,279.14,0,4
+Indrapuri,Ashoka Garden,12,0,0,82,6.76,165.12,168.68,4,1
+Railway Station,Shahpura,3,0,1,31,6.92,118.04,146.65,9,10
+New Market,Ashoka Garden,7,5,1,51,4.99,146.88,149.23,8,1
+Airport,MP Nagar,4,1,0,83,11.19,144.28,224.05,0,7
+Railway Station,Indrapuri,1,6,1,69,7.42,168.04,188.46,9,4
+Airport,MP Nagar,21,0,1,54,11.19,213.28,251.79,0,7
+Kolar,BHEL,23,3,1,80,13.11,194.32,275.65,5,2
+MP Nagar,BHEL,11,5,0,62,8.3,170.6,168.44,7,2
+Indrapuri,Railway Station,15,0,0,95,7.42,166.04,177.73,4,9
+Indrapuri,MP Nagar,11,0,1,43,6.76,111.12,143.34,4,7
+Lalghati,Kolar,5,1,1,75,11.53,203.36,254.7,6,5
+Habibganj,Kolar,7,3,1,21,5.08,130.96,127.63,3,5
+BHEL,Kolar,4,5,1,49,13.11,196.32,236.58,2,5
+Railway Station,Ashoka Garden,11,6,1,86,0.98,76.76,87.82,9,1
+Airport,Railway Station,7,1,1,94,8.55,141.6,227.96,0,9
+Habibganj,Kolar,13,4,0,65,5.08,88.96,114.71,3,5
+Railway Station,Airport,13,1,1,74,8.55,152.6,201.64,9,0
+Habibganj,Shahpura,19,0,1,32,2.26,72.12,81.54,3,10
+Railway Station,Kolar,18,1,0,34,8.59,171.08,151.48,9,5
+Airport,Indrapuri,5,1,1,100,15.69,256.28,370.85,0,4
+BHEL,Habibganj,10,6,1,61,8.25,130.0,192.8,2,3
+Lalghati,Habibganj,3,6,1,25,8.88,164.56,179.47,6,3
+Lalghati,Indrapuri,17,3,1,62,11.44,213.28,255.39,6,4
+Lalghati,Airport,6,5,0,55,4.25,76.0,102.56,6,0
+Lalghati,MP Nagar,7,4,0,85,7.47,151.64,175.52,6,7
+Lalghati,Shahpura,3,1,1,87,11.14,179.68,279.09,6,10
+MP Nagar,Habibganj,7,3,0,80,1.42,54.04,65.57,7,3
+Lalghati,Habibganj,2,5,0,42,8.88,186.56,158.56,6,3
+MP Nagar,Airport,22,5,0,97,11.19,204.28,236.05,7,0
+New Market,Shahpura,23,2,1,59,6.72,119.64,168.7,8,10
+Airport,Kolar,0,0,0,43,14.03,197.36,206.16,0,5
+Indrapuri,MP Nagar,3,2,0,38,6.76,146.12,128.62,4,7
+Indrapuri,Airport,23,4,1,60,15.69,223.28,318.59,4,0
+Airport,BHEL,4,4,1,64,16.74,287.88,346.63,0,2
+Indrapuri,Ashoka Garden,15,3,1,57,6.76,126.12,170.57,4,1
+Habibganj,Lalghati,12,6,0,90,8.88,171.56,198.46,3,6
+BHEL,Kolar,22,5,0,33,13.11,214.32,202.42,2,5
+Indrapuri,Kolar,20,6,1,94,11.56,174.72,285.15,4,5
+MP Nagar,Railway Station,12,5,0,70,3.31,72.72,91.08,7,9
+Airport,MP Nagar,1,1,1,100,11.19,165.28,277.05,0,7
+Indrapuri,Lalghati,9,4,1,65,11.44,201.28,252.99,4,6
+Ashoka Garden,Habibganj,13,4,0,44,5.07,73.84,95.44,1,3
+BHEL,MP Nagar,4,2,0,100,8.3,140.6,184.47,2,7
+Ashoka Garden,Indrapuri,13,1,0,96,6.76,97.12,155.08,1,4
+Shahpura,Railway Station,21,0,1,44,6.92,141.04,151.25,10,9
+Ashoka Garden,Airport,3,1,0,35,8.99,158.88,151.18,1,0
+Airport,Ashoka Garden,11,3,1,62,8.99,193.88,216.23,0,1
+Habibganj,Shahpura,8,2,0,33,2.26,52.12,64.12,3,10
+Kolar,Railway Station,0,4,0,33,8.59,193.08,158.08,5,9
+Railway Station,Habibganj,16,4,1,44,4.71,79.52,112.42,9,3
+Railway Station,Airport,9,5,1,28,8.55,176.6,177.92,9,0
+Ashoka Garden,New Market,16,0,1,21,4.99,76.88,115.26,1,8
+Railway Station,MP Nagar,8,2,1,51,3.31,63.72,108.41,9,7
+Indrapuri,New Market,13,3,0,53,10.37,204.44,199.46,4,8
+Shahpura,Ashoka Garden,10,0,1,94,7.18,104.16,197.46,10,1
+Habibganj,Ashoka Garden,17,4,1,61,5.07,118.84,144.78,3,1
+Lalghati,Indrapuri,10,1,0,96,11.44,164.28,231.41,6,4
+Kolar,Ashoka Garden,7,6,0,78,9.32,128.84,171.53,5,1
+MP Nagar,Railway Station,9,2,0,59,3.31,57.72,88.08,7,9
+Ashoka Garden,Railway Station,6,3,0,60,0.98,75.76,66.21,1,9
+Airport,BHEL,9,6,1,64,16.74,230.88,335.23,0,2
+Habibganj,MP Nagar,6,0,1,30,1.42,29.04,62.85,3,7
+MP Nagar,Ashoka Garden,15,0,0,63,3.76,107.12,103.64,7,1
+MP Nagar,Indrapuri,12,1,0,95,6.76,115.12,158.68,7,4
+Habibganj,Airport,16,5,1,67,12.53,213.36,271.1,3,0
+Airport,MP Nagar,6,4,1,98,11.19,206.28,285.25,0,7
+MP Nagar,Habibganj,8,6,0,37,1.42,68.04,60.34,7,3
+Airport,MP Nagar,20,2,1,30,11.19,173.28,208.94,0,7
+Ashoka Garden,Shahpura,5,2,1,88,7.18,112.16,199.06,1,10
+Railway Station,BHEL,17,2,0,52,8.71,119.52,162.64,9,2
+Ashoka Garden,New Market,15,5,0,49,4.99,130.88,109.18,1,8
+Shahpura,MP Nagar,19,3,1,88,3.67,130.04,143.66,10,7
+Airport,Habibganj,13,5,0,97,12.53,235.36,260.28,0,3
+Indrapuri,Lalghati,15,5,0,39,11.44,195.28,182.68,4,6
+Railway Station,Habibganj,10,0,1,88,4.71,120.52,159.23,9,3
+Habibganj,Shahpura,10,6,1,26,2.26,94.12,86.97,3,10
+Airport,New Market,11,2,1,83,8.43,113.16,220.26,0,8
+Shahpura,MP Nagar,19,3,0,51,3.67,104.04,101.81,10,7
+New Market,Habibganj,18,3,1,76,4.74,86.88,133.63,8,3
+BHEL,Railway Station,9,0,0,35,8.71,151.52,146.62,2,9
+Lalghati,Indrapuri,0,1,1,72,11.44,179.28,248.59,6,4
+Lalghati,Ashoka Garden,19,5,0,96,4.78,107.36,130.52,6,1
+Kolar,Indrapuri,21,1,1,53,11.56,221.72,258.81,5,4
+MP Nagar,Railway Station,3,4,1,68,3.31,61.72,108.01,7,9
+Shahpura,Kolar,22,1,0,85,4.91,101.92,131.17,10,5
+Kolar,New Market,6,0,1,94,5.79,126.48,178.57,5,8
+Railway Station,MP Nagar,21,2,0,55,3.31,83.72,93.28,9,7
+Lalghati,Railway Station,18,4,0,95,4.47,110.64,127.0,6,9
+Ashoka Garden,Lalghati,7,6,1,32,4.78,69.36,111.23,1,6
+BHEL,Airport,2,4,0,97,16.74,277.88,325.36,2,0
+Airport,Railway Station,23,4,1,60,8.55,149.6,201.04,0,9
+Lalghati,Airport,18,5,0,22,4.25,69.0,86.6,6,0
+Railway Station,Ashoka Garden,20,1,0,68,0.98,82.76,68.31,9,1
+BHEL,Airport,21,0,1,91,16.74,255.88,388.41,2,0
+Airport,Kolar,12,1,0,59,14.03,224.36,244.9,0,5
+BHEL,Habibganj,8,4,0,55,8.25,128.0,159.04,2,3
+New Market,Railway Station,4,3,0,54,4.02,133.24,114.09,8,9
+New Market,Railway Station,14,0,0,24,4.02,82.24,87.04,8,9
+Kolar,Railway Station,14,3,0,92,8.59,135.08,187.27,5,9
+BHEL,MP Nagar,17,1,1,24,8.3,173.6,174.32,2,7
+Indrapuri,Railway Station,21,2,1,65,7.42,102.04,175.26,4,9
+Ashoka Garden,New Market,22,5,0,53,4.99,129.88,122.86,1,8
+Habibganj,Lalghati,11,1,0,99,8.88,129.56,190.06,3,6
+Lalghati,New Market,7,4,1,41,5.76,142.12,138.12,6,8
+Lalghati,New Market,13,0,1,39,5.76,139.12,137.22,6,8
+Ashoka Garden,Indrapuri,8,1,0,65,6.76,138.12,143.9,1,4
+Ashoka Garden,Airport,11,0,0,69,8.99,187.88,180.58,1,0
+Airport,Lalghati,4,6,0,42,4.25,125.0,101.2,0,6
+Shahpura,BHEL,20,2,1,48,8.38,117.56,164.07,10,2
+Shahpura,Kolar,2,6,1,81,4.91,82.92,155.07,10,5
+Shahpura,Kolar,23,5,1,25,4.91,94.92,117.9,10,5
+MP Nagar,Shahpura,22,6,0,79,3.67,70.04,94.69,7,10
+Kolar,Habibganj,12,0,0,59,5.08,82.96,113.51,5,3
+Ashoka Garden,Lalghati,23,3,1,63,4.78,75.36,131.9,1,6
+BHEL,Habibganj,14,1,0,80,8.25,183.0,171.66,2,3
+Indrapuri,BHEL,1,1,1,40,1.57,86.84,77.54,4,2
+Airport,Shahpura,9,2,0,20,14.75,227.0,220.0,0,10
+Airport,Kolar,21,0,0,62,14.03,180.36,236.1,0,5
+Railway Station,Kolar,19,1,1,85,8.59,124.08,225.13,9,5
+BHEL,Kolar,0,2,1,51,13.11,237.32,284.25,2,5
+Airport,Shahpura,15,6,0,71,14.75,200.0,248.32,0,10
+MP Nagar,BHEL,15,3,1,84,8.3,154.6,226.36,7,2
+Lalghati,Habibganj,5,2,1,76,8.88,118.56,199.58,6,3
+MP Nagar,Ashoka Garden,15,6,1,42,3.76,78.12,100.74,7,1
+New Market,Lalghati,11,3,1,88,5.76,121.12,176.99,8,6
+Kolar,Airport,12,1,1,40,14.03,231.36,254.63,5,0
+Shahpura,Indrapuri,15,0,1,27,6.89,129.68,148.62,10,4
+MP Nagar,Railway Station,22,3,0,46,3.31,116.72,90.82,7,9
+Kolar,BHEL,13,6,0,51,13.11,200.32,229.49,5,2
+BHEL,Kolar,20,0,1,95,13.11,222.32,320.71,2,5
+Indrapuri,New Market,9,6,1,23,10.37,208.44,206.42,4,8
+MP Nagar,Lalghati,19,6,0,54,7.47,148.64,154.18,7,6
+New Market,MP Nagar,16,0,0,67,3.82,113.84,106.26,8,7
+Habibganj,BHEL,9,2,0,38,8.25,137.0,138.6,3,2
+Airport,Kolar,15,5,0,20,14.03,214.36,210.16,0,5
+Indrapuri,Kolar,11,5,1,61,11.56,196.72,253.81,4,5
+Airport,Railway Station,13,3,1,73,8.55,157.6,202.64,0,9
+New Market,Ashoka Garden,16,2,0,25,4.99,90.88,98.08,8,1
+Ashoka Garden,Kolar,9,2,0,86,9.32,154.84,201.03,1,5
+Habibganj,BHEL,1,6,0,68,8.25,150.0,163.44,3,2
+Airport,Shahpura,12,3,0,65,14.75,233.0,254.92,0,10
+New Market,Railway Station,7,0,0,31,4.02,116.24,96.64,8,9
+MP Nagar,Lalghati,8,4,0,50,7.47,143.64,133.84,7,6
+Airport,MP Nagar,19,3,1,90,11.19,171.28,278.25,0,7
+Lalghati,Indrapuri,17,2,0,71,11.44,205.28,211.24,6,4
+Railway Station,Habibganj,10,0,1,81,4.71,134.52,162.03,9,3
+Habibganj,BHEL,16,3,1,25,8.25,159.0,170.8,3,2
+Indrapuri,Habibganj,9,4,1,73,6.68,133.16,170.82,4,3
+Habibganj,Kolar,10,0,0,61,5.08,144.96,128.29,3,5
+Habibganj,New Market,6,1,0,63,4.74,98.88,112.78,3,8
+Ashoka Garden,New Market,7,3,0,68,4.99,102.88,116.46,1,8
+Shahpura,Lalghati,10,5,0,99,11.14,144.68,223.46,10,6
+New Market,Airport,1,6,1,76,8.43,170.16,203.42,8,0
+Railway Station,Kolar,2,6,1,91,8.59,169.08,234.13,9,5
+Lalghati,BHEL,3,1,1,73,12.5,232.0,274.4,6,2
+BHEL,Habibganj,4,1,0,76,8.25,168.0,167.16,2,3
+BHEL,Ashoka Garden,17,5,1,74,7.96,108.52,184.33,2,1
+Kolar,Airport,4,1,0,87,14.03,202.36,273.84,5,0
+Ashoka Garden,Habibganj,16,2,0,60,5.07,143.84,127.86,1,3
+Ashoka Garden,Kolar,6,6,1,29,9.32,171.84,186.21,1,5
+Ashoka Garden,Shahpura,16,6,0,97,7.18,143.16,169.93,1,10
+Lalghati,BHEL,15,5,1,81,12.5,222.0,310.4,6,2
+New Market,Habibganj,11,1,0,75,4.74,111.88,115.38,8,3
+Shahpura,MP Nagar,19,6,0,54,3.67,100.04,100.69,10,7
+Shahpura,Habibganj,0,0,0,68,2.26,117.12,91.52,10,3
+Airport,New Market,7,6,0,37,8.43,181.16,153.16,0,8
+MP Nagar,Railway Station,4,0,1,86,3.31,94.72,130.55,7,9
+Shahpura,BHEL,9,1,0,30,8.38,128.56,138.16,10,2
+Ashoka Garden,Kolar,8,0,1,87,9.32,185.84,249.74,1,5
+New Market,Ashoka Garden,16,2,1,45,4.99,75.88,115.06,8,1
+Ashoka Garden,Railway Station,20,6,0,58,0.98,70.76,64.71,1,9
+MP Nagar,Habibganj,17,4,0,50,1.42,30.04,51.64,7,3
+Ashoka Garden,Railway Station,0,0,1,74,0.98,86.76,80.38,1,9
+BHEL,Kolar,17,6,0,89,13.11,203.32,261.66,2,5
+MP Nagar,Airport,21,3,1,94,11.19,186.28,281.25,7,0
+Ashoka Garden,Habibganj,3,4,1,41,5.07,140.84,130.49,1,3
+Ashoka Garden,Airport,20,6,1,78,8.99,154.88,208.43,1,0
+Airport,Shahpura,19,0,1,74,14.75,236.0,307.6,0,10
+Indrapuri,Shahpura,12,2,0,91,6.89,167.68,170.94,4,10
+Indrapuri,Airport,13,0,0,22,15.69,227.28,228.08,4,0
+MP Nagar,Kolar,14,0,1,83,5.82,86.84,171.14,7,5
+BHEL,Airport,7,0,0,75,16.74,242.88,279.82,2,0
+Kolar,Airport,17,6,0,62,14.03,236.36,247.3,5,0
+Airport,Shahpura,23,0,1,48,14.75,197.0,256.4,0,10
+Kolar,MP Nagar,13,2,1,41,5.82,119.84,133.81,5,7
+Indrapuri,Shahpura,0,1,0,45,6.89,152.68,131.68,4,10
+MP Nagar,Shahpura,12,2,0,69,3.67,98.04,100.29,7,10
+BHEL,MP Nagar,6,5,1,95,8.3,185.6,232.56,2,7
+Railway Station,Lalghati,16,3,0,45,4.47,136.64,106.54,9,6
+Lalghati,New Market,0,1,0,40,5.76,139.12,118.12,6,8
+Shahpura,Airport,2,1,0,95,14.75,226.0,288.24,10,0
+Indrapuri,New Market,16,5,0,55,10.37,202.44,198.86,4,8
+Shahpura,Indrapuri,11,0,1,41,6.89,105.68,143.82,10,4
+Lalghati,Airport,3,1,1,99,4.25,88.0,145.0,6,0
+Ashoka Garden,Railway Station,21,3,1,52,0.98,53.76,72.86,1,9
+Airport,Ashoka Garden,14,0,1,92,8.99,174.88,242.01,0,1
+BHEL,Airport,20,3,0,55,16.74,218.88,275.02,2,0
+New Market,BHEL,9,4,0,31,11.86,182.32,182.32,8,2
+Shahpura,Habibganj,0,1,0,31,2.26,52.12,64.12,10,3
+Airport,Kolar,8,1,0,78,14.03,245.36,249.1,0,5
+New Market,MP Nagar,8,1,1,71,3.82,116.84,126.38,8,7
+Habibganj,Railway Station,10,5,1,77,4.71,89.52,133.73,3,9
+Ashoka Garden,BHEL,2,2,1,75,7.96,168.52,196.33,1,2
+MP Nagar,Habibganj,21,3,0,60,1.42,96.04,76.73,7,3
+MP Nagar,Shahpura,23,1,0,71,3.67,125.04,108.11,7,10
+Lalghati,Airport,12,6,1,30,4.25,81.0,107.2,6,0
+Lalghati,Airport,21,3,1,26,4.25,116.0,114.42,6,0
+Habibganj,Kolar,13,4,1,88,5.08,102.96,161.94,3,5
+BHEL,Habibganj,7,4,0,60,8.25,113.0,156.04,2,3
+Shahpura,Ashoka Garden,15,6,0,30,7.18,162.16,136.96,10,1
+Railway Station,Shahpura,13,0,0,94,6.92,99.04,157.61,9,10
+MP Nagar,Airport,19,4,1,47,11.19,145.28,203.34,7,0
+BHEL,Ashoka Garden,4,6,0,24,7.96,164.52,144.22,2,1
+MP Nagar,Habibganj,19,2,0,100,1.42,82.04,80.51,7,3
+Ashoka Garden,Habibganj,8,2,0,94,5.07,121.84,137.31,1,3
+New Market,Indrapuri,14,2,0,75,10.37,193.44,196.55,8,4
+Indrapuri,Kolar,23,3,0,54,11.56,222.72,216.94,4,5
+Habibganj,Airport,14,0,1,55,12.53,163.36,261.1,3,0
+Indrapuri,Lalghati,0,6,0,51,11.44,192.28,208.64,4,6
+Kolar,Indrapuri,11,4,0,29,11.56,211.72,188.62,5,4
+New Market,Shahpura,17,6,1,27,6.72,126.64,145.97,8,10
+Shahpura,Railway Station,4,2,0,80,6.92,155.04,149.87,10,9
+Lalghati,Railway Station,2,2,0,95,4.47,64.64,117.8,6,9
+Ashoka Garden,Railway Station,8,1,1,65,0.98,49.76,72.06,1,9
+Lalghati,New Market,7,3,0,54,5.76,158.12,139.1,6,8
+Ashoka Garden,Indrapuri,17,3,0,32,6.76,146.12,128.62,1,4
+Habibganj,Indrapuri,7,6,0,29,6.68,170.16,135.16,3,4
+Airport,Habibganj,6,0,1,22,12.53,186.36,227.63,0,3
+New Market,BHEL,13,6,0,25,11.86,220.32,193.72,8,2
+Ashoka Garden,Kolar,2,0,1,65,9.32,147.84,211.78,1,5
+New Market,Indrapuri,15,2,0,36,10.37,150.44,161.64,8,4
+Airport,Ashoka Garden,5,0,1,26,8.99,121.88,172.26,0,1
+MP Nagar,BHEL,6,4,1,54,8.3,153.6,198.24,7,2
+Airport,New Market,16,3,0,23,8.43,158.16,146.26,0,8
+Kolar,MP Nagar,8,1,0,25,5.82,108.84,109.64,5,7
+Lalghati,Railway Station,15,3,0,64,4.47,109.64,111.82,6,9
+Ashoka Garden,Habibganj,8,0,1,42,5.07,84.84,117.81,1,3
+Lalghati,Shahpura,21,5,1,63,11.14,213.68,251.15,6,10
+MP Nagar,Lalghati,10,2,0,30,7.47,112.64,126.24,7,6
+Railway Station,New Market,12,2,0,73,4.02,95.24,103.76,9,8
+Lalghati,Railway Station,3,3,0,25,4.47,120.64,101.74,6,9
+Shahpura,New Market,5,3,1,97,6.72,96.64,188.22,10,8
+MP Nagar,Indrapuri,12,5,0,56,6.76,168.12,152.18,7,4
+Airport,Habibganj,18,0,1,98,12.53,229.36,312.38,0,3
+Shahpura,MP Nagar,21,2,0,85,3.67,120.04,118.37,10,7
+Shahpura,Lalghati,21,6,0,32,11.14,209.68,184.48,10,6
+MP Nagar,Railway Station,13,1,0,88,3.31,100.72,109.43,7,9
+Airport,Habibganj,2,5,1,24,12.53,166.36,223.63,0,3
+BHEL,Airport,1,0,1,35,16.74,251.88,291.26,2,0
+Railway Station,Lalghati,9,1,1,37,4.47,66.64,106.97,9,6
+New Market,Indrapuri,8,1,1,57,10.37,208.44,239.02,8,4
+Lalghati,Airport,23,0,0,39,4.25,92.0,91.3,6,0
+Shahpura,Indrapuri,19,3,1,73,6.89,166.68,180.55,10,4
+Railway Station,Lalghati,2,4,0,79,4.47,69.64,103.82,9,6
+Kolar,Shahpura,16,5,0,73,4.91,93.92,113.75,5,10
+Airport,Railway Station,21,0,1,100,8.55,137.6,227.16,0,9
+Shahpura,Habibganj,5,4,1,68,2.26,45.12,89.57,10,3
+Indrapuri,Shahpura,0,5,1,95,6.89,92.68,190.29,4,10
+Habibganj,Shahpura,22,0,0,89,2.26,79.12,91.0,3,10
+BHEL,Habibganj,20,4,1,23,8.25,188.0,178.03,2,3
+BHEL,Habibganj,3,3,0,53,8.25,163.0,166.04,2,3
+New Market,Shahpura,2,3,1,92,6.72,117.64,192.42,8,10
+Habibganj,New Market,8,2,0,43,4.74,70.88,91.68,3,8
+Kolar,Shahpura,0,3,1,65,4.91,99.92,138.69,5,10
+Ashoka Garden,Railway Station,13,2,1,59,0.98,25.76,67.26,1,9
+Ashoka Garden,Kolar,8,5,0,32,9.32,160.84,154.54,1,5
+Railway Station,Ashoka Garden,18,2,0,91,0.98,90.76,77.95,9,1
+BHEL,Shahpura,3,3,1,70,8.38,189.56,206.58,2,10
+BHEL,Indrapuri,9,5,0,36,1.57,83.84,66.34,2,4
+Indrapuri,Airport,2,1,0,39,15.69,237.28,230.98,4,0
+Airport,New Market,7,6,0,54,8.43,160.16,167.55,0,8
+Shahpura,New Market,11,1,0,47,6.72,109.64,118.44,10,8
+MP Nagar,New Market,1,3,0,80,3.82,69.84,96.37,7,8
+Indrapuri,Airport,13,4,0,70,15.69,247.28,268.6,4,0
+Kolar,Habibganj,15,6,0,88,5.08,86.96,130.47,5,3
+Kolar,MP Nagar,6,0,1,84,5.82,140.84,181.94,5,7
+Shahpura,BHEL,0,5,0,57,8.38,143.56,163.65,10,2
+Shahpura,New Market,3,0,0,82,6.72,107.64,156.64,10,8
+Railway Station,Shahpura,20,6,1,64,6.92,116.04,170.86,9,10
+Lalghati,Shahpura,11,4,0,23,11.14,180.68,175.78,6,10
+Habibganj,New Market,22,3,1,46,4.74,123.88,121.93,3,8
+Shahpura,Indrapuri,12,1,0,69,6.89,126.68,143.11,10,4
+Indrapuri,Kolar,22,4,1,83,11.56,187.72,287.75,4,5
+Airport,Indrapuri,13,1,1,91,15.69,253.28,370.25,0,4
+MP Nagar,Railway Station,15,5,1,98,3.31,88.72,129.35,7,9
+Indrapuri,MP Nagar,18,5,1,20,6.76,93.12,139.74,4,7
+BHEL,New Market,3,1,0,38,11.86,183.32,182.62,2,8
+Ashoka Garden,Railway Station,18,2,0,65,0.98,83.76,68.61,1,9
+BHEL,MP Nagar,13,2,0,73,8.3,167.6,167.54,2,7
+Indrapuri,BHEL,8,0,1,93,1.57,98.84,102.14,4,2
+MP Nagar,Shahpura,15,4,1,41,3.67,77.04,99.45,7,10
+Lalghati,Shahpura,21,4,1,99,11.14,151.68,273.49,6,10
+BHEL,MP Nagar,16,3,1,49,8.3,159.6,171.52,2,7
+Kolar,Airport,9,3,1,59,14.03,254.36,300.9,5,0
+Habibganj,MP Nagar,16,4,1,31,1.42,47.04,66.45,3,7
+Lalghati,Shahpura,13,4,1,71,11.14,171.68,242.75,6,10
+BHEL,Habibganj,9,3,0,79,8.25,175.0,169.26,2,3
+Indrapuri,Airport,14,5,0,49,15.69,213.28,225.28,4,0
+New Market,Indrapuri,23,2,1,33,10.37,175.44,199.53,8,4
+Habibganj,Lalghati,3,6,1,71,8.88,123.56,200.58,3,6
+Kolar,Airport,10,6,1,26,14.03,240.36,256.43,5,0
+Ashoka Garden,Airport,8,4,0,51,8.99,126.88,167.34,1,0
+Lalghati,Habibganj,15,6,1,51,8.88,132.56,202.38,6,3
+Ashoka Garden,Railway Station,12,0,0,95,0.98,32.76,64.52,1,9
+Lalghati,Indrapuri,12,6,0,45,11.44,223.28,191.08,6,4
+New Market,MP Nagar,6,3,0,34,3.82,79.84,84.64,8,7
+Kolar,Airport,20,3,1,88,14.03,187.36,329.18,5,0
+Lalghati,New Market,2,5,0,87,5.76,144.12,151.04,6,8
+MP Nagar,Lalghati,9,0,1,43,7.47,157.64,161.17,7,6
+Shahpura,Lalghati,2,5,1,96,11.14,218.68,286.89,10,6
+Indrapuri,BHEL,0,1,1,54,1.57,37.84,78.18,4,2
+Indrapuri,Habibganj,15,6,0,80,6.68,168.16,151.38,4,3
+Kolar,Shahpura,14,0,1,26,4.91,137.92,127.93,5,10
+Habibganj,Airport,17,0,1,54,12.53,195.36,267.5,3,0
+New Market,Airport,22,3,1,44,8.43,135.16,168.19,8,0
+Airport,Ashoka Garden,18,6,0,49,8.99,154.88,149.98,0,1
+Kolar,Railway Station,2,5,1,57,8.59,158.08,203.31,5,9
+Airport,Ashoka Garden,4,2,1,41,8.99,162.88,180.46,0,1
+Airport,Indrapuri,1,5,0,21,15.69,270.28,240.88,0,4
+Shahpura,Airport,21,4,1,89,14.75,187.0,341.2,10,0
+Railway Station,Kolar,15,4,1,64,8.59,131.08,197.91,9,5
+Railway Station,Indrapuri,0,1,1,48,7.42,165.04,162.42,9,4
+Habibganj,Kolar,10,2,0,74,5.08,130.96,124.09,3,5
+Ashoka Garden,Shahpura,20,1,1,46,7.18,104.16,146.99,1,10
+Habibganj,MP Nagar,14,0,0,43,1.42,73.04,61.84,3,7
+BHEL,Lalghati,16,0,1,25,12.5,206.0,231.2,2,6
+BHEL,Lalghati,16,1,1,25,12.5,231.0,236.2,2,6
+Ashoka Garden,Lalghati,19,6,0,93,4.78,73.36,123.72,1,6
+Airport,Railway Station,17,2,1,74,8.55,175.6,206.24,0,9
+BHEL,MP Nagar,3,0,0,65,8.3,157.6,165.54,2,7
+Indrapuri,New Market,12,2,1,72,10.37,185.44,234.42,4,8
+New Market,BHEL,4,5,1,84,11.86,185.32,292.31,8,2
+Shahpura,New Market,3,0,1,74,6.72,137.64,172.3,10,8
+Indrapuri,Kolar,15,3,0,63,11.56,223.72,217.24,4,5
+Shahpura,Habibganj,5,5,1,58,2.26,64.12,93.37,10,3
+Lalghati,Kolar,23,4,0,77,11.53,225.36,217.43,6,5
+New Market,Railway Station,15,1,0,63,4.02,69.24,98.56,8,9
+Shahpura,Airport,10,6,1,92,14.75,207.0,345.2,10,0
+Indrapuri,Lalghati,12,3,0,57,11.44,163.28,202.84,4,6
+Lalghati,Habibganj,22,6,1,72,8.88,148.56,205.58,6,3
+Habibganj,Ashoka Garden,5,6,1,94,5.07,83.84,157.94,3,1
+Lalghati,Indrapuri,4,3,0,66,11.44,189.28,208.04,6,4
+Indrapuri,BHEL,6,3,0,32,1.57,84.84,66.64,4,2
+Habibganj,Shahpura,7,0,0,44,2.26,65.12,66.72,3,10
+Habibganj,New Market,5,3,0,72,4.74,73.88,107.78,3,8
+Kolar,Shahpura,14,3,1,93,4.91,90.92,156.67,5,10
+Railway Station,Ashoka Garden,16,3,0,51,0.98,100.76,73.71,9,1
+Airport,MP Nagar,21,5,0,77,11.19,174.28,202.16,0,7
+New Market,Kolar,18,4,1,21,5.79,147.48,140.04,8,5
+Kolar,Shahpura,7,4,0,64,4.91,97.92,114.55,5,10
+MP Nagar,BHEL,9,2,0,47,8.3,156.6,144.7,7,2
+MP Nagar,BHEL,19,3,0,88,8.3,112.6,178.87,7,2
+Habibganj,New Market,10,2,0,34,4.74,67.88,91.08,3,8
+BHEL,New Market,23,2,1,36,11.86,210.32,224.38,2,8
+Airport,Shahpura,13,2,0,36,14.75,247.0,226.0,0,10
+New Market,Shahpura,16,0,1,41,6.72,165.64,155.25,8,10
+Habibganj,Indrapuri,11,4,1,95,6.68,128.16,193.86,3,4
+Airport,Habibganj,14,6,0,93,12.53,176.36,248.48,0,3
+Railway Station,Kolar,17,5,1,95,8.59,122.08,224.73,9,5
+Shahpura,BHEL,13,5,0,60,8.38,151.56,165.25,10,2
+Ashoka Garden,Lalghati,9,0,1,57,4.78,117.36,140.3,1,6
+Railway Station,New Market,9,0,0,32,4.02,125.24,99.34,9,8
+MP Nagar,Airport,7,1,1,95,11.19,207.28,285.45,7,0
+Airport,BHEL,22,3,0,47,16.74,272.88,250.48,0,2
+BHEL,Kolar,2,0,0,65,13.11,230.32,235.49,2,5
+Kolar,Indrapuri,14,5,0,71,11.56,174.72,206.52,5,4
+Railway Station,Shahpura,20,2,1,77,6.92,152.04,178.06,9,10
+Ashoka Garden,Indrapuri,15,3,0,66,6.76,152.12,147.38,1,4
+New Market,BHEL,11,0,0,59,11.86,199.32,214.89,8,2
+Habibganj,BHEL,3,1,0,46,8.25,189.0,154.0,3,2
+Railway Station,MP Nagar,10,1,1,54,3.31,98.72,115.41,9,7
+Airport,Kolar,2,1,0,36,14.03,242.36,218.56,0,5
+Lalghati,MP Nagar,5,6,0,93,7.47,145.64,174.32,6,7
+Ashoka Garden,Railway Station,5,0,1,70,0.98,37.76,69.66,1,9
+Indrapuri,Ashoka Garden,18,3,1,31,6.76,160.12,154.02,4,1
+Ashoka Garden,MP Nagar,18,5,1,96,3.76,135.12,146.19,1,7
+Shahpura,Airport,11,4,0,30,14.75,260.0,229.9,10,0
+Ashoka Garden,Airport,4,6,0,76,8.99,171.88,176.34,1,0
+New Market,MP Nagar,7,6,1,65,3.82,91.84,121.38,8,7
+Lalghati,MP Nagar,19,0,1,99,7.47,131.64,207.82,6,7
+BHEL,MP Nagar,13,1,1,29,8.3,171.6,173.92,2,7
+MP Nagar,Lalghati,21,5,1,50,7.47,103.64,150.37,7,6
+Shahpura,Airport,4,1,1,51,14.75,231.0,306.6,10,0
+Habibganj,Airport,3,2,1,75,12.53,192.36,266.9,3,0
+Railway Station,BHEL,1,1,0,93,8.71,131.52,188.17,9,2
+MP Nagar,Lalghati,0,4,0,100,7.47,173.64,179.92,7,6
+Kolar,Railway Station,10,6,0,72,8.59,119.08,161.17,5,9
+Railway Station,New Market,21,2,0,34,4.02,62.24,83.04,9,8
+MP Nagar,New Market,3,3,1,81,3.82,81.84,136.54,7,8
+BHEL,MP Nagar,1,6,1,32,8.3,182.6,176.93,2,7
+Shahpura,Kolar,19,1,1,68,4.91,76.92,134.09,10,5
+Shahpura,Airport,12,6,1,33,14.75,247.0,266.4,10,0
+Ashoka Garden,Airport,18,4,1,21,8.99,196.88,188.46,1,0
+Habibganj,Railway Station,20,2,0,39,4.71,69.52,91.12,3,9
+MP Nagar,Railway Station,12,1,1,50,3.31,75.72,94.86,7,9
+BHEL,MP Nagar,10,4,0,76,8.3,147.6,163.54,2,7
+Shahpura,BHEL,15,1,1,79,8.38,178.56,204.38,10,2
+Railway Station,BHEL,16,6,0,44,8.71,185.52,156.82,9,2
+Habibganj,New Market,10,6,1,81,4.74,146.88,165.01,3,8
+MP Nagar,Indrapuri,13,1,0,78,6.76,110.12,138.3,7,4
+Lalghati,Railway Station,13,6,0,41,4.47,77.64,90.44,6,9
+MP Nagar,BHEL,13,2,0,57,8.3,145.6,163.14,7,2
+Airport,Ashoka Garden,22,1,1,24,8.99,132.88,174.46,0,1
+New Market,MP Nagar,13,0,0,59,3.82,86.84,99.77,8,7
+BHEL,Airport,11,1,1,87,16.74,230.88,383.41,2,0
+Ashoka Garden,Indrapuri,3,6,1,98,6.76,158.12,201.19,1,4
+Railway Station,MP Nagar,8,6,0,80,3.31,53.72,87.28,9,7
+Indrapuri,BHEL,0,2,0,68,1.57,39.84,64.45,4,2
+Lalghati,Shahpura,2,2,1,33,11.14,171.68,208.02,6,10
+Habibganj,Shahpura,23,0,0,85,2.26,47.12,84.6,3,10
+Habibganj,Kolar,22,2,0,71,5.08,84.96,113.91,3,5
+Railway Station,New Market,3,5,1,39,4.02,58.24,99.89,9,8
+New Market,Habibganj,10,3,1,61,4.74,109.88,138.23,8,3
+Airport,Ashoka Garden,18,3,1,63,8.99,120.88,201.63,0,1
+New Market,MP Nagar,3,2,0,95,3.82,115.84,119.31,8,7
+Shahpura,BHEL,19,2,1,66,8.38,144.56,197.58,10,2
+BHEL,Shahpura,13,1,0,28,8.38,152.56,144.16,2,10
+BHEL,Kolar,14,3,1,20,13.11,187.32,234.78,2,5
+Indrapuri,Habibganj,4,6,1,85,6.68,162.16,200.66,4,3
+Indrapuri,Habibganj,23,4,1,37,6.68,165.16,154.69,4,3
+Lalghati,BHEL,23,3,1,23,12.5,194.0,228.8,6,2
+Airport,New Market,6,6,0,39,8.43,179.16,152.56,0,8
+MP Nagar,Kolar,10,2,1,86,5.82,86.84,171.14,7,5
+Lalghati,New Market,7,6,1,64,5.76,91.12,149.17,6,8
+Shahpura,MP Nagar,13,3,0,22,3.67,82.04,83.64,10,7
+Lalghati,Shahpura,15,4,1,70,11.14,186.68,245.75,6,10
+Indrapuri,BHEL,20,2,0,21,1.57,88.84,67.84,4,2
+Habibganj,BHEL,13,6,1,29,8.25,123.0,163.6,3,2
+Airport,New Market,13,1,0,56,8.43,183.16,173.52,0,8
+New Market,Indrapuri,22,3,0,68,10.37,136.44,185.15,8,4
+Shahpura,Airport,8,0,0,33,14.75,212.0,216.0,10,0
+Indrapuri,Ashoka Garden,23,1,0,20,6.76,168.12,135.22,4,1
+Shahpura,Railway Station,22,6,1,88,6.92,150.04,202.26,10,9
+Ashoka Garden,Railway Station,10,0,0,84,0.98,68.76,71.72,1,9
+BHEL,Shahpura,5,4,1,53,8.38,173.56,203.38,2,10
+Airport,Shahpura,9,5,0,69,14.75,243.0,256.92,0,10
+Kolar,Shahpura,9,3,1,62,4.91,142.92,147.29,5,10
+Lalghati,Ashoka Garden,22,5,0,92,4.78,126.36,134.32,6,1
+New Market,Airport,8,4,1,52,8.43,157.16,200.82,8,0
+Lalghati,Kolar,10,6,1,76,11.53,165.36,247.1,6,5
+Kolar,Shahpura,13,5,1,37,4.91,76.92,114.3,5,10
+Indrapuri,New Market,1,4,1,82,10.37,214.44,273.1,4,8
+Railway Station,Ashoka Garden,16,1,0,31,0.98,41.76,49.76,9,1
+BHEL,MP Nagar,21,0,1,34,8.3,155.6,170.72,2,7
+Indrapuri,Railway Station,10,4,0,29,7.42,141.04,132.64,4,9
+Airport,Habibganj,14,5,1,85,12.53,188.36,304.18,0,3
+Airport,BHEL,20,6,0,23,16.74,224.88,237.68,0,2
+Airport,MP Nagar,15,5,1,52,11.19,159.28,240.99,0,7
+BHEL,Airport,23,4,1,95,16.74,217.88,380.81,2,0
+Kolar,Railway Station,8,5,1,48,8.59,170.08,177.1,5,9
+Airport,Kolar,5,4,0,89,14.03,241.36,281.64,0,5
+Indrapuri,MP Nagar,2,6,1,89,6.76,129.12,195.39,4,7
+MP Nagar,Railway Station,9,5,0,24,3.31,95.72,84.52,7,9
+Railway Station,Lalghati,19,4,0,73,4.47,100.64,110.02,9,6
+Airport,Indrapuri,23,1,1,66,15.69,212.28,316.39,0,4
+Shahpura,BHEL,9,4,1,89,8.38,114.56,219.7,10,2
+Indrapuri,Habibganj,18,6,1,81,6.68,105.16,189.26,4,3
+Habibganj,Indrapuri,3,6,0,65,6.68,117.16,138.79,3,4
+Indrapuri,Lalghati,20,2,0,20,11.44,207.28,186.28,4,6
+Indrapuri,Habibganj,14,5,0,71,6.68,141.16,143.59,4,3
+Railway Station,Kolar,16,6,1,89,8.59,184.08,237.13,9,5
+Railway Station,Shahpura,15,6,1,39,6.92,145.04,152.05,9,10
+Ashoka Garden,BHEL,23,3,0,57,7.96,143.52,158.8,1,2
+BHEL,Lalghati,5,4,1,62,12.5,211.0,270.2,2,6
+Airport,Indrapuri,15,2,1,69,15.69,236.28,321.19,0,4
+Habibganj,Indrapuri,23,3,1,42,6.68,160.16,153.19,3,4
+Airport,Ashoka Garden,17,4,0,79,8.99,196.88,183.28,0,1
+Airport,Ashoka Garden,21,6,1,77,8.99,162.88,210.03,0,1
+MP Nagar,Indrapuri,6,5,1,43,6.76,111.12,143.34,7,4
+BHEL,Kolar,2,1,0,54,13.11,241.32,238.14,2,5
+Indrapuri,MP Nagar,3,4,1,82,6.76,141.12,197.79,4,7
+Habibganj,Airport,22,0,0,91,12.53,231.36,259.48,3,0
+Airport,BHEL,10,2,0,72,16.74,269.88,285.22,0,2
+Railway Station,New Market,23,1,1,51,4.02,116.24,129.14,9,8
+MP Nagar,Lalghati,20,2,0,55,7.47,174.64,161.29,7,6
+Railway Station,Ashoka Garden,0,6,1,66,0.98,83.76,79.48,9,1
+Indrapuri,Airport,22,3,0,34,15.69,262.28,238.48,4,0
+New Market,Kolar,13,1,0,20,5.79,96.48,106.88,8,5
+Railway Station,Ashoka Garden,22,4,1,67,0.98,74.76,77.06,9,1
+MP Nagar,Shahpura,1,2,1,50,3.67,96.04,103.25,7,10
+Indrapuri,Kolar,3,0,0,50,11.56,169.72,176.92,4,5
+Ashoka Garden,Kolar,23,6,1,25,9.32,173.84,186.61,1,5
+Airport,Lalghati,0,4,0,88,4.25,86.0,119.12,0,6
+MP Nagar,Indrapuri,16,2,0,72,6.76,113.12,138.9,7,4
+Lalghati,New Market,20,4,1,96,5.76,84.12,169.59,6,8
+Lalghati,Shahpura,23,1,1,67,11.14,191.68,246.75,6,10
+New Market,Indrapuri,1,1,0,44,10.37,176.44,168.04,8,4
+New Market,Airport,23,0,1,80,8.43,177.16,204.82,8,0
+Railway Station,Habibganj,13,6,1,99,4.71,124.52,160.03,9,3
+Airport,New Market,3,0,0,60,8.43,121.16,159.75,0,8
+Kolar,Habibganj,21,0,0,39,5.08,118.96,106.36,5,3
+BHEL,Ashoka Garden,13,6,1,81,7.96,168.52,223.43,2,1
+Shahpura,Railway Station,4,3,0,54,6.92,108.04,139.73,10,9
+Shahpura,Habibganj,5,2,0,94,2.26,109.12,98.51,10,3
+Airport,Habibganj,23,4,0,60,12.53,222.36,227.22,0,3
+Indrapuri,Lalghati,1,4,0,63,11.44,195.28,209.24,4,6
+New Market,BHEL,21,1,1,78,11.86,229.32,264.65,8,2
+New Market,Railway Station,16,1,1,91,4.02,60.24,135.58,8,9
+BHEL,Kolar,1,0,1,69,13.11,223.32,281.45,2,5
+Kolar,Shahpura,10,3,1,36,4.91,97.92,118.5,5,10
+Lalghati,Shahpura,3,1,1,74,11.14,217.68,251.95,6,10
+BHEL,Railway Station,12,3,0,60,8.71,129.52,164.64,2,9
+Shahpura,Kolar,3,4,0,89,4.91,120.92,134.97,10,5
+MP Nagar,Lalghati,7,1,1,28,7.47,152.64,160.17,7,6
+Shahpura,Ashoka Garden,4,0,1,67,7.18,158.16,183.02,10,1
+Railway Station,BHEL,9,4,1,34,8.71,180.52,180.62,9,2
+New Market,Airport,16,0,1,82,8.43,149.16,227.46,8,0
+MP Nagar,Airport,17,2,1,36,11.19,164.28,207.14,7,0
+MP Nagar,Kolar,4,1,0,53,5.82,114.84,128.41,7,5
+Airport,New Market,4,4,1,21,8.43,144.16,169.99,0,8
+Railway Station,BHEL,20,3,0,65,8.71,118.52,162.44,9,2
+MP Nagar,Kolar,4,1,1,50,5.82,158.84,143.76,7,5
+Kolar,Ashoka Garden,16,4,1,49,9.32,169.84,185.81,5,1
+Ashoka Garden,BHEL,19,5,1,69,7.96,107.52,184.13,1,2
+MP Nagar,Habibganj,14,6,1,41,1.42,105.04,81.42,7,3
+MP Nagar,Ashoka Garden,7,1,0,22,3.76,60.12,80.12,7,1
+Ashoka Garden,New Market,11,4,0,85,4.99,79.88,127.84,1,8
+Kolar,Ashoka Garden,7,4,0,35,9.32,148.84,151.24,5,1
+Lalghati,Ashoka Garden,4,4,1,35,4.78,117.36,120.83,6,1
+Indrapuri,Railway Station,4,3,1,38,7.42,149.04,158.85,4,9
+Indrapuri,MP Nagar,11,6,0,92,6.76,112.12,158.08,4,7
+Ashoka Garden,New Market,0,1,1,58,4.99,83.88,136.63,1,8
+Ashoka Garden,Indrapuri,11,5,1,95,6.76,140.12,197.59,1,4
+BHEL,Ashoka Garden,5,1,0,75,7.96,159.52,162.0,2,1
+BHEL,Indrapuri,10,6,1,74,1.57,60.84,82.78,2,4
+Railway Station,Shahpura,16,0,1,80,6.92,166.04,180.86,9,10
+Kolar,MP Nagar,13,6,0,42,5.82,104.84,108.84,5,7
+Railway Station,MP Nagar,7,1,1,67,3.31,85.72,112.81,9,7
+Ashoka Garden,New Market,6,5,0,75,4.99,75.88,111.06,1,8
+Railway Station,Ashoka Garden,15,0,0,58,0.98,26.76,55.04,9,1
+Ashoka Garden,Lalghati,20,6,0,81,4.78,130.36,135.12,1,6
+MP Nagar,Shahpura,17,2,0,71,3.67,133.04,110.51,7,10
+Railway Station,Indrapuri,4,4,0,47,7.42,175.04,142.84,9,4
+Airport,Railway Station,17,1,1,68,8.55,174.6,206.04,0,9
+Indrapuri,Lalghati,8,5,0,75,11.44,198.28,209.84,4,6
+Kolar,Indrapuri,18,2,1,57,11.56,216.72,257.81,5,4
+Ashoka Garden,Kolar,19,0,0,37,9.32,167.84,156.64,1,5
+Indrapuri,Ashoka Garden,13,3,1,64,6.76,163.12,177.97,4,1
+Shahpura,Lalghati,1,1,1,73,11.14,183.68,245.15,10,6
+BHEL,MP Nagar,5,4,0,76,8.3,177.6,170.54,2,7
+Railway Station,Habibganj,0,5,0,95,4.71,138.52,136.15,9,3
+Indrapuri,Ashoka Garden,23,0,0,99,6.76,125.12,160.68,4,1
+MP Nagar,Ashoka Garden,16,5,1,22,3.76,85.12,102.14,7,1
+Kolar,Shahpura,23,5,0,65,4.91,131.92,122.67,5,10
+BHEL,Ashoka Garden,10,5,1,86,7.96,135.52,216.83,2,1
+Airport,Kolar,10,4,0,92,14.03,229.36,279.24,0,5
+Habibganj,Lalghati,22,2,1,78,8.88,193.56,214.58,3,6
+Railway Station,Ashoka Garden,18,0,0,91,0.98,43.76,66.72,9,1
+Indrapuri,Kolar,11,1,1,28,11.56,160.72,210.86,4,5
+Shahpura,BHEL,7,6,1,79,8.38,137.56,196.18,10,2
+Railway Station,MP Nagar,21,1,0,90,3.31,104.72,110.23,9,7
+Ashoka Garden,MP Nagar,20,3,1,32,3.76,109.12,107.22,1,7
+Habibganj,BHEL,5,4,0,33,8.25,174.0,149.5,3,2
+Lalghati,Kolar,17,6,1,47,11.53,189.36,216.23,6,5
+New Market,Lalghati,20,4,1,88,5.76,89.12,170.59,8,6
+Railway Station,Ashoka Garden,9,5,0,53,0.98,94.76,71.91,9,1
+Airport,MP Nagar,4,5,0,98,11.19,184.28,232.05,0,7
+Kolar,Airport,23,0,0,73,14.03,181.36,236.3,5,0
+Airport,MP Nagar,15,6,1,97,11.19,203.28,284.65,0,7
+BHEL,Indrapuri,5,2,1,51,1.57,61.84,82.98,2,4
+BHEL,New Market,22,2,1,97,11.86,219.32,299.11,2,8
+Lalghati,Habibganj,20,1,0,31,8.88,119.56,141.16,6,3
+Ashoka Garden,Lalghati,8,0,1,38,4.78,127.36,123.4,1,6
+MP Nagar,Railway Station,5,6,0,81,3.31,81.72,105.63,7,9
+Kolar,Airport,2,0,1,83,14.03,250.36,341.78,5,0
+BHEL,Indrapuri,7,3,1,75,1.57,104.84,93.23,2,4
+New Market,Kolar,14,4,0,91,5.79,115.48,145.71,8,5
+Lalghati,Shahpura,21,4,0,58,11.14,183.68,203.47,6,10
+BHEL,Lalghati,18,1,0,98,12.5,210.0,254.8,2,6
+Habibganj,Kolar,18,4,0,88,5.08,118.96,136.87,3,5
+Kolar,Indrapuri,23,1,0,73,11.56,218.72,215.74,5,4
+Kolar,Ashoka Garden,15,2,0,46,9.32,173.84,158.44,5,1
+Shahpura,MP Nagar,12,4,1,53,3.67,110.04,122.86,10,7
+New Market,Ashoka Garden,1,5,0,29,4.99,121.88,106.48,8,1
+New Market,Kolar,16,1,1,94,5.79,150.48,183.37,8,5
+Habibganj,Ashoka Garden,13,3,0,39,5.07,99.84,100.64,3,1
+New Market,Indrapuri,19,1,1,54,10.37,141.44,225.62,8,4
+BHEL,New Market,18,6,0,67,11.86,162.32,207.49,2,8
+Lalghati,BHEL,0,3,0,64,12.5,178.0,218.0,6,2
+Lalghati,Ashoka Garden,20,5,0,87,4.78,117.36,132.52,6,1
+BHEL,Habibganj,11,1,0,23,8.25,115.0,134.2,2,3
+Indrapuri,Ashoka Garden,7,4,0,75,6.76,107.12,137.7,4,1
+Lalghati,BHEL,6,6,0,77,12.5,201.0,222.6,6,2
+Habibganj,Indrapuri,6,6,0,83,6.68,127.16,160.01,3,4
+New Market,Indrapuri,5,6,0,44,10.37,173.44,167.14,8,4
+Shahpura,Kolar,2,6,1,89,4.91,131.92,164.87,10,5
+Railway Station,MP Nagar,15,2,1,27,3.31,84.72,96.66,9,7
+Railway Station,Airport,1,3,0,43,8.55,168.6,150.4,9,0
+Kolar,Lalghati,23,5,0,39,11.53,198.36,184.36,5,6
+Indrapuri,Railway Station,15,3,0,47,7.42,121.04,127.44,4,9
+MP Nagar,Airport,15,3,0,100,11.19,198.28,234.85,7,0
+Lalghati,Airport,13,0,1,86,4.25,78.0,143.0,6,0
+BHEL,New Market,11,1,0,33,11.86,230.32,196.72,2,8
+Indrapuri,Ashoka Garden,19,5,1,48,6.76,167.12,156.12,4,1
+Railway Station,Lalghati,5,4,0,45,4.47,142.64,108.34,9,6
+Lalghati,BHEL,6,4,0,92,12.5,229.0,258.6,6,2
+Railway Station,New Market,16,0,1,95,4.02,58.24,135.18,9,8
+Airport,Shahpura,17,5,0,50,14.75,240.0,223.9,0,10
+Indrapuri,New Market,4,5,1,92,10.37,149.44,260.1,4,8
+New Market,Habibganj,3,6,0,48,4.74,84.88,94.48,8,3
+Airport,Railway Station,22,6,1,54,8.55,131.6,197.44,0,9
+Ashoka Garden,Airport,13,1,0,42,8.99,157.88,150.88,1,0
+Lalghati,New Market,8,5,0,26,5.76,140.12,118.42,6,8
+Railway Station,BHEL,19,0,1,86,8.71,148.52,232.03,9,2
+Kolar,Lalghati,5,0,1,51,11.53,188.36,251.7,5,6
+Kolar,Railway Station,20,1,1,66,8.59,146.08,200.91,5,9
+Habibganj,New Market,14,6,1,27,4.74,108.88,118.66,3,8
+Ashoka Garden,Kolar,0,6,0,58,9.32,130.84,171.93,1,5
+Shahpura,MP Nagar,10,6,1,53,3.67,109.04,122.66,10,7
+Ashoka Garden,BHEL,16,3,1,82,7.96,174.52,224.63,1,2
+Kolar,Shahpura,14,6,1,36,4.91,98.92,118.7,5,10
+Habibganj,Shahpura,22,2,0,33,2.26,44.12,62.52,3,10
+BHEL,Shahpura,1,4,0,50,8.38,124.56,137.36,2,10
+Kolar,Airport,6,6,1,54,14.03,186.36,287.3,5,0
+New Market,Indrapuri,4,3,1,23,10.37,173.44,199.13,8,4
+Kolar,BHEL,10,1,0,59,13.11,212.32,231.89,5,2
+Lalghati,Railway Station,19,4,0,21,4.47,63.64,87.64,6,9
+Kolar,Habibganj,10,1,0,90,5.08,71.96,127.47,5,3
+BHEL,Shahpura,6,1,0,76,8.38,123.56,159.65,2,10
+Habibganj,Indrapuri,14,2,1,63,6.68,130.16,170.22,3,4
+Habibganj,Railway Station,13,6,1,82,4.71,117.52,158.63,3,9
+Ashoka Garden,Kolar,16,6,0,65,9.32,177.84,181.33,1,5
+Airport,Habibganj,11,6,0,91,12.53,236.36,260.48,0,3
+Ashoka Garden,Kolar,9,3,1,42,9.32,180.84,188.01,1,5
+Kolar,Indrapuri,1,1,1,98,11.56,150.72,280.35,5,4
+Shahpura,Lalghati,6,4,0,84,11.14,222.68,239.06,10,6
+BHEL,MP Nagar,9,6,1,53,8.3,186.6,204.84,2,7
+Shahpura,New Market,9,6,0,94,6.72,129.64,161.04,10,8
+Airport,Railway Station,18,3,1,35,8.55,145.6,171.72,0,9
+Airport,Kolar,13,1,0,53,14.03,189.36,237.9,0,5
+New Market,Habibganj,2,4,1,59,4.74,72.88,130.83,8,3
+MP Nagar,Shahpura,8,6,0,34,3.67,102.04,89.44,7,10
+MP Nagar,Indrapuri,14,4,1,88,6.76,150.12,199.59,7,4
+Lalghati,Ashoka Garden,4,5,0,37,4.78,133.36,108.16,6,1
+New Market,Habibganj,15,5,1,36,4.74,145.88,128.53,8,3
+Kolar,MP Nagar,17,1,0,40,5.82,110.84,110.14,5,7
+Lalghati,Railway Station,20,1,0,59,4.47,75.64,105.02,6,9
+BHEL,Ashoka Garden,8,2,1,21,7.96,170.52,169.74,2,1
+Indrapuri,Kolar,23,4,0,80,11.56,178.72,207.32,4,5
+MP Nagar,Shahpura,22,4,1,27,3.67,123.04,110.45,7,10
+Shahpura,BHEL,22,1,1,29,8.38,128.56,166.27,10,2
+Railway Station,MP Nagar,5,5,1,84,3.31,72.72,126.15,9,7
+New Market,Habibganj,6,4,0,47,4.74,110.88,101.08,8,3
+Habibganj,Ashoka Garden,23,3,0,49,5.07,121.84,107.14,3,1
+Lalghati,Airport,20,3,0,81,4.25,81.0,118.12,6,0
+Indrapuri,Shahpura,7,0,0,69,6.89,159.68,150.96,4,10
+Railway Station,Shahpura,23,0,0,44,6.92,105.04,119.44,9,10
+Kolar,BHEL,10,4,1,77,13.11,170.32,270.85,5,2
+Habibganj,Airport,6,2,0,50,12.53,202.36,193.96,3,0
+Indrapuri,Kolar,16,0,1,29,11.56,218.72,222.46,4,5
+Airport,MP Nagar,13,6,0,34,11.19,208.28,184.48,0,7
+MP Nagar,Shahpura,12,1,1,75,3.67,93.04,119.46,7,10
+Railway Station,Lalghati,16,4,1,31,4.47,136.64,122.93,9,6
+Shahpura,New Market,18,0,1,100,6.72,117.64,192.42,10,8
+Ashoka Garden,Airport,18,5,1,64,8.99,192.88,216.03,1,0
+Ashoka Garden,Airport,5,2,0,40,8.99,124.88,143.28,1,0
+Shahpura,Kolar,12,2,1,84,4.91,88.92,156.27,10,5
+Shahpura,Ashoka Garden,17,3,0,55,7.18,152.16,151.62,10,1
+Airport,New Market,22,1,1,72,8.43,144.16,198.22,0,8
+BHEL,Railway Station,18,2,1,62,8.71,126.52,198.73,2,9
+Ashoka Garden,Shahpura,3,2,0,70,7.18,124.16,145.95,1,10
+Ashoka Garden,Airport,9,3,0,93,8.99,174.88,200.6,1,0
+Habibganj,Shahpura,20,2,1,45,2.26,94.12,86.97,3,10
+BHEL,Indrapuri,19,4,1,40,1.57,77.84,74.84,2,4
+Shahpura,MP Nagar,10,5,0,80,3.67,108.04,103.01,10,7
+Ashoka Garden,Kolar,3,4,1,82,9.32,181.84,248.94,1,5
+Railway Station,MP Nagar,16,2,1,29,3.31,80.72,95.86,9,7
+BHEL,Indrapuri,7,2,1,33,1.57,83.84,76.64,2,4
+Kolar,Habibganj,15,2,0,26,5.08,127.96,109.06,5,3
+BHEL,MP Nagar,13,4,0,23,8.3,120.6,135.8,2,7
+Lalghati,Kolar,14,1,0,79,11.53,161.36,203.5,6,5
+Ashoka Garden,Habibganj,2,0,0,95,5.07,93.84,131.71,1,3
+Airport,Lalghati,7,4,0,51,4.25,73.0,101.96,0,6
+New Market,Airport,3,3,0,40,8.43,180.16,152.86,8,0
+New Market,BHEL,13,0,1,52,11.86,163.32,251.45,8,2
+Railway Station,Kolar,14,3,0,61,8.59,180.08,174.21,9,5
+Shahpura,Habibganj,15,0,1,21,2.26,49.12,76.94,10,3
+Lalghati,MP Nagar,11,2,1,50,7.47,145.64,158.77,6,7
+Lalghati,MP Nagar,2,5,0,96,7.47,176.64,180.52,6,7
+Ashoka Garden,Railway Station,1,1,0,46,0.98,62.76,55.06,1,9
+BHEL,Ashoka Garden,17,4,1,55,7.96,181.52,198.93,2,1
+Railway Station,Indrapuri,14,4,1,24,7.42,141.04,157.25,9,4
+Habibganj,Ashoka Garden,18,2,0,42,5.07,122.84,107.44,3,1
+Ashoka Garden,Habibganj,13,0,1,30,5.07,120.84,125.01,1,3
+Ashoka Garden,Indrapuri,17,6,0,24,6.76,96.12,116.12,1,4
+Airport,New Market,19,1,1,87,8.43,145.16,226.66,0,8
+New Market,Kolar,2,5,0,20,5.79,101.48,107.88,8,5
+Lalghati,MP Nagar,13,4,0,78,7.47,122.64,148.98,6,7
+Shahpura,Airport,2,0,1,68,14.75,213.0,303.0,10,0
+New Market,Airport,22,6,0,93,8.43,190.16,196.13,8,0
+Railway Station,Indrapuri,21,4,0,97,7.42,110.04,166.53,9,4
+Lalghati,BHEL,13,4,0,50,12.5,176.0,187.2,6,2
+BHEL,Airport,19,0,1,99,16.74,232.88,383.81,2,0
+Habibganj,BHEL,16,0,1,62,8.25,182.0,203.2,3,2
+Habibganj,Airport,16,6,1,30,12.53,190.36,228.43,3,0
+New Market,Shahpura,13,1,0,84,6.72,152.64,165.64,8,10
+Lalghati,Airport,0,0,1,29,4.25,84.0,107.8,6,0
+Kolar,Indrapuri,16,3,1,46,11.56,194.72,217.66,5,4
+Railway Station,New Market,4,2,1,93,4.02,60.24,135.58,9,8
+Habibganj,Kolar,15,0,1,24,5.08,108.96,122.75,3,5
+Railway Station,BHEL,10,1,1,20,8.71,138.52,172.22,9,2
+Ashoka Garden,Kolar,23,1,0,83,9.32,188.84,207.83,1,5
+Railway Station,Airport,13,3,0,94,8.55,164.6,192.63,9,0
+Indrapuri,Ashoka Garden,13,0,1,85,6.76,97.12,188.99,4,1
+Ashoka Garden,Habibganj,5,5,1,71,5.07,87.84,138.58,1,3
+Habibganj,New Market,21,3,1,75,4.74,83.88,133.03,3,8
+BHEL,Railway Station,22,1,0,82,8.71,177.52,197.37,2,9
+BHEL,New Market,0,1,1,97,11.86,153.32,285.91,2,8
+Habibganj,BHEL,5,5,0,43,8.25,174.0,149.5,3,2
+Lalghati,Railway Station,15,2,0,57,4.47,69.64,103.82,6,9
+Habibganj,Airport,14,1,0,32,12.53,229.36,202.06,3,0
+Lalghati,New Market,18,6,0,28,5.76,112.12,110.02,6,8
+Habibganj,Kolar,11,2,1,69,5.08,83.96,137.94,3,5
+New Market,Lalghati,12,1,1,77,5.76,149.12,160.77,8,6
+Habibganj,Shahpura,22,6,1,22,2.26,105.12,90.27,3,10
+Lalghati,MP Nagar,10,2,1,96,7.47,174.64,216.42,6,7
+Habibganj,Indrapuri,16,5,0,71,6.68,103.16,135.99,3,4
+Indrapuri,BHEL,9,4,1,70,1.57,81.84,86.98,4,2
+Ashoka Garden,Shahpura,3,4,1,87,7.18,146.16,205.86,1,10
+Railway Station,Airport,13,1,0,55,8.55,128.6,162.62,9,0
+Indrapuri,BHEL,10,5,1,30,1.57,38.84,66.61,4,2
+Lalghati,Railway Station,2,1,1,92,4.47,93.64,149.82,6,9
+New Market,Ashoka Garden,22,0,0,77,4.99,92.88,114.46,8,1
+New Market,Lalghati,6,5,0,39,5.76,114.12,110.62,8,6
+BHEL,Airport,7,4,0,58,16.74,218.88,275.02,2,0
+New Market,Kolar,10,1,1,55,5.79,114.48,154.27,8,5
+Ashoka Garden,Shahpura,4,3,1,80,7.18,171.16,185.62,1,10
+BHEL,Kolar,18,2,0,78,13.11,172.32,223.89,2,5
+Lalghati,Railway Station,10,6,0,53,4.47,86.64,107.22,6,9
+Indrapuri,Kolar,17,6,1,84,11.56,159.72,282.15,4,5
+Ashoka Garden,Shahpura,19,5,0,57,7.18,108.16,142.75,1,10
+Ashoka Garden,Lalghati,6,6,1,73,4.78,121.36,141.1,1,6
+BHEL,Railway Station,3,5,1,40,8.71,129.52,170.42,2,9
+Lalghati,Habibganj,18,2,0,22,8.88,150.56,147.76,6,3
+Railway Station,Ashoka Garden,18,4,1,90,0.98,26.76,77.82,9,1
+Lalghati,Ashoka Garden,20,4,0,94,4.78,80.36,125.12,6,1
+Ashoka Garden,Shahpura,10,3,0,38,7.18,146.16,132.16,1,10
+BHEL,New Market,1,6,0,76,11.86,201.32,215.29,2,8
+MP Nagar,Railway Station,16,6,0,76,3.31,121.72,103.48,7,9
+BHEL,MP Nagar,12,4,0,80,8.3,172.6,169.04,2,7
+Railway Station,Lalghati,22,1,1,71,4.47,98.64,132.1,9,6
+Lalghati,Indrapuri,13,5,0,98,11.44,188.28,236.21,6,4
+Indrapuri,Airport,2,3,1,62,15.69,243.28,322.59,4,0
+New Market,BHEL,20,4,1,83,11.86,175.32,290.31,8,2
+Airport,MP Nagar,17,5,1,88,11.19,206.28,285.25,0,7
+Railway Station,Kolar,1,0,1,45,8.59,132.08,169.5,9,5
+Railway Station,MP Nagar,3,3,0,35,3.31,85.72,81.52,9,7
+Railway Station,Habibganj,7,2,0,51,4.71,73.52,107.36,9,3
+BHEL,Shahpura,1,1,0,48,8.38,112.56,134.96,2,10
+Airport,Ashoka Garden,17,3,1,46,8.99,143.88,176.66,0,1
+Habibganj,Shahpura,15,6,0,62,2.26,64.12,77.26,3,10
+Lalghati,Habibganj,22,4,0,53,8.88,134.56,167.61,6,3
+Ashoka Garden,Habibganj,9,4,1,70,5.07,71.84,135.38,1,3
+Railway Station,Kolar,0,6,1,55,8.59,132.08,198.11,9,5
+Railway Station,Lalghati,2,6,1,79,4.47,92.64,130.9,9,6
+Habibganj,Ashoka Garden,18,3,1,53,5.07,93.84,139.78,3,1
+Habibganj,Lalghati,20,0,1,36,8.88,175.56,181.67,3,6
+Kolar,Indrapuri,21,1,1,53,11.56,198.72,254.21,5,4
+Indrapuri,Shahpura,19,5,1,69,6.89,101.68,167.55,4,10
+Shahpura,Ashoka Garden,1,5,0,69,7.18,163.16,154.92,10,1
+New Market,MP Nagar,7,4,1,88,3.82,123.84,144.94,8,7
+Kolar,Ashoka Garden,3,2,1,81,9.32,191.84,250.94,5,1
+BHEL,Shahpura,13,1,1,73,8.38,189.56,206.58,2,10
+Ashoka Garden,Habibganj,7,4,1,99,5.07,117.84,164.74,1,3
+Kolar,Railway Station,7,6,1,87,8.59,151.08,230.53,5,9
+Kolar,BHEL,4,0,1,58,13.11,190.32,274.85,5,2
+MP Nagar,Shahpura,8,4,0,67,3.67,103.04,101.51,7,10
+BHEL,Shahpura,8,1,0,71,8.38,166.56,168.25,2,10
+New Market,Habibganj,17,2,0,30,4.74,108.88,100.48,8,3
+Shahpura,Kolar,18,4,0,28,4.91,117.92,104.62,10,5
+New Market,Airport,23,6,1,86,8.43,144.16,226.46,8,0
+Kolar,Shahpura,21,0,1,93,4.91,68.92,152.27,5,10
+Lalghati,Habibganj,19,1,1,75,8.88,163.56,208.58,6,3
+New Market,Habibganj,19,2,0,80,4.74,142.88,124.24,8,3
+Kolar,Shahpura,9,1,0,21,4.91,76.92,94.52,5,10
+Ashoka Garden,Airport,9,0,0,40,8.99,157.88,150.88,1,0
+BHEL,Kolar,22,0,1,48,13.11,192.32,235.78,2,5
+Railway Station,BHEL,13,3,0,50,8.71,155.52,147.82,9,2
+MP Nagar,Kolar,15,4,0,77,5.82,116.84,128.81,7,5
+New Market,Indrapuri,17,3,0,28,10.37,209.44,177.94,8,4
+Lalghati,Railway Station,2,5,1,92,4.47,80.64,147.22,6,9
+MP Nagar,Indrapuri,18,0,1,47,6.76,163.12,154.92,7,4
+Indrapuri,Railway Station,18,4,1,65,7.42,175.04,189.86,4,9
+New Market,Airport,7,6,0,25,8.43,182.16,153.46,8,0
+BHEL,Kolar,2,4,1,94,13.11,183.32,312.91,2,5
+Shahpura,New Market,9,6,0,33,6.72,94.64,115.44,10,8
+New Market,Kolar,13,6,0,92,5.79,130.48,148.71,8,5
+New Market,Habibganj,9,4,1,51,4.74,135.88,143.43,8,3
+Ashoka Garden,Airport,23,0,0,88,8.99,169.88,199.6,1,0
+MP Nagar,BHEL,6,5,0,57,8.3,177.6,170.54,7,2
+Shahpura,Airport,14,4,1,67,14.75,227.0,305.8,10,0
+Indrapuri,Ashoka Garden,15,2,0,44,6.76,95.12,115.92,4,1
+Indrapuri,BHEL,14,1,1,87,1.57,83.84,99.14,4,2
+Lalghati,New Market,11,4,0,55,5.76,118.12,128.38,6,8
+Airport,Lalghati,9,6,0,37,4.25,118.0,99.1,0,6
+Indrapuri,Airport,3,6,0,34,15.69,269.28,240.58,4,0
+Railway Station,Airport,15,5,0,23,8.55,189.6,156.7,9,0
+New Market,Ashoka Garden,23,5,0,23,4.99,97.88,99.48,8,1
+Ashoka Garden,Habibganj,17,0,1,86,5.07,84.84,158.14,1,3
+Indrapuri,MP Nagar,5,4,0,90,6.76,138.12,163.28,4,7
+MP Nagar,New Market,3,0,0,87,3.82,90.84,114.31,7,8
+Shahpura,Kolar,17,3,1,87,4.91,112.92,161.07,10,5
+Railway Station,Habibganj,14,3,1,80,4.71,144.52,144.73,9,3
+New Market,Ashoka Garden,17,2,1,50,4.99,74.88,114.86,8,1
+Shahpura,Railway Station,13,4,1,86,6.92,161.04,204.46,10,9
+Airport,Habibganj,15,6,1,43,12.53,212.36,232.83,0,3
+Indrapuri,Shahpura,10,2,1,98,6.89,113.68,194.49,4,10
+Indrapuri,New Market,13,2,1,20,10.37,208.44,206.42,4,8
+Railway Station,Ashoka Garden,10,2,1,69,0.98,74.76,77.06,9,1
+Shahpura,BHEL,11,2,1,49,8.38,170.56,174.67,10,2
+Indrapuri,Habibganj,9,6,0,41,6.68,104.16,116.96,4,3
+Lalghati,BHEL,8,0,0,98,12.5,173.0,247.4,6,2
+New Market,Indrapuri,13,0,0,22,10.37,208.44,177.64,8,4
+Railway Station,BHEL,1,1,0,45,8.71,139.52,143.52,9,2
+Lalghati,Ashoka Garden,13,0,0,33,4.78,121.36,104.56,6,1
+Railway Station,Shahpura,7,6,1,88,6.92,113.04,194.86,9,10
+Indrapuri,Railway Station,9,4,0,93,7.42,131.04,170.73,4,9
+MP Nagar,Lalghati,3,6,1,94,7.47,167.64,215.02,7,6
+BHEL,Habibganj,5,2,0,25,8.25,127.0,136.6,2,3
+BHEL,Kolar,22,3,1,70,13.11,230.32,282.85,2,5
+Lalghati,Airport,10,3,0,88,4.25,123.0,126.52,6,0
+MP Nagar,Indrapuri,8,3,1,79,6.76,160.12,177.37,7,4
+MP Nagar,Indrapuri,3,5,1,62,6.76,91.12,163.57,7,4
+Ashoka Garden,Shahpura,12,0,1,80,7.18,108.16,173.02,1,10
+Ashoka Garden,Indrapuri,5,0,0,62,6.76,118.12,139.9,1,4
+Airport,MP Nagar,20,1,0,24,11.19,190.28,179.08,0,7
+Lalghati,Airport,9,1,0,59,4.25,83.0,103.96,6,0
+Habibganj,Airport,6,2,0,40,12.53,204.36,194.56,3,0
+Airport,Railway Station,1,1,1,66,8.55,149.6,201.04,0,9
+BHEL,Shahpura,9,5,1,76,8.38,178.56,204.38,2,10
+Lalghati,Indrapuri,6,5,0,64,11.44,165.28,203.24,6,4
+New Market,BHEL,4,6,0,72,11.86,170.32,209.09,8,2
+Airport,MP Nagar,10,5,1,86,11.19,144.28,272.85,0,7
+Kolar,Habibganj,6,4,1,44,5.08,145.96,132.13,5,3
+MP Nagar,New Market,3,5,0,92,3.82,70.84,110.31,7,8
+Habibganj,New Market,2,2,1,62,4.74,76.88,131.63,3,8
+Shahpura,New Market,16,3,0,79,6.72,158.64,148.93,10,8
+Lalghati,MP Nagar,1,6,1,50,7.47,175.64,166.13,6,7
+MP Nagar,Habibganj,18,2,1,21,1.42,82.04,74.52,7,3
+Airport,Habibganj,4,6,1,94,12.53,183.36,303.18,0,3
+Shahpura,Habibganj,22,4,0,74,2.26,90.12,83.42,10,3
+BHEL,Indrapuri,18,0,0,63,1.57,82.84,74.28,2,4
+Airport,New Market,23,4,1,45,8.43,126.16,166.39,0,8
+Indrapuri,Shahpura,23,6,0,84,6.89,136.68,164.74,4,10
+Lalghati,Shahpura,21,4,1,42,11.14,152.68,204.22,6,10
+Ashoka Garden,Kolar,14,5,0,31,9.32,199.84,166.24,1,5
+Lalghati,Shahpura,7,2,0,39,11.14,204.68,182.98,6,10
+New Market,Airport,7,1,0,29,8.43,131.16,139.16,8,0
+Railway Station,Kolar,18,5,1,96,8.59,157.08,231.73,9,5
+Habibganj,Lalghati,6,5,0,66,8.88,129.56,166.61,3,6
+Habibganj,Lalghati,5,1,0,58,8.88,137.56,168.21,3,6
+Kolar,Shahpura,11,3,1,62,4.91,105.92,139.89,5,10
+Lalghati,Shahpura,18,6,1,83,11.14,188.68,280.89,6,10
+BHEL,New Market,5,2,1,72,11.86,173.32,253.45,2,8
+Lalghati,Kolar,22,1,1,81,11.53,160.36,281.78,6,5
+MP Nagar,Habibganj,17,4,1,75,1.42,74.04,83.26,7,3
+MP Nagar,New Market,0,4,0,99,3.82,60.84,108.31,7,8
+Airport,MP Nagar,20,1,1,87,11.19,219.28,287.85,0,7
+New Market,Indrapuri,18,3,1,58,10.37,197.44,236.82,8,4
+MP Nagar,Shahpura,20,3,1,89,3.67,81.04,133.86,7,10
+Lalghati,Habibganj,19,1,1,34,8.88,188.56,184.81,6,3
+Shahpura,New Market,16,2,1,93,6.72,165.64,202.02,10,8
+MP Nagar,Lalghati,15,3,1,59,7.47,155.64,186.7,7,6
+Shahpura,Habibganj,22,4,1,37,2.26,60.12,79.14,10,3
+Habibganj,Airport,1,3,0,100,12.53,237.36,260.68,3,0
+BHEL,Habibganj,10,5,1,62,8.25,182.0,203.2,2,3
+Ashoka Garden,Lalghati,18,1,1,24,4.78,89.36,115.23,1,6
+Railway Station,Shahpura,15,2,1,92,6.92,173.04,206.86,9,10
+Airport,Ashoka Garden,10,4,1,86,8.99,149.88,237.01,0,1
+New Market,Railway Station,12,0,0,75,4.02,133.24,114.09,8,9
+BHEL,Kolar,19,5,0,32,13.11,200.32,198.22,2,5
+Kolar,Ashoka Garden,14,3,0,78,9.32,136.84,173.13,5,1
+Kolar,New Market,11,6,1,69,5.79,156.48,162.67,5,8
+BHEL,Lalghati,19,6,0,97,12.5,190.0,250.8,2,6
+New Market,BHEL,9,0,0,77,11.86,194.32,213.89,8,2
+Habibganj,Indrapuri,3,0,0,77,6.68,149.16,145.68,3,4
+Shahpura,Railway Station,8,1,1,26,6.92,100.04,143.05,10,9
+Ashoka Garden,Shahpura,3,4,1,91,7.18,107.16,198.06,1,10
+Habibganj,Railway Station,1,4,0,25,4.71,118.52,103.12,3,9
+BHEL,Habibganj,19,4,1,73,8.25,124.0,191.6,2,3
+Ashoka Garden,Habibganj,9,0,1,28,5.07,70.84,115.01,1,3
+Kolar,New Market,9,6,0,84,5.79,113.48,145.31,5,8
+Airport,Indrapuri,9,2,0,92,15.69,250.28,305.73,0,4
+BHEL,MP Nagar,2,3,1,85,8.3,135.6,222.56,2,7
+Ashoka Garden,Shahpura,21,2,0,34,7.18,146.16,132.16,1,10
+BHEL,MP Nagar,12,0,0,80,8.3,110.6,156.14,2,7
+BHEL,Railway Station,10,0,1,29,8.71,149.52,174.42,2,9
+Kolar,BHEL,14,0,0,62,13.11,216.32,232.69,5,2
+MP Nagar,Indrapuri,6,4,1,56,6.76,163.12,177.97,7,4
+Habibganj,BHEL,9,1,0,64,8.25,125.0,158.44,3,2
+Shahpura,Habibganj,13,4,0,28,2.26,78.12,70.42,10,3
+Railway Station,New Market,1,3,0,69,4.02,91.24,102.96,9,8
+BHEL,Railway Station,8,3,1,35,8.71,117.52,168.02,2,9
+Railway Station,Lalghati,11,0,0,99,4.47,127.64,130.4,9,6
+BHEL,Kolar,17,5,0,57,13.11,190.32,227.49,2,5
+Indrapuri,BHEL,1,3,0,77,1.57,68.84,70.25,4,2
+New Market,Habibganj,11,0,0,59,4.74,80.88,109.18,8,3
+Shahpura,New Market,6,4,1,52,6.72,96.64,164.1,10,8
+BHEL,Lalghati,11,0,1,41,12.5,173.0,224.6,2,6
+Habibganj,BHEL,11,6,1,91,8.25,141.0,222.8,3,2
+Airport,Railway Station,11,3,1,26,8.55,186.6,180.76,0,9
+Ashoka Garden,BHEL,19,6,1,64,7.96,181.52,198.93,1,2
+Kolar,Habibganj,23,0,1,87,5.08,73.96,156.14,5,3
+Ashoka Garden,New Market,23,0,0,46,4.99,79.88,95.88,1,8
+Railway Station,Shahpura,9,2,0,55,6.92,117.04,141.53,9,10
+Railway Station,Lalghati,4,4,0,23,4.47,87.64,92.44,9,6
+New Market,BHEL,19,1,1,44,11.86,195.32,221.38,8,2
+Ashoka Garden,Shahpura,10,5,0,77,7.18,106.16,142.35,1,10
+Kolar,BHEL,22,1,1,77,13.11,229.32,282.65,5,2
+Shahpura,Indrapuri,10,5,1,57,6.89,115.68,170.35,10,4
+Shahpura,Railway Station,14,4,0,72,6.92,147.04,147.53,10,9
+Habibganj,Airport,10,3,0,20,12.53,238.36,204.76,3,0
+Ashoka Garden,Kolar,12,6,1,50,9.32,194.84,191.31,1,5
+Indrapuri,Ashoka Garden,4,5,0,99,6.76,154.12,166.48,4,1
+Ashoka Garden,Kolar,9,1,1,87,9.32,131.84,238.94,1,5
+Habibganj,New Market,19,5,1,78,4.74,127.88,141.83,3,8
+New Market,MP Nagar,14,2,0,20,3.82,123.84,97.24,8,7
+MP Nagar,Lalghati,3,3,1,85,7.47,148.64,211.22,7,6
+Indrapuri,Habibganj,13,3,1,95,6.68,104.16,189.06,4,3
+Lalghati,Ashoka Garden,12,3,1,49,4.78,129.36,124.0,6,1
+Indrapuri,Ashoka Garden,16,3,0,40,6.76,111.12,119.12,4,1
+Airport,Indrapuri,20,5,1,63,15.69,236.28,321.19,0,4
+Railway Station,Habibganj,4,6,0,49,4.71,107.52,99.82,9,3
+BHEL,Indrapuri,1,6,0,86,1.57,89.84,84.62,2,4
+MP Nagar,BHEL,20,4,1,54,8.3,133.6,194.24,7,2
+Kolar,MP Nagar,18,2,1,29,5.82,145.84,139.86,5,7
+Railway Station,Ashoka Garden,18,1,1,54,0.98,33.76,68.86,9,1
+Railway Station,Ashoka Garden,12,3,0,96,0.98,33.76,64.72,9,1
+Indrapuri,Lalghati,13,3,0,31,11.44,170.28,175.88,4,6
+Indrapuri,MP Nagar,12,1,0,30,6.76,92.12,115.32,4,7
+BHEL,Lalghati,3,3,0,52,12.5,193.0,221.0,2,6
+Indrapuri,Ashoka Garden,10,6,0,67,6.76,95.12,135.3,4,1
+MP Nagar,New Market,14,0,1,62,3.82,79.84,118.98,7,8
+MP Nagar,Ashoka Garden,7,3,0,53,3.76,57.12,93.14,7,1
+MP Nagar,Airport,18,5,0,41,11.19,199.28,181.78,7,0
+Ashoka Garden,Habibganj,6,5,0,22,5.07,74.84,95.64,1,3
+New Market,Kolar,8,3,0,26,5.79,150.48,121.78,8,5
+Ashoka Garden,Indrapuri,1,5,1,44,6.76,96.12,140.34,1,4
+Habibganj,BHEL,2,4,0,68,8.25,120.0,157.44,3,2
+Lalghati,Airport,11,4,1,35,4.25,62.0,103.4,6,0
+Railway Station,MP Nagar,15,3,1,66,3.31,71.72,110.01,9,7
+New Market,Airport,6,3,1,97,8.43,159.16,229.46,8,0
+BHEL,MP Nagar,14,5,1,54,8.3,153.6,198.24,2,7
+Kolar,New Market,17,1,0,20,5.79,97.48,107.08,5,8
+Indrapuri,MP Nagar,20,6,1,59,6.76,133.12,171.97,4,7
+Indrapuri,Habibganj,19,6,1,67,6.68,114.16,167.02,4,3
+Indrapuri,Ashoka Garden,21,5,0,92,6.76,131.12,161.88,4,1
+BHEL,Kolar,13,0,1,54,13.11,246.32,286.05,2,5
+BHEL,Ashoka Garden,17,3,0,69,7.96,107.52,151.6,2,1
+Shahpura,Lalghati,3,2,0,47,11.14,178.68,175.18,10,6
+Kolar,BHEL,2,3,0,67,13.11,197.32,228.89,5,2
+Indrapuri,MP Nagar,17,2,1,59,6.76,155.12,176.37,4,7
+Lalghati,Kolar,9,2,1,51,11.53,153.36,244.7,6,5
+BHEL,Airport,11,4,1,22,16.74,244.88,289.86,2,0
+Indrapuri,Railway Station,22,0,1,33,7.42,141.04,157.25,4,9
+Habibganj,MP Nagar,16,6,1,43,1.42,61.04,69.25,3,7
+Kolar,MP Nagar,2,0,1,94,5.82,89.84,171.74,5,7
+Ashoka Garden,Kolar,9,4,1,59,9.32,193.84,220.98,1,5
+Kolar,Lalghati,1,1,0,74,11.53,202.36,211.7,5,6
+Airport,Kolar,22,0,0,72,14.03,243.36,248.7,0,5
+Indrapuri,Shahpura,1,1,0,47,6.89,115.68,121.28,4,10
+Shahpura,New Market,1,4,1,26,6.72,118.64,144.37,10,8
+Kolar,Shahpura,3,4,0,81,4.91,144.92,140.42,5,10
+Kolar,Ashoka Garden,22,2,1,98,9.32,165.84,245.74,5,1
+Railway Station,Indrapuri,3,6,0,26,7.42,150.04,135.34,9,4
+Habibganj,Lalghati,13,0,0,35,8.88,158.56,150.16,3,6
+Habibganj,Indrapuri,1,0,0,61,6.68,97.16,134.79,3,4
+BHEL,Ashoka Garden,20,0,1,29,7.96,160.52,167.62,2,1
+Railway Station,Airport,21,1,0,73,8.55,167.6,170.42,9,0
+Indrapuri,New Market,10,3,1,27,10.37,136.44,191.73,4,8
+Shahpura,Lalghati,23,3,0,65,11.14,181.68,203.07,10,6
+BHEL,Railway Station,4,2,0,91,8.71,167.52,195.37,2,9
+Shahpura,Habibganj,20,3,1,84,2.26,105.12,114.99,10,3
+Indrapuri,New Market,16,0,0,99,10.37,181.44,220.46,4,8
+Habibganj,Kolar,20,1,0,81,5.08,97.96,132.67,3,5
+BHEL,Lalghati,20,6,1,73,12.5,231.0,274.2,2,6
+Indrapuri,Railway Station,19,5,0,80,7.42,163.04,157.31,4,9
+Habibganj,Kolar,15,0,1,84,5.08,99.96,161.34,3,5
+Kolar,Shahpura,23,0,1,34,4.91,88.92,116.7,5,10
+Shahpura,MP Nagar,20,6,0,38,3.67,108.04,91.24,10,7
+Lalghati,BHEL,10,3,1,95,12.5,230.0,312.0,6,2
+Kolar,MP Nagar,13,5,0,97,5.82,82.84,139.59,5,7
+Habibganj,Railway Station,3,0,1,91,4.71,86.52,152.43,3,9
+Indrapuri,Kolar,7,3,0,37,11.56,170.72,177.12,4,5
+Railway Station,BHEL,19,0,1,39,8.71,165.52,177.62,9,2
+Indrapuri,Railway Station,0,3,0,55,7.42,126.04,149.09,4,9
+Shahpura,Airport,14,5,1,31,14.75,200.0,257.0,10,0
+Kolar,BHEL,20,0,0,21,13.11,231.32,207.52,5,2
+Railway Station,Indrapuri,6,3,1,36,7.42,177.04,166.02,9,4
+New Market,Shahpura,14,6,0,65,6.72,136.64,143.14,8,10
+MP Nagar,Shahpura,3,6,1,41,3.67,63.04,96.65,7,10
+Ashoka Garden,Habibganj,5,2,0,21,5.07,139.84,112.54,1,3
+Habibganj,New Market,4,6,0,35,4.74,118.88,103.48,3,8
+Habibganj,Indrapuri,19,3,0,100,6.68,162.16,167.01,3,4
+Shahpura,Lalghati,19,0,1,52,11.14,183.68,245.15,10,6
+Habibganj,MP Nagar,15,5,1,74,1.42,71.04,82.66,3,7
+Shahpura,Habibganj,23,2,0,65,2.26,40.12,72.46,10,3
+MP Nagar,Railway Station,16,3,1,90,3.31,107.72,133.15,7,9
+Shahpura,BHEL,10,4,0,27,8.38,128.56,138.16,10,2
+MP Nagar,New Market,9,3,1,86,3.82,108.84,141.94,7,8
+Ashoka Garden,BHEL,17,6,0,41,7.96,160.52,143.02,1,2
+Railway Station,Ashoka Garden,14,5,0,53,0.98,81.76,68.01,9,1
+Shahpura,Kolar,21,3,1,96,4.91,133.92,165.27,10,5
+New Market,Habibganj,4,2,0,63,4.74,130.88,120.64,8,3
+Kolar,Airport,23,2,1,20,14.03,183.36,245.03,5,0
+Ashoka Garden,Indrapuri,6,5,1,45,6.76,103.12,141.74,1,4
+New Market,Shahpura,14,3,0,21,6.72,160.64,132.64,8,10
+Ashoka Garden,Indrapuri,11,4,1,48,6.76,127.12,146.54,1,4
+Ashoka Garden,Habibganj,5,0,0,39,5.07,123.84,107.74,1,3
+Indrapuri,Airport,11,1,1,26,15.69,241.28,276.54,4,0
+New Market,Kolar,4,1,1,20,5.79,95.48,128.58,8,5
+MP Nagar,New Market,2,3,0,32,3.82,108.84,92.74,7,8
+Lalghati,New Market,4,4,1,80,5.76,128.12,156.57,6,8
+Shahpura,Indrapuri,23,6,0,93,6.89,101.68,157.74,10,4
+MP Nagar,Indrapuri,10,3,0,77,6.76,146.12,145.58,7,4
+Habibganj,BHEL,9,0,0,55,8.25,159.0,165.24,3,2
+Habibganj,New Market,8,5,0,29,4.74,144.88,111.28,3,8
+Habibganj,MP Nagar,22,1,0,83,1.42,77.04,79.29,3,7
+Kolar,Indrapuri,11,2,1,72,11.56,155.72,245.61,5,4
+Indrapuri,Railway Station,21,0,0,80,7.42,177.04,161.51,4,9
+Habibganj,Kolar,2,4,1,32,5.08,102.96,121.55,3,5
+Kolar,Ashoka Garden,19,0,0,78,9.32,124.84,170.73,5,1
+Lalghati,Habibganj,22,6,0,61,8.88,130.56,166.81,6,3
+Railway Station,Shahpura,23,4,1,27,6.92,106.04,144.25,9,10
+MP Nagar,Habibganj,9,4,0,82,1.42,70.04,77.89,7,3
+Railway Station,Indrapuri,21,5,0,33,7.42,167.04,140.44,9,4
+Lalghati,Habibganj,13,3,1,84,8.88,181.56,241.5,6,3
+Shahpura,New Market,4,4,0,70,6.72,100.64,135.94,10,8
+Shahpura,Habibganj,5,3,1,33,2.26,76.12,82.34,10,3
+Shahpura,MP Nagar,10,2,1,73,3.67,130.04,127.25,10,7
+Habibganj,MP Nagar,18,1,0,27,1.42,45.04,54.64,3,7
+Shahpura,BHEL,2,3,0,30,8.38,162.56,147.16,10,2
+BHEL,New Market,20,5,1,81,11.86,179.32,291.11,2,8
+Habibganj,New Market,6,2,1,76,4.74,133.88,143.03,3,8
+Railway Station,Ashoka Garden,6,3,0,48,0.98,32.76,47.96,9,1
+Indrapuri,MP Nagar,20,0,1,33,6.76,132.12,147.54,4,7
+Railway Station,Kolar,1,0,1,64,8.59,178.08,207.31,9,5
+Habibganj,Shahpura,4,5,1,32,2.26,111.12,92.07,3,10
+MP Nagar,Kolar,5,6,0,43,5.82,85.84,105.04,7,5
+Airport,Lalghati,10,5,0,22,4.25,113.0,97.6,0,6
+Shahpura,BHEL,14,4,0,27,8.38,120.56,136.56,10,2
+Kolar,Habibganj,8,1,0,94,5.08,105.96,134.27,5,3
+New Market,Airport,22,5,1,32,8.43,118.16,164.79,8,0
+New Market,Kolar,9,5,0,57,5.79,156.48,138.91,8,5
+Lalghati,Railway Station,0,1,0,31,4.47,81.64,91.24,6,9
+Railway Station,Shahpura,18,1,1,50,6.92,146.04,152.25,9,10
+BHEL,Railway Station,0,2,1,73,8.71,133.52,200.13,2,9
+Habibganj,Airport,2,0,0,71,12.53,202.36,223.22,3,0
+Lalghati,MP Nagar,7,1,0,35,7.47,176.64,143.74,6,7
+MP Nagar,Airport,13,6,1,55,11.19,215.28,252.19,7,0
+BHEL,Lalghati,7,1,1,92,12.5,173.0,300.6,2,6
+Airport,BHEL,17,3,0,49,16.74,222.88,237.28,0,2
+Ashoka Garden,Airport,20,5,1,48,8.99,134.88,174.86,1,0
+Indrapuri,Kolar,23,3,0,35,11.56,215.72,189.82,4,5
+Indrapuri,Ashoka Garden,15,4,0,61,6.76,155.12,148.28,4,1
+Ashoka Garden,Kolar,20,6,0,96,9.32,192.84,208.63,1,5
+Lalghati,Railway Station,12,6,0,52,4.47,82.64,106.42,6,9
+Habibganj,Shahpura,22,3,0,35,2.26,70.12,68.02,3,10
+Shahpura,BHEL,10,1,0,49,8.38,130.56,138.56,10,2
+Airport,Kolar,2,6,0,64,14.03,250.36,250.13,0,5
+Shahpura,Lalghati,14,5,0,89,11.14,201.68,234.86,10,6
+Lalghati,Railway Station,1,5,0,23,4.47,108.64,98.14,6,9
+Railway Station,Airport,11,1,1,57,8.55,137.6,198.64,9,0
+Lalghati,Shahpura,18,6,0,27,11.14,191.68,179.08,6,10
+Lalghati,Ashoka Garden,2,0,0,94,4.78,141.36,137.82,6,1
+New Market,Lalghati,10,6,1,51,5.76,89.12,148.77,8,6
+Airport,Kolar,0,6,1,66,14.03,187.36,287.5,0,5
+New Market,Ashoka Garden,23,2,0,82,4.99,86.88,129.24,8,1
+Habibganj,Airport,1,1,1,84,12.53,181.36,302.78,3,0
+Railway Station,BHEL,9,2,0,80,8.71,153.52,169.44,9,2
+Ashoka Garden,Airport,3,6,1,75,8.99,155.88,208.63,1,0
+Railway Station,Lalghati,8,0,1,76,4.47,88.64,130.1,9,6
+MP Nagar,Shahpura,12,2,0,89,3.67,80.04,110.13,7,10
+Lalghati,Habibganj,0,4,0,89,8.88,129.56,190.06,6,3
+Indrapuri,Shahpura,4,3,0,60,6.89,132.68,144.31,4,10
+Kolar,Indrapuri,14,6,0,79,11.56,209.72,213.52,5,4
+BHEL,Lalghati,15,5,1,51,12.5,204.0,268.8,2,6
+Ashoka Garden,Railway Station,1,4,0,75,0.98,21.76,54.04,1,9
+Lalghati,Habibganj,19,1,1,29,8.88,178.56,182.27,6,3
+Lalghati,Shahpura,19,0,0,34,11.14,215.68,186.28,6,10
+MP Nagar,Indrapuri,19,1,0,30,6.76,98.12,116.52,7,4
+Ashoka Garden,New Market,1,4,0,39,4.99,105.88,101.68,1,8
+New Market,Ashoka Garden,16,3,1,76,4.99,136.88,147.23,8,1
+Shahpura,Lalghati,20,1,1,58,11.14,213.68,251.15,10,6
+BHEL,Airport,9,3,1,28,16.74,243.88,289.66,2,0
+Ashoka Garden,Indrapuri,21,2,0,39,6.76,108.12,118.52,1,4
+BHEL,Lalghati,1,1,0,20,12.5,219.0,198.7,2,6
+Habibganj,Ashoka Garden,4,3,1,69,5.07,137.84,148.58,3,1
+Habibganj,New Market,11,0,1,64,4.74,82.88,132.83,3,8
+Lalghati,Habibganj,20,3,1,53,8.88,122.56,200.38,6,3
+MP Nagar,Ashoka Garden,21,0,1,44,3.76,120.12,110.52,7,1
+Airport,MP Nagar,17,1,0,96,11.19,176.28,230.45,0,7
+Airport,New Market,11,4,0,71,8.43,185.16,174.12,0,8
+Railway Station,Habibganj,19,0,1,49,4.71,70.52,110.62,9,3
+MP Nagar,Ashoka Garden,10,1,0,24,3.76,71.12,82.32,7,1
+Shahpura,Railway Station,14,3,0,29,6.92,172.04,137.74,10,9
+Habibganj,Indrapuri,20,5,0,87,6.68,153.16,165.21,3,4
+New Market,BHEL,4,5,0,100,11.86,185.32,241.26,8,2
+MP Nagar,Habibganj,15,3,1,62,1.42,40.04,76.46,7,3
+MP Nagar,Shahpura,14,3,0,46,3.67,80.04,83.24,7,10
+Kolar,New Market,16,4,1,50,5.79,159.48,143.64,5,8
+Ashoka Garden,Kolar,21,6,1,30,9.32,161.84,184.21,1,5
+MP Nagar,New Market,20,6,0,62,3.82,77.84,97.97,7,8
+BHEL,Indrapuri,8,2,0,86,1.57,40.84,74.07,2,4
+BHEL,Kolar,1,6,1,82,13.11,173.32,310.91,2,5
+Airport,New Market,23,6,1,75,8.43,161.16,201.62,0,8
+Airport,Railway Station,17,4,0,46,8.55,177.6,153.1,0,9
+Lalghati,MP Nagar,10,5,0,93,7.47,109.64,167.12,6,7
+Airport,Indrapuri,7,6,0,87,15.69,235.28,302.73,0,4
+Indrapuri,Habibganj,2,5,0,73,6.68,95.16,134.39,4,3
+Airport,MP Nagar,4,2,0,88,11.19,177.28,230.65,0,7
+Kolar,Indrapuri,14,5,0,65,11.56,205.72,212.72,5,4
+Ashoka Garden,New Market,18,2,0,31,4.99,119.88,105.88,1,8
+Airport,BHEL,15,2,1,30,16.74,287.88,298.46,0,2
+MP Nagar,Airport,5,6,1,95,11.19,185.28,281.05,7,0
+Lalghati,Habibganj,15,6,0,43,8.88,157.56,149.86,6,3
+BHEL,Indrapuri,14,6,1,98,1.57,78.84,98.14,2,4
+Airport,Habibganj,4,5,0,25,12.53,229.36,202.06,0,3
+Shahpura,Lalghati,11,6,1,82,11.14,171.68,277.49,10,6
+Airport,Indrapuri,11,2,1,37,15.69,233.28,274.94,0,4
+Airport,Ashoka Garden,19,5,0,71,8.99,181.88,178.78,0,1
+Habibganj,Airport,9,5,1,32,12.53,173.36,225.03,3,0
+Ashoka Garden,MP Nagar,9,0,0,90,3.76,129.12,122.15,1,7
+New Market,BHEL,22,2,1,28,11.86,201.32,222.58,8,2
+Kolar,Habibganj,3,2,1,21,5.08,113.96,123.75,5,3
+MP Nagar,Lalghati,14,6,1,45,7.47,175.64,166.13,7,6
+Shahpura,New Market,8,6,0,54,6.72,130.64,141.94,10,8
+Habibganj,Shahpura,6,3,1,21,2.26,60.12,79.14,3,10
+Habibganj,Ashoka Garden,21,5,1,94,5.07,94.84,160.14,3,1
+Kolar,MP Nagar,3,6,1,64,5.82,93.84,150.58,5,7
+Railway Station,Airport,23,5,1,68,8.55,145.6,200.24,9,0
+New Market,Lalghati,23,4,1,22,5.76,147.12,139.62,8,6
+Ashoka Garden,Indrapuri,8,3,0,33,6.76,155.12,131.32,1,4
+Kolar,New Market,0,1,0,32,5.79,153.48,122.68,5,8
+Airport,Indrapuri,6,3,1,23,15.69,274.28,283.14,0,4
+MP Nagar,Habibganj,0,0,0,83,1.42,52.04,74.29,7,3
+New Market,Ashoka Garden,23,6,1,52,4.99,102.88,140.43,8,1
+MP Nagar,Shahpura,8,3,0,60,3.67,98.04,100.29,7,10
+Kolar,Indrapuri,13,2,0,92,11.56,148.72,229.91,5,4
+Kolar,Indrapuri,5,6,1,48,11.56,187.72,216.26,5,4
+BHEL,Indrapuri,9,1,0,29,1.57,69.84,62.14,2,4
+Shahpura,BHEL,11,1,1,77,8.38,188.56,206.38,10,2
+Kolar,New Market,21,2,1,65,5.79,135.48,158.47,5,8
+Railway Station,New Market,7,0,1,60,4.02,106.24,127.14,9,8
+New Market,MP Nagar,1,0,1,34,3.82,98.84,105.61,8,7
+Railway Station,Lalghati,16,2,0,62,4.47,81.64,106.22,9,6
+Shahpura,Airport,18,6,1,23,14.75,258.0,268.6,10,0
+BHEL,Shahpura,21,6,0,59,8.38,129.56,160.85,2,10
+Habibganj,Ashoka Garden,20,0,1,72,5.07,81.84,137.38,3,1
+Habibganj,MP Nagar,7,1,1,55,1.42,67.04,81.86,3,7
+Kolar,MP Nagar,2,6,1,91,5.82,113.84,176.54,5,7
+BHEL,Habibganj,23,4,1,34,8.25,174.0,173.82,2,3
+Shahpura,Ashoka Garden,6,5,1,86,7.18,106.16,197.86,10,1
+Shahpura,Railway Station,6,5,0,34,6.92,121.04,122.64,10,9
+BHEL,Airport,14,2,0,88,16.74,277.88,325.36,2,0
+Indrapuri,BHEL,16,5,0,36,1.57,81.84,65.74,4,2
+Kolar,Habibganj,13,1,1,93,5.08,117.96,164.94,5,3
+BHEL,Ashoka Garden,14,0,0,80,7.96,146.52,159.4,2,1
+New Market,Ashoka Garden,8,6,0,76,4.99,121.88,120.46,8,1
+Kolar,Habibganj,21,3,0,35,5.08,73.96,95.56,5,3
+New Market,BHEL,7,3,1,36,11.86,156.32,213.58,8,2
+Indrapuri,New Market,0,6,1,100,10.37,203.44,270.9,4,8
+Ashoka Garden,Airport,7,1,0,69,8.99,117.88,165.54,1,0
+Airport,New Market,3,0,1,74,8.43,147.16,198.82,0,8
+New Market,Shahpura,5,3,1,82,6.72,141.64,197.22,8,10
+Shahpura,Kolar,13,0,0,95,4.91,115.92,133.97,10,5
+Lalghati,MP Nagar,1,3,0,41,7.47,163.64,139.84,6,7
+Ashoka Garden,New Market,7,3,0,90,4.99,125.88,137.04,1,8
+Railway Station,Kolar,4,1,1,89,8.59,130.08,226.33,9,5
+Railway Station,Habibganj,12,4,1,88,4.71,136.52,162.43,9,3
+Railway Station,Indrapuri,4,5,1,54,7.42,175.04,189.86,9,4
+Lalghati,Shahpura,8,5,0,68,11.14,151.68,197.07,6,10
+Shahpura,Habibganj,22,0,0,100,2.26,84.12,92.0,10,3
+New Market,MP Nagar,2,3,1,22,3.82,61.84,98.21,8,7
+Railway Station,Shahpura,13,2,0,56,6.92,105.04,139.13,9,10
+Indrapuri,New Market,17,3,0,41,10.37,178.44,168.64,4,8
+New Market,Lalghati,14,4,1,85,5.76,79.12,168.59,8,6
+Indrapuri,MP Nagar,20,0,0,38,6.76,148.12,129.22,4,7
+Railway Station,Indrapuri,2,4,1,90,7.42,117.04,204.06,9,4
+Shahpura,Ashoka Garden,1,3,1,94,7.18,152.16,207.06,10,1
+Shahpura,MP Nagar,14,6,0,48,3.67,81.04,83.44,10,7
+Shahpura,New Market,5,4,1,21,6.72,98.64,140.37,10,8
+Lalghati,Indrapuri,4,5,0,62,11.44,193.28,208.84,6,4
+Airport,Indrapuri,4,5,0,44,15.69,206.28,223.88,0,4
+Airport,New Market,7,0,1,58,8.43,116.16,192.62,0,8
+Railway Station,Ashoka Garden,12,6,1,79,0.98,69.76,76.06,9,1
+BHEL,Shahpura,23,5,1,77,8.38,190.56,206.78,2,10
+Airport,Lalghati,16,5,1,52,4.25,131.0,135.4,0,6
+BHEL,Indrapuri,8,1,0,22,1.57,29.84,53.04,2,4
+Indrapuri,New Market,17,3,1,100,10.37,160.44,262.3,4,8
+New Market,Ashoka Garden,8,6,1,91,4.99,97.88,159.41,8,1
+Lalghati,New Market,2,3,0,59,5.76,133.12,131.6,6,8
+Habibganj,New Market,19,2,0,82,4.74,79.88,124.48,3,8
+Railway Station,Kolar,13,6,0,85,8.59,162.08,192.67,9,5
+MP Nagar,Railway Station,13,3,0,98,3.31,101.72,109.63,7,9
+Kolar,BHEL,13,1,0,37,13.11,241.32,210.52,5,2
+Kolar,Indrapuri,5,5,1,54,11.56,202.72,255.01,5,4
+Airport,MP Nagar,5,1,0,94,11.19,215.28,238.25,0,7
+Lalghati,Railway Station,4,1,0,71,4.47,102.64,110.42,6,9
+Indrapuri,Kolar,18,0,0,57,11.56,149.72,201.52,4,5
+Lalghati,Ashoka Garden,8,2,1,45,4.78,111.36,119.63,6,1
+Ashoka Garden,Habibganj,10,2,1,78,5.07,98.84,140.78,1,3
+Habibganj,Shahpura,11,5,1,46,2.26,44.12,75.94,3,10
+Shahpura,New Market,10,4,1,78,6.72,132.64,171.3,10,8
+Shahpura,Railway Station,11,1,1,54,6.92,137.04,175.06,10,9
+Ashoka Garden,Railway Station,0,2,1,35,0.98,30.76,57.91,1,9
+BHEL,Kolar,1,6,1,70,13.11,197.32,276.25,2,5
+Kolar,MP Nagar,10,5,1,23,5.82,105.84,131.01,5,7
+Kolar,Lalghati,18,6,1,46,11.53,172.36,212.83,5,6
+Airport,BHEL,12,5,0,56,16.74,232.88,277.82,0,2
+BHEL,Shahpura,17,4,1,92,8.38,162.56,229.3,2,10
+Airport,Kolar,11,0,0,30,14.03,258.36,223.36,0,5
+Railway Station,MP Nagar,10,3,0,43,3.31,125.72,93.52,9,7
+Shahpura,MP Nagar,18,4,1,98,3.67,76.04,132.86,10,7
+Airport,Indrapuri,6,5,1,20,15.69,215.28,271.34,0,4
+New Market,Ashoka Garden,16,6,0,27,4.99,118.88,105.58,8,1
+Airport,BHEL,17,2,1,65,16.74,273.88,343.83,0,2
+Airport,Lalghati,4,1,1,28,4.25,111.0,113.2,0,6
+BHEL,Ashoka Garden,19,5,1,94,7.96,163.52,222.43,2,1
+Airport,Shahpura,17,1,0,53,14.75,193.0,246.92,0,10
+Railway Station,Lalghati,15,4,1,94,4.47,112.64,153.62,9,6
+Shahpura,Kolar,0,2,0,91,4.91,74.92,125.77,10,5
+Railway Station,Shahpura,7,3,0,36,6.92,98.04,118.04,9,10
+New Market,Airport,3,4,1,29,8.43,152.16,171.59,8,0
+Shahpura,Airport,21,4,1,33,14.75,228.0,262.6,10,0
+Habibganj,Railway Station,14,0,1,69,4.71,81.52,132.13,3,9
+MP Nagar,Shahpura,20,0,1,26,3.67,108.04,105.95,7,10
+MP Nagar,Lalghati,16,3,1,28,7.47,162.64,162.23,7,6
+Airport,MP Nagar,0,0,0,91,11.19,221.28,239.45,0,7
+BHEL,Shahpura,3,4,1,64,8.38,137.56,196.18,2,10
+Ashoka Garden,Railway Station,11,2,0,96,0.98,70.76,72.12,1,9
+New Market,Railway Station,9,6,0,24,4.02,112.24,95.44,8,9
+Indrapuri,Airport,6,6,1,61,15.69,222.28,318.39,4,0
+Airport,Shahpura,18,0,1,63,14.75,253.0,311.0,0,10
+Shahpura,MP Nagar,5,6,1,51,3.67,63.04,113.46,10,7
+Railway Station,BHEL,13,2,0,41,8.71,134.52,142.52,9,2
+MP Nagar,New Market,16,0,1,20,3.82,129.84,114.06,7,8
+Indrapuri,BHEL,16,4,0,60,1.57,84.84,74.88,4,2
+BHEL,Habibganj,13,3,1,63,8.25,182.0,203.2,2,3
+Lalghati,Habibganj,5,6,0,31,8.88,148.56,147.16,6,3
+Airport,Indrapuri,18,4,0,33,15.69,244.28,233.08,0,4
+Railway Station,BHEL,21,4,1,91,8.71,145.52,231.43,9,2
+New Market,Airport,15,4,0,100,8.43,126.16,183.33,8,0
+Indrapuri,Shahpura,6,3,1,50,6.89,137.68,150.22,4,10
+Kolar,Habibganj,15,2,0,90,5.08,87.96,130.67,5,3
+Shahpura,BHEL,1,4,0,42,8.38,181.56,152.86,10,2
+Lalghati,Airport,10,4,1,48,4.25,134.0,119.83,6,0
+Indrapuri,Lalghati,11,6,1,27,11.44,212.28,219.74,4,6
+BHEL,Airport,7,3,1,44,16.74,244.88,289.86,2,0
+Ashoka Garden,Lalghati,3,5,0,32,4.78,128.36,106.66,1,6
+Railway Station,MP Nagar,20,4,0,36,3.31,75.72,78.92,9,7
+New Market,Indrapuri,1,1,0,30,10.37,176.44,168.04,8,4
+Airport,Lalghati,7,2,0,96,4.25,88.0,119.52,0,6
+New Market,Airport,18,0,1,81,8.43,138.16,225.26,8,0
+Airport,Railway Station,18,2,1,26,8.55,119.6,166.52,0,9
+Indrapuri,New Market,1,1,0,86,10.37,207.44,225.66,4,8
+Habibganj,Railway Station,8,5,0,28,4.71,72.52,91.72,3,9
+Lalghati,Ashoka Garden,23,4,1,92,4.78,131.36,162.58,6,1
+Shahpura,MP Nagar,16,6,1,58,3.67,93.04,119.46,10,7
+Indrapuri,Ashoka Garden,16,2,1,32,6.76,116.12,144.34,4,1
+Railway Station,Shahpura,23,2,1,32,6.92,122.04,147.45,9,10
+Indrapuri,MP Nagar,7,1,1,99,6.76,149.12,199.39,4,7
+Airport,Kolar,18,4,1,95,14.03,253.36,342.38,0,5
+MP Nagar,Kolar,23,2,0,31,5.82,150.84,122.14,7,5
+Ashoka Garden,Railway Station,2,0,0,24,0.98,101.76,66.76,1,9
+New Market,Indrapuri,14,5,0,53,10.37,138.44,185.55,8,4
+New Market,Kolar,14,0,0,97,5.79,124.48,147.51,8,5
+Shahpura,BHEL,19,2,0,91,8.38,111.56,179.74,10,2
+Shahpura,Railway Station,22,5,0,94,6.92,112.04,160.21,10,9
+Kolar,Indrapuri,0,5,0,92,11.56,226.72,245.51,5,4
+Habibganj,Indrapuri,10,3,1,90,6.68,114.16,191.06,3,4
+Railway Station,Airport,7,2,1,79,8.55,132.6,197.64,9,0
+BHEL,Ashoka Garden,22,0,0,54,7.96,110.52,152.2,2,1
+Habibganj,Shahpura,8,1,0,64,2.26,77.12,79.86,3,10
+Indrapuri,Lalghati,20,3,1,29,11.44,202.28,217.74,4,6
+New Market,Railway Station,14,1,1,35,4.02,136.24,118.08,8,9
+Kolar,Habibganj,18,3,1,37,5.08,72.96,115.55,5,3
+Lalghati,MP Nagar,0,2,0,24,7.47,156.64,137.74,6,7
+BHEL,Kolar,15,4,1,71,13.11,203.32,277.45,2,5
+Lalghati,MP Nagar,9,0,1,61,7.47,99.64,175.5,6,7
+New Market,Habibganj,10,2,0,64,4.74,136.88,122.44,8,3
+Railway Station,BHEL,18,0,1,47,8.71,176.52,179.82,9,2
+New Market,BHEL,15,3,0,25,11.86,175.32,180.92,8,2
+Shahpura,Airport,19,3,0,57,14.75,241.0,256.52,10,0
+Ashoka Garden,New Market,5,5,1,81,4.99,124.88,164.81,1,8
+Ashoka Garden,Kolar,2,6,1,54,9.32,189.84,220.18,1,5
+Railway Station,MP Nagar,22,5,1,73,3.31,83.72,112.41,9,7
+Ashoka Garden,Shahpura,17,4,1,50,7.18,163.16,159.34,1,10
+Airport,New Market,9,6,0,91,8.43,120.16,182.13,0,8
+BHEL,Lalghati,19,3,1,47,12.5,166.0,223.2,2,6
+Indrapuri,MP Nagar,16,3,0,25,6.76,96.12,116.12,4,7
+Lalghati,MP Nagar,14,4,0,74,7.47,174.64,161.29,6,7
+BHEL,Ashoka Garden,10,2,1,23,7.96,165.52,168.62,2,1
+Railway Station,Kolar,4,2,1,31,8.59,134.08,169.9,9,5
+New Market,Indrapuri,20,1,1,44,10.37,141.44,192.73,8,4
+New Market,Lalghati,13,3,1,85,5.76,111.12,174.99,8,6
+Indrapuri,Shahpura,8,2,1,73,6.89,114.68,170.15,4,10
+Ashoka Garden,BHEL,7,2,1,60,7.96,169.52,196.53,1,2
+Airport,Kolar,18,2,0,98,14.03,188.36,271.04,0,5
+Ashoka Garden,MP Nagar,7,1,1,30,3.76,74.12,99.94,1,7
+Habibganj,Indrapuri,7,6,0,96,6.68,169.16,168.5,3,4
+New Market,Shahpura,7,4,1,42,6.72,99.64,140.57,8,10
+Airport,Kolar,8,2,1,87,14.03,214.36,334.58,0,5
+Indrapuri,BHEL,5,4,0,26,1.57,50.84,57.24,4,2
+Lalghati,Ashoka Garden,4,3,0,83,4.78,82.36,125.52,6,1
+Railway Station,Kolar,15,1,0,27,8.59,183.08,155.08,9,5
+Railway Station,Kolar,5,0,0,48,8.59,115.08,137.48,9,5
+Shahpura,Kolar,20,2,0,39,4.91,136.92,110.32,10,5
+Ashoka Garden,Lalghati,2,1,1,58,4.78,92.36,135.3,1,6
+Lalghati,BHEL,5,4,1,77,12.5,218.0,271.6,6,2
+MP Nagar,Airport,11,3,1,24,11.19,162.28,206.74,7,0
+Airport,Ashoka Garden,11,5,1,58,8.99,158.88,209.23,0,1
+Railway Station,MP Nagar,8,0,1,55,3.31,57.72,107.21,9,7
+Shahpura,Indrapuri,7,0,0,77,6.89,95.68,136.91,10,4
+BHEL,Railway Station,0,2,1,79,8.71,152.52,203.93,2,9
+Indrapuri,Lalghati,13,5,0,31,11.44,184.28,179.38,4,6
+Shahpura,Kolar,18,6,1,59,4.91,80.92,134.89,10,5
+Habibganj,Airport,22,6,1,76,12.53,214.36,271.3,3,0
+New Market,Airport,21,4,0,82,8.43,115.16,181.13,8,0
+Railway Station,BHEL,1,2,0,62,8.71,153.52,169.44,9,2
+Kolar,BHEL,6,6,1,100,13.11,224.32,321.11,5,2
+BHEL,MP Nagar,21,0,1,97,8.3,174.6,230.36,2,7
+MP Nagar,New Market,17,3,1,41,3.82,122.84,111.96,7,8
+Airport,Kolar,3,6,0,84,14.03,227.36,278.84,0,5
+Shahpura,BHEL,1,2,1,86,8.38,119.56,220.7,10,2
+Ashoka Garden,Kolar,2,3,0,27,9.32,186.84,162.34,1,5
+MP Nagar,Railway Station,1,1,0,39,3.31,106.72,87.82,7,9
+Shahpura,MP Nagar,23,4,0,72,3.67,116.04,105.41,10,7
+Railway Station,Indrapuri,22,6,1,67,7.42,147.04,184.26,9,4
+Ashoka Garden,Indrapuri,20,0,1,40,6.76,121.12,145.34,1,4
+Railway Station,BHEL,9,3,1,78,8.71,131.52,199.73,9,2
+Railway Station,MP Nagar,19,6,1,23,3.31,85.72,96.86,9,7
+Ashoka Garden,Shahpura,1,4,0,79,7.18,113.16,143.75,1,10
+Habibganj,BHEL,9,5,1,76,8.25,163.0,199.4,3,2
+Airport,Habibganj,1,6,1,70,12.53,208.36,270.1,0,3
+Lalghati,New Market,16,5,1,32,5.76,140.12,137.52,6,8
+Railway Station,BHEL,23,3,1,37,8.71,191.52,183.91,9,2
+Habibganj,Indrapuri,20,3,1,74,6.68,111.16,166.42,3,4
+Habibganj,New Market,23,4,1,39,4.74,117.88,120.46,3,8
+Airport,Lalghati,3,4,0,27,4.25,133.0,103.6,0,6
+New Market,Habibganj,0,5,0,33,4.74,92.88,96.08,8,3
+Shahpura,Indrapuri,19,3,1,75,6.89,152.68,177.75,10,4
+BHEL,New Market,7,3,0,44,11.86,198.32,187.12,2,8
+Habibganj,BHEL,11,5,1,62,8.25,111.0,189.0,3,2
+Kolar,Lalghati,2,2,1,28,11.53,166.36,211.63,5,6
+Habibganj,BHEL,14,5,1,83,8.25,144.0,223.4,3,2
+Airport,Indrapuri,0,0,0,97,15.69,222.28,300.13,0,4
+New Market,Habibganj,14,1,0,69,4.74,114.88,115.98,8,3
+Habibganj,BHEL,7,2,1,38,8.25,124.0,163.8,3,2
+MP Nagar,Shahpura,3,0,1,62,3.67,127.04,126.35,7,10
+Lalghati,BHEL,9,6,1,84,12.5,216.0,309.2,6,2
+BHEL,Ashoka Garden,6,4,0,69,7.96,151.52,160.4,2,1
+BHEL,New Market,15,2,1,21,11.86,231.32,228.93,2,8
+Indrapuri,Ashoka Garden,1,6,1,63,6.76,147.12,174.77,4,1
+BHEL,Airport,19,0,0,69,16.74,241.88,279.62,2,0
+BHEL,Ashoka Garden,2,4,0,93,7.96,116.52,175.09,2,1
+Habibganj,Railway Station,23,6,1,60,4.71,117.52,139.33,3,9
+BHEL,Indrapuri,13,5,0,61,1.57,71.84,70.98,2,4
+Habibganj,Railway Station,19,3,0,78,4.71,97.52,112.16,3,9
+BHEL,Ashoka Garden,18,5,0,73,7.96,173.52,165.89,2,1
+Ashoka Garden,Lalghati,14,4,1,61,4.78,128.36,142.5,1,6
+Indrapuri,Kolar,13,1,1,20,11.56,182.72,215.26,4,5
+Habibganj,Ashoka Garden,2,6,1,52,5.07,128.84,146.78,3,1
+Ashoka Garden,MP Nagar,9,3,1,35,3.76,110.12,107.52,1,7
+BHEL,Ashoka Garden,12,2,1,80,7.96,146.52,191.93,2,1
+BHEL,Kolar,14,4,0,42,13.11,241.32,210.52,2,5
+MP Nagar,New Market,2,6,1,33,3.82,127.84,113.46,7,8
+Habibganj,Kolar,6,4,1,95,5.08,131.96,167.74,3,5
+Kolar,Indrapuri,5,3,0,67,11.56,224.72,217.54,5,4
+Ashoka Garden,New Market,13,6,1,64,4.99,117.88,143.43,1,8
+New Market,BHEL,5,2,0,99,11.86,186.32,241.46,8,2
+BHEL,MP Nagar,10,3,1,61,8.3,180.6,203.64,2,7
+Railway Station,Habibganj,21,2,1,82,4.71,129.52,161.03,9,3
+Kolar,Lalghati,17,0,1,79,11.53,170.36,248.1,5,6
+Indrapuri,Kolar,16,0,1,98,11.56,200.72,290.35,4,5
+Shahpura,Airport,19,3,0,67,14.75,235.0,255.32,10,0
+Kolar,New Market,16,6,1,50,5.79,110.48,131.58,5,8
+Kolar,Ashoka Garden,20,3,0,60,9.32,139.84,173.73,5,1
+Airport,Railway Station,21,2,1,52,8.55,155.6,202.24,0,9
+Kolar,BHEL,16,0,1,22,13.11,210.32,239.38,5,2
+New Market,Lalghati,4,2,1,42,5.76,117.12,132.54,8,6
+MP Nagar,Ashoka Garden,9,0,0,45,3.76,128.12,98.02,7,1
+Shahpura,Habibganj,6,0,1,82,2.26,86.12,111.19,10,3
+Shahpura,Railway Station,11,0,0,54,6.92,163.04,152.27,10,9
+Ashoka Garden,Lalghati,3,3,0,35,4.78,104.36,99.46,1,6
+MP Nagar,BHEL,15,5,0,22,8.3,154.6,144.1,7,2
+Indrapuri,Lalghati,17,1,1,96,11.44,169.28,282.05,4,6
+BHEL,Lalghati,5,2,0,74,12.5,193.0,221.0,2,6
+Airport,Shahpura,4,5,1,77,14.75,241.0,308.6,0,10
+Kolar,New Market,13,0,1,37,5.79,150.48,140.94,5,8
+Lalghati,Indrapuri,0,3,0,54,11.44,157.28,201.64,6,4
+Habibganj,MP Nagar,2,2,0,26,1.42,48.04,55.24,3,7
+BHEL,New Market,8,3,1,21,11.86,152.32,212.78,2,8
+BHEL,Indrapuri,15,1,1,70,1.57,69.84,84.58,2,4
+Ashoka Garden,Railway Station,15,1,1,34,0.98,44.76,60.71,1,9
+Kolar,Railway Station,1,4,1,64,8.59,154.08,202.51,5,9
+Kolar,MP Nagar,2,4,0,55,5.82,84.84,122.41,5,7
+BHEL,Airport,10,3,1,98,16.74,259.88,389.21,2,0
+BHEL,Lalghati,22,4,1,77,12.5,186.0,265.2,2,6
+Habibganj,Indrapuri,19,6,0,88,6.68,152.16,165.01,3,4
+New Market,Habibganj,8,3,0,49,4.74,96.88,96.88,8,3
+Ashoka Garden,BHEL,23,1,1,38,7.96,181.52,173.04,1,2
+Lalghati,New Market,2,4,1,57,5.76,134.12,157.77,6,8
+MP Nagar,Airport,21,4,0,67,11.19,205.28,208.36,7,0
+MP Nagar,Shahpura,11,6,0,25,3.67,95.04,87.34,7,10
+New Market,Ashoka Garden,17,6,1,42,4.99,93.88,118.66,8,1
+MP Nagar,BHEL,2,6,1,77,8.3,188.6,205.24,7,2
+Habibganj,BHEL,16,6,1,21,8.25,129.0,164.8,3,2
+Railway Station,Shahpura,13,2,1,54,6.92,133.04,174.26,9,10
+MP Nagar,New Market,7,1,1,48,3.82,65.84,99.01,7,8
+Railway Station,Shahpura,3,6,1,48,6.92,130.04,149.05,9,10
+Airport,Lalghati,4,2,1,62,4.25,92.0,127.6,0,6
+Shahpura,MP Nagar,10,5,0,71,3.67,123.04,107.51,10,7
+New Market,Shahpura,23,4,1,86,6.72,135.64,196.02,8,10
+Railway Station,Lalghati,14,5,1,61,4.47,99.64,132.3,9,6
+Railway Station,Lalghati,14,2,1,67,4.47,70.64,126.5,9,6
+Kolar,MP Nagar,2,1,0,99,5.82,148.84,152.79,5,7
+Shahpura,BHEL,11,1,1,31,8.38,113.56,163.27,10,2
+Habibganj,Shahpura,23,5,0,33,2.26,88.12,73.42,3,10
+Indrapuri,BHEL,16,3,1,54,1.57,73.84,85.38,4,2
+Indrapuri,BHEL,21,1,0,42,1.57,76.84,64.24,4,2
+Railway Station,Ashoka Garden,0,6,0,99,0.98,89.76,77.65,9,1
+Shahpura,Habibganj,3,0,1,61,2.26,55.12,91.57,10,3
+Kolar,Railway Station,17,5,1,64,8.59,145.08,200.71,5,9
+Habibganj,BHEL,18,1,0,83,8.25,130.0,181.68,3,2
+Airport,Railway Station,1,3,1,87,8.55,150.6,229.76,0,9
+Lalghati,New Market,14,0,1,82,5.76,118.12,176.39,6,8
+Lalghati,Habibganj,9,5,0,31,8.88,187.56,158.86,6,3
+Lalghati,Shahpura,19,3,0,40,11.14,175.68,174.28,6,10
+Habibganj,Lalghati,23,6,1,37,8.88,179.56,182.47,3,6
+Ashoka Garden,Kolar,13,2,1,83,9.32,191.84,250.94,1,5
+Kolar,BHEL,15,4,1,46,13.11,196.32,236.58,5,2
+Kolar,Ashoka Garden,21,1,0,87,9.32,163.84,202.83,5,1
+BHEL,Indrapuri,15,0,0,74,1.57,69.84,70.45,2,4
+Railway Station,Lalghati,13,4,1,57,4.47,137.64,139.9,9,6
+BHEL,MP Nagar,9,4,0,26,8.3,126.6,137.0,2,7
+Ashoka Garden,Indrapuri,7,6,1,65,6.76,107.12,166.77,1,4
+Lalghati,Habibganj,7,0,0,59,8.88,163.56,173.41,6,3
+Habibganj,MP Nagar,19,0,1,67,1.42,35.04,75.46,3,7
+Kolar,Indrapuri,22,3,1,81,11.56,167.72,283.75,5,4
+Kolar,Lalghati,10,3,1,87,11.53,210.36,291.78,5,6
+Airport,Lalghati,8,1,0,25,4.25,139.0,105.4,0,6
+Shahpura,Ashoka Garden,15,3,1,65,7.18,176.16,186.62,10,1
+Shahpura,MP Nagar,22,2,1,44,3.67,99.04,103.85,10,7
+Lalghati,Shahpura,1,6,0,35,11.14,213.68,185.68,6,10
+BHEL,MP Nagar,2,0,1,68,8.3,112.6,190.04,2,7
+New Market,Lalghati,12,6,1,98,5.76,88.12,170.39,8,6
+Lalghati,Habibganj,21,1,1,34,8.88,187.56,184.51,6,3
+New Market,Ashoka Garden,11,2,0,38,4.99,130.88,109.18,8,1
+Indrapuri,Habibganj,1,4,0,91,6.68,130.16,160.61,4,3
+Kolar,Railway Station,15,5,0,71,8.59,184.08,175.41,5,9
+Kolar,Indrapuri,15,2,1,24,11.56,175.72,213.86,5,4
+MP Nagar,BHEL,22,5,1,46,8.3,110.6,161.72,7,2
+Airport,BHEL,1,5,1,46,16.74,212.88,283.46,0,2
+Airport,Lalghati,6,0,0,95,4.25,67.0,115.32,0,6
+New Market,BHEL,13,6,1,88,11.86,155.32,286.31,8,2
+MP Nagar,Railway Station,12,3,1,48,3.31,100.72,99.97,7,9
+Lalghati,Airport,3,1,1,40,4.25,65.0,104.0,6,0
+Habibganj,Lalghati,0,4,1,53,8.88,133.56,202.58,3,6
+Lalghati,Railway Station,18,6,1,31,4.47,63.64,106.37,6,9
+Railway Station,Airport,15,4,0,48,8.55,177.6,153.1,9,0
+Habibganj,BHEL,19,6,0,83,8.25,129.0,181.48,3,2
+Kolar,New Market,1,0,1,60,5.79,100.48,151.47,5,8
+Ashoka Garden,Habibganj,0,1,1,33,5.07,72.84,115.41,1,3
+Ashoka Garden,Lalghati,13,3,1,87,4.78,68.36,149.98,1,6
+BHEL,Railway Station,0,2,1,76,8.71,122.52,197.93,2,9
+Shahpura,Indrapuri,12,1,0,68,6.89,167.68,153.36,10,4
+BHEL,Airport,2,4,1,27,16.74,250.88,291.06,2,0
+Indrapuri,Lalghati,6,5,1,65,11.44,154.28,243.59,4,6
+Shahpura,Habibganj,22,5,0,56,2.26,76.12,79.66,10,3
+Shahpura,Ashoka Garden,4,5,1,66,7.18,161.16,183.62,10,1
+Lalghati,Indrapuri,13,5,0,41,11.44,167.28,175.28,6,4
+Ashoka Garden,Lalghati,22,1,1,90,4.78,116.36,159.58,1,6
+MP Nagar,Indrapuri,7,1,0,20,6.76,140.12,126.82,7,4
+Lalghati,Kolar,2,6,0,37,11.53,153.36,173.36,6,5
+Habibganj,Ashoka Garden,21,2,0,27,5.07,148.84,115.24,3,1
+New Market,Ashoka Garden,4,2,1,29,4.99,146.88,131.46,8,1
+BHEL,Railway Station,15,5,1,31,8.71,170.52,178.62,2,9
+New Market,Shahpura,22,1,0,81,6.72,107.64,156.64,8,10
+BHEL,MP Nagar,13,4,1,30,8.3,117.6,163.12,2,7
+Habibganj,MP Nagar,2,5,1,93,1.42,33.04,86.46,3,7
+Shahpura,Ashoka Garden,10,3,1,55,7.18,152.16,181.82,10,1
+MP Nagar,Habibganj,22,1,1,91,1.42,104.04,101.09,7,3
+Kolar,Indrapuri,3,4,1,82,11.56,193.72,288.95,5,4
+Airport,Railway Station,9,2,1,92,8.55,145.6,228.76,0,9
+Kolar,Shahpura,18,1,1,58,4.91,102.92,139.29,5,10
+Indrapuri,BHEL,12,0,0,73,1.57,58.84,68.25,4,2
+Shahpura,Ashoka Garden,22,6,0,69,7.18,118.16,144.75,10,1
+Railway Station,Airport,12,6,1,69,8.55,132.6,197.64,9,0
+MP Nagar,BHEL,5,4,1,100,8.3,110.6,217.56,7,2
+Railway Station,BHEL,16,4,1,22,8.71,190.52,183.61,9,2
+New Market,Lalghati,7,5,0,87,5.76,107.12,143.64,8,6
+Ashoka Garden,MP Nagar,8,2,1,49,3.76,113.12,108.42,1,7
+Ashoka Garden,Indrapuri,7,0,1,47,6.76,171.12,157.32,1,4
+Shahpura,MP Nagar,17,0,0,34,3.67,128.04,97.24,10,7
+New Market,Habibganj,20,2,0,87,4.74,86.88,125.88,8,3
+MP Nagar,Airport,20,1,0,87,11.19,188.28,232.85,7,0
+New Market,Railway Station,3,2,0,88,4.02,80.24,114.88,8,9
+Indrapuri,MP Nagar,4,5,1,24,6.76,158.12,153.42,4,7
+Ashoka Garden,Shahpura,7,5,0,59,7.18,102.16,141.55,1,10
+New Market,Kolar,16,0,1,71,5.79,109.48,153.27,8,5
+Lalghati,MP Nagar,7,1,0,28,7.47,103.64,124.44,6,7
+MP Nagar,Kolar,7,6,0,29,5.82,148.84,121.54,7,5
+Airport,Shahpura,2,3,0,86,14.75,258.0,294.64,0,10
+Habibganj,Airport,16,6,1,66,12.53,234.36,275.3,3,0
+Ashoka Garden,Kolar,8,6,1,35,9.32,201.84,193.41,1,5
+BHEL,Habibganj,20,4,0,32,8.25,180.0,151.3,2,3
+Airport,Railway Station,18,3,0,63,8.55,179.6,173.66,0,9
+New Market,Habibganj,14,3,0,57,4.74,106.88,114.38,8,3
+MP Nagar,Airport,15,4,0,43,11.19,195.28,180.58,7,0
+MP Nagar,Ashoka Garden,6,1,1,99,3.76,63.12,131.79,7,1
+Railway Station,Ashoka Garden,8,5,1,71,0.98,30.76,68.26,9,1
+Railway Station,MP Nagar,9,6,0,49,3.31,120.72,92.02,9,7
+BHEL,Kolar,18,1,0,34,13.11,202.32,198.82,2,5
+New Market,Habibganj,9,1,1,23,4.74,121.88,121.33,8,3
+Indrapuri,BHEL,19,3,1,77,1.57,99.84,91.73,4,2
+Habibganj,MP Nagar,0,4,1,82,1.42,36.04,87.06,3,7
+Railway Station,New Market,13,6,0,56,4.02,115.24,108.69,9,8
+New Market,Indrapuri,7,0,0,41,10.37,145.44,160.64,8,4
+Shahpura,MP Nagar,3,2,0,85,3.67,111.04,116.33,10,7
+Kolar,New Market,11,5,0,59,5.79,108.48,126.8,5,8
+Indrapuri,Habibganj,23,3,0,35,6.68,137.16,125.26,4,3
+Shahpura,New Market,22,5,1,31,6.72,157.64,152.85,10,8
+BHEL,Lalghati,22,5,1,99,12.5,236.0,313.2,2,6
+Habibganj,Ashoka Garden,19,3,1,21,5.07,101.84,121.21,3,1
+Indrapuri,Ashoka Garden,15,3,0,35,6.76,145.12,128.32,4,1
+Habibganj,Kolar,18,5,1,98,5.08,121.96,165.74,3,5
+Kolar,Habibganj,13,0,1,49,5.08,78.96,116.75,5,3
+Airport,BHEL,21,0,1,79,16.74,266.88,342.43,0,2
+Kolar,Airport,3,5,0,61,14.03,238.36,247.7,5,0
+MP Nagar,Shahpura,1,3,0,56,3.67,76.04,95.89,7,10
+New Market,Indrapuri,10,5,0,48,10.37,163.44,164.24,8,4
+New Market,Lalghati,0,3,1,64,5.76,107.12,152.37,8,6
+Airport,BHEL,2,3,1,86,16.74,256.88,388.61,0,2
+BHEL,Habibganj,6,1,0,81,8.25,187.0,193.08,2,3
+Indrapuri,BHEL,16,2,1,30,1.57,85.84,77.24,4,2
+New Market,Ashoka Garden,12,3,1,99,4.99,126.88,165.21,8,1
+Lalghati,New Market,15,5,1,24,5.76,83.12,125.74,6,8
+Indrapuri,Ashoka Garden,13,2,1,91,6.76,171.12,203.79,4,1
+New Market,Indrapuri,11,0,0,65,10.37,152.44,188.35,8,4
+MP Nagar,BHEL,15,6,1,57,8.3,120.6,191.64,7,2
+Airport,MP Nagar,17,2,0,69,11.19,202.28,207.76,0,7
+MP Nagar,Habibganj,8,3,1,76,1.42,87.04,86.0,7,3
+Indrapuri,Lalghati,10,4,1,82,11.44,204.28,289.05,4,6
+Airport,Indrapuri,14,0,1,51,15.69,222.28,318.39,0,4
+Habibganj,Railway Station,15,5,1,59,4.71,126.52,141.13,3,9
+MP Nagar,BHEL,9,4,0,29,8.3,118.6,135.4,7,2
+Ashoka Garden,Railway Station,17,2,1,28,0.98,27.76,57.31,1,9
+Habibganj,New Market,19,0,0,25,4.74,114.88,102.28,3,8
+Airport,New Market,9,6,0,67,8.43,183.16,173.52,0,8
+Airport,Shahpura,23,5,1,72,14.75,206.0,301.6,0,10
+Ashoka Garden,Airport,19,2,0,53,8.99,189.88,181.18,1,0
+Shahpura,Habibganj,15,3,0,89,2.26,103.12,96.71,10,3
+Ashoka Garden,Kolar,18,5,1,49,9.32,123.84,176.61,1,5
+Shahpura,BHEL,19,5,1,44,8.38,145.56,169.67,10,2
+Habibganj,Ashoka Garden,8,1,0,79,5.07,100.84,116.97,3,1
+MP Nagar,Ashoka Garden,14,6,0,21,3.76,92.12,87.22,7,1
+Lalghati,Ashoka Garden,18,5,0,93,4.78,68.36,122.72,6,1
+Railway Station,Indrapuri,17,2,1,83,7.42,167.04,214.06,9,4
+Lalghati,Railway Station,14,4,1,58,4.47,130.64,138.5,6,9
+Kolar,Habibganj,7,0,0,84,5.08,83.96,129.87,5,3
+Habibganj,BHEL,22,4,0,37,8.25,155.0,143.8,3,2
+Railway Station,Lalghati,1,6,1,100,4.47,80.64,147.22,9,6
+BHEL,Indrapuri,20,3,0,71,1.57,74.84,71.88,2,4
+BHEL,Lalghati,16,0,1,78,12.5,160.0,260.0,2,6
+Airport,Ashoka Garden,23,1,0,73,8.99,159.88,173.94,0,1
+BHEL,MP Nagar,10,1,0,95,8.3,173.6,191.07,2,7
+Railway Station,New Market,17,0,1,42,4.02,115.24,111.78,9,8
+Kolar,Habibganj,15,3,0,52,5.08,115.96,120.11,5,3
+Kolar,Indrapuri,6,5,1,28,11.56,202.72,219.26,5,4
+Habibganj,Lalghati,14,3,1,68,8.88,130.56,201.98,3,6
+Kolar,New Market,23,2,1,47,5.79,80.48,125.58,5,8
+Railway Station,Kolar,18,6,1,32,8.59,168.08,176.7,9,5
+Ashoka Garden,Shahpura,1,6,1,90,7.18,161.16,208.86,1,10
+Indrapuri,Lalghati,8,2,0,46,11.44,210.28,187.18,4,6
+Kolar,Railway Station,22,1,0,69,8.59,173.08,172.11,5,9
+BHEL,Indrapuri,13,3,1,85,1.57,54.84,93.34,2,4
+Kolar,Shahpura,16,2,1,77,4.91,107.92,140.29,5,10
+BHEL,Lalghati,5,1,1,99,12.5,184.0,302.8,2,6
+Railway Station,Kolar,15,1,0,81,8.59,129.08,186.07,9,5
+Habibganj,MP Nagar,2,3,1,22,1.42,67.04,70.45,3,7
+BHEL,Airport,20,0,0,50,16.74,241.88,241.18,2,0
+New Market,Indrapuri,8,6,0,27,10.37,151.44,161.84,8,4
+Indrapuri,Airport,6,3,0,32,15.69,268.28,240.28,4,0
+Railway Station,MP Nagar,9,4,0,94,3.31,62.72,101.83,9,7
+Habibganj,MP Nagar,15,2,1,54,1.42,51.04,78.66,3,7
+Airport,New Market,22,3,1,27,8.43,163.16,173.79,0,8
+Airport,Kolar,21,1,0,85,14.03,223.36,278.04,0,5
+Indrapuri,Habibganj,19,4,0,95,6.68,134.16,161.41,4,3
+Kolar,Habibganj,6,0,0,61,5.08,135.96,125.59,5,3
+BHEL,Habibganj,2,6,1,87,8.25,139.0,222.4,2,3
+Lalghati,Railway Station,5,5,1,72,4.47,103.64,133.1,6,9
+New Market,Ashoka Garden,0,3,0,63,4.99,126.88,121.96,8,1
+BHEL,Indrapuri,22,4,1,37,1.57,89.84,78.44,2,4
+Railway Station,New Market,18,5,0,41,4.02,89.24,88.54,9,8
+MP Nagar,BHEL,2,3,0,81,8.3,110.6,178.47,7,2
+New Market,Ashoka Garden,10,3,0,80,4.99,96.88,115.26,8,1
+Ashoka Garden,New Market,20,2,1,86,4.99,76.88,155.21,1,8
+Shahpura,Kolar,10,0,0,75,4.91,145.92,126.87,10,5
+Airport,Kolar,23,1,1,67,14.03,231.36,296.3,0,5
+New Market,Kolar,11,2,0,80,5.79,105.48,126.2,8,5
+Lalghati,Shahpura,14,4,0,23,11.14,174.68,173.98,6,10
+BHEL,MP Nagar,5,4,1,26,8.3,171.6,173.92,2,7
+Shahpura,Railway Station,10,1,0,77,6.92,96.04,137.33,10,9
+MP Nagar,Habibganj,13,3,1,28,1.42,47.04,66.45,7,3
+Lalghati,Ashoka Garden,19,3,0,65,4.78,118.36,117.29,6,1
+New Market,Ashoka Garden,4,5,1,40,4.99,131.88,126.96,8,1
+Railway Station,Ashoka Garden,17,6,1,97,0.98,85.76,89.62,9,1
+Lalghati,BHEL,19,3,1,59,12.5,235.0,275.0,6,2
+Lalghati,BHEL,12,2,1,92,12.5,213.0,308.6,6,2
+Railway Station,New Market,13,2,1,66,4.02,89.24,123.74,9,8
+Kolar,New Market,4,6,1,99,5.79,105.48,174.37,5,8
+New Market,BHEL,2,4,0,55,11.86,192.32,213.49,8,2
+BHEL,New Market,1,5,1,50,11.86,179.32,218.18,2,8
+Habibganj,Railway Station,12,6,0,58,4.71,97.52,112.16,3,9
+Ashoka Garden,Railway Station,6,3,0,69,0.98,75.76,66.21,1,9
+New Market,BHEL,1,0,0,37,11.86,228.32,196.12,8,2
+Shahpura,Railway Station,17,4,0,33,6.92,114.04,121.24,10,9
+MP Nagar,Kolar,16,2,1,73,5.82,104.84,152.78,7,5
+BHEL,Kolar,18,6,1,89,13.11,238.32,323.91,2,5
+Railway Station,Shahpura,20,1,0,26,6.92,95.04,117.44,9,10
+New Market,MP Nagar,6,6,0,45,3.82,128.84,98.74,8,7
+BHEL,Indrapuri,9,1,1,43,1.57,86.84,77.54,2,4
+Ashoka Garden,Habibganj,5,3,1,99,5.07,125.84,166.34,1,3
+Ashoka Garden,Kolar,0,6,0,20,9.32,159.84,154.24,1,5
+Lalghati,Ashoka Garden,14,6,0,95,4.78,92.36,127.52,6,1
+BHEL,New Market,11,4,1,30,11.86,231.32,228.93,2,8
+Kolar,Railway Station,8,6,0,92,8.59,142.08,188.67,5,9
+New Market,Kolar,13,6,0,27,5.79,159.48,124.48,8,5
+Kolar,New Market,11,2,0,39,5.79,97.48,107.08,5,8
+Habibganj,MP Nagar,9,6,1,22,1.42,87.04,76.02,3,7
+Railway Station,Indrapuri,8,0,0,56,7.42,150.04,153.89,9,4
+BHEL,New Market,22,2,1,72,11.86,227.32,264.25,2,8
+Shahpura,Ashoka Garden,1,1,1,23,7.18,164.16,159.64,10,1
+MP Nagar,New Market,23,5,0,25,3.82,134.84,100.54,7,8
+MP Nagar,New Market,12,6,1,52,3.82,121.84,127.38,7,8
+Lalghati,MP Nagar,8,4,0,79,7.47,134.64,151.38,6,7
+Habibganj,BHEL,6,6,1,47,8.25,124.0,163.8,3,2
+BHEL,Shahpura,1,5,0,43,8.38,171.56,149.86,2,10
+Lalghati,New Market,20,5,1,58,5.76,87.12,148.37,6,8
+Kolar,BHEL,21,3,1,34,13.11,176.32,232.58,5,2
+Habibganj,BHEL,8,4,0,21,8.25,138.0,138.8,3,2
+Indrapuri,Kolar,5,5,1,41,11.56,155.72,209.86,4,5
+New Market,Railway Station,18,5,1,54,4.02,106.24,127.14,8,9
+Railway Station,Shahpura,4,1,0,90,6.92,144.04,166.61,9,10
+New Market,Lalghati,23,4,1,76,5.76,94.12,149.77,8,6
+Habibganj,Railway Station,19,5,1,58,4.71,82.52,132.33,3,9
+Railway Station,Habibganj,11,4,0,66,4.71,68.52,106.36,9,3
+Ashoka Garden,MP Nagar,1,2,0,88,3.76,117.12,118.76,1,7
+Railway Station,BHEL,16,6,1,85,8.71,194.52,241.23,9,2
+Railway Station,Indrapuri,21,4,0,79,7.42,124.04,148.69,9,4
+Habibganj,Shahpura,11,2,1,20,2.26,84.12,83.97,3,10
+Lalghati,MP Nagar,21,2,0,89,7.47,120.64,169.32,6,7
+Shahpura,Lalghati,23,5,0,55,11.14,203.68,207.47,10,6
+Kolar,Habibganj,4,5,0,59,5.08,112.96,119.51,5,3
+Kolar,New Market,12,4,0,48,5.79,110.48,109.78,5,8
+Shahpura,Kolar,18,6,0,100,4.91,123.92,135.57,10,5
+MP Nagar,Indrapuri,16,6,0,92,6.76,119.12,159.48,7,4
+BHEL,New Market,7,0,1,45,11.86,208.32,223.98,2,8
+New Market,Railway Station,2,2,1,79,4.02,82.24,122.34,8,9
+Habibganj,Shahpura,14,1,1,50,2.26,39.12,74.94,3,10
+Ashoka Garden,Kolar,15,0,0,44,9.32,158.84,153.94,1,5
+New Market,BHEL,3,1,1,77,11.86,186.32,256.05,8,2
+Railway Station,Shahpura,9,0,1,66,6.92,101.04,167.86,9,10
+Railway Station,Habibganj,9,6,0,25,4.71,113.52,101.62,9,3
+Kolar,Habibganj,12,2,0,96,5.08,136.96,140.47,5,3
+Shahpura,Indrapuri,22,2,0,33,6.89,100.68,118.28,10,4
+Shahpura,Railway Station,16,3,0,74,6.92,122.04,142.53,10,9
+Shahpura,New Market,16,2,1,26,6.72,170.64,156.75,10,8
+Shahpura,Ashoka Garden,18,2,0,75,7.18,131.16,147.35,10,1
+Railway Station,Kolar,9,5,0,73,8.59,141.08,165.57,9,5
+Habibganj,Shahpura,16,1,1,86,2.26,115.12,116.99,3,10
+New Market,Indrapuri,11,4,1,81,10.37,169.44,264.1,8,4
+MP Nagar,Airport,23,2,1,27,11.19,167.28,207.74,7,0
+Ashoka Garden,New Market,5,3,0,100,4.99,79.88,127.84,1,8
+Kolar,Airport,14,5,1,67,14.03,182.36,286.5,5,0
+BHEL,Ashoka Garden,6,0,1,88,7.96,141.52,218.03,2,1
+BHEL,Shahpura,14,2,0,45,8.38,149.56,143.26,2,10
+Shahpura,Airport,16,0,1,69,14.75,196.0,299.6,10,0
+MP Nagar,Ashoka Garden,0,2,1,36,3.76,89.12,102.94,7,1
+MP Nagar,Shahpura,17,4,1,57,3.67,88.04,118.46,7,10
+Habibganj,Kolar,20,5,1,73,5.08,87.96,138.74,3,5
+BHEL,Shahpura,19,1,1,50,8.38,152.56,171.07,2,10
+MP Nagar,New Market,13,0,0,79,3.82,127.84,110.46,7,8
+Habibganj,Lalghati,7,3,0,52,8.88,127.56,166.21,3,6
+Shahpura,Kolar,9,1,0,83,4.91,137.92,138.37,10,5
+Shahpura,Habibganj,11,6,0,98,2.26,58.12,86.8,10,3
+MP Nagar,Habibganj,12,5,1,88,1.42,44.04,88.66,7,3
+MP Nagar,Lalghati,13,2,0,36,7.47,144.64,134.14,7,6
+Ashoka Garden,Kolar,15,1,1,26,9.32,183.84,188.61,1,5
+Kolar,Ashoka Garden,4,4,1,32,9.32,200.84,193.11,5,1
+Habibganj,Lalghati,9,4,1,32,8.88,122.56,171.07,3,6
+Airport,New Market,14,5,0,54,8.43,176.16,171.42,0,8
+Indrapuri,Railway Station,19,5,0,43,7.42,121.04,127.44,4,9
+Kolar,Indrapuri,9,0,1,26,11.56,210.72,220.86,5,4
+Kolar,Airport,13,2,1,50,14.03,228.36,254.03,5,0
+BHEL,Habibganj,21,1,1,25,8.25,124.0,163.8,2,3
+Ashoka Garden,BHEL,21,1,1,71,7.96,183.52,199.33,1,2
+Ashoka Garden,Railway Station,22,0,0,88,0.98,98.76,80.35,1,9
+Kolar,Lalghati,17,2,1,59,11.53,220.36,258.1,5,6
+Lalghati,Shahpura,11,1,1,68,11.14,169.68,242.35,6,10
+Habibganj,MP Nagar,3,4,0,67,1.42,35.04,61.77,3,7
+Kolar,BHEL,6,0,1,48,13.11,230.32,243.38,5,2
+Kolar,Ashoka Garden,14,2,1,28,9.32,187.84,189.41,5,1
+Ashoka Garden,BHEL,8,4,0,22,7.96,111.52,130.72,1,2
+New Market,Lalghati,17,1,1,37,5.76,127.12,134.54,8,6
+Ashoka Garden,MP Nagar,5,5,1,47,3.76,65.12,98.14,1,7
+Kolar,MP Nagar,3,1,0,90,5.82,150.84,153.19,5,7
+Lalghati,Airport,11,4,0,46,4.25,113.0,97.6,6,0
+BHEL,Lalghati,14,0,1,62,12.5,180.0,264.0,2,6
+Railway Station,Habibganj,14,1,0,90,4.71,96.52,127.41,9,3
+Shahpura,Railway Station,1,2,1,32,6.92,143.04,151.65,10,9
+New Market,Kolar,12,2,1,71,5.79,147.48,160.87,8,5
+Ashoka Garden,Shahpura,9,5,0,43,7.18,144.16,131.56,1,10
+Shahpura,BHEL,19,2,1,28,8.38,151.56,170.87,10,2
+Railway Station,Habibganj,11,0,1,60,4.71,68.52,129.53,9,3
+Railway Station,Kolar,4,3,0,46,8.59,187.08,156.28,9,5
+Railway Station,Habibganj,15,5,0,73,4.71,144.52,124.43,9,3
+New Market,Lalghati,16,3,1,100,5.76,144.12,181.59,8,6
+Kolar,Lalghati,3,5,0,98,11.53,167.36,233.24,5,6
+BHEL,Lalghati,17,0,1,35,12.5,170.0,224.0,2,6
+Airport,MP Nagar,23,3,1,54,11.19,178.28,244.79,0,7
+Habibganj,BHEL,18,0,1,41,8.25,122.0,163.4,3,2
+Railway Station,Kolar,5,3,1,97,8.59,123.08,224.93,9,5
+Kolar,Ashoka Garden,9,5,1,90,9.32,145.84,241.74,5,1
+Habibganj,Indrapuri,9,5,1,31,6.68,95.16,139.19,3,4
+MP Nagar,Lalghati,16,5,0,80,7.47,130.64,150.58,7,6
+Habibganj,Shahpura,12,6,1,81,2.26,96.12,113.19,3,10
+Shahpura,Lalghati,3,5,1,53,11.14,164.68,241.35,10,6
+Kolar,Habibganj,23,0,0,37,5.08,115.96,105.46,5,3
+BHEL,Shahpura,23,4,0,36,8.38,117.56,135.96,2,10
+BHEL,Habibganj,3,1,0,56,8.25,178.0,170.16,2,3
+Habibganj,Railway Station,16,6,0,82,4.71,66.52,121.41,3,9
+Lalghati,Shahpura,21,4,0,37,11.14,159.68,170.88,6,10
+Shahpura,Airport,0,3,0,69,14.75,254.0,259.12,10,0
+New Market,Lalghati,3,4,1,89,5.76,88.12,170.39,8,6
+Railway Station,Airport,5,2,1,86,8.55,172.6,234.16,9,0
+Railway Station,Shahpura,12,5,1,91,6.92,166.04,205.46,9,10
+Railway Station,BHEL,10,6,1,42,8.71,117.52,168.02,9,2
+MP Nagar,Airport,8,5,0,75,11.19,224.28,213.68,7,0
+Indrapuri,Airport,17,4,0,48,15.69,272.28,241.48,4,0
+Kolar,Habibganj,21,6,1,73,5.08,127.96,146.74,5,3
+Kolar,Habibganj,3,4,0,53,5.08,116.96,120.31,5,3
+Kolar,Lalghati,9,6,0,69,11.53,193.36,209.9,5,6
+New Market,BHEL,8,6,1,43,11.86,220.32,226.38,8,2
+Airport,New Market,3,0,0,37,8.43,150.16,143.86,0,8
+New Market,Lalghati,22,4,1,33,5.76,113.12,131.74,8,6
+Indrapuri,Lalghati,12,1,1,48,11.44,186.28,214.54,4,6
+New Market,Ashoka Garden,20,3,0,59,4.99,93.88,114.66,8,1
+Shahpura,Lalghati,15,1,1,56,11.14,190.68,246.55,10,6
+New Market,Airport,15,6,0,30,8.43,151.16,144.16,8,0
+New Market,Airport,6,4,1,84,8.43,121.16,221.86,8,0
+Lalghati,Airport,1,3,0,67,4.25,75.0,102.36,6,0
+Shahpura,Kolar,6,2,0,26,4.91,124.92,106.72,10,5
+BHEL,Lalghati,17,0,0,38,12.5,161.0,184.2,2,6
+BHEL,Shahpura,21,1,0,32,8.38,176.56,151.36,2,10
+MP Nagar,Indrapuri,0,1,1,82,6.76,129.12,195.39,7,4
+BHEL,Lalghati,13,1,1,61,12.5,218.0,271.6,2,6
+Lalghati,Kolar,3,3,0,42,11.53,152.36,173.16,6,5
+Habibganj,New Market,2,0,0,89,4.74,82.88,125.08,3,8
+Lalghati,Shahpura,1,3,0,74,11.14,165.68,199.87,6,10
+Lalghati,BHEL,17,3,0,36,12.5,201.0,193.3,6,2
+Habibganj,BHEL,8,5,0,63,8.25,120.0,157.44,3,2
+Shahpura,New Market,7,6,0,95,6.72,119.64,159.04,10,8
+Ashoka Garden,Habibganj,10,2,1,46,5.07,100.84,121.01,1,3
+Habibganj,Railway Station,20,5,1,76,4.71,71.52,130.13,3,9
+MP Nagar,Airport,14,4,1,41,11.19,160.28,206.34,7,0
+MP Nagar,BHEL,13,2,1,93,8.3,147.6,224.96,7,2
+Habibganj,BHEL,15,4,0,94,8.25,165.0,188.68,3,2
+Ashoka Garden,New Market,14,4,1,66,4.99,96.88,139.23,1,8
+New Market,Lalghati,20,0,1,39,5.76,119.12,132.94,8,6
+Lalghati,New Market,7,3,0,91,5.76,137.12,149.64,6,8
+Airport,Shahpura,17,5,1,59,14.75,247.0,309.8,0,10
+Habibganj,Kolar,16,0,0,49,5.08,97.96,100.36,3,5
+Kolar,Lalghati,11,0,1,60,11.53,206.36,255.3,5,6
+Airport,Indrapuri,21,2,0,49,15.69,239.28,231.58,0,4
+MP Nagar,New Market,11,2,1,81,3.82,128.84,145.94,7,8
+New Market,Kolar,8,3,0,33,5.79,85.48,104.68,8,5
+Shahpura,MP Nagar,7,3,0,74,3.67,87.04,98.09,10,7
+Kolar,Railway Station,13,5,1,24,8.59,160.08,175.1,5,9
+Railway Station,Airport,18,5,0,66,8.55,162.6,169.42,9,0
+New Market,Shahpura,15,3,0,58,6.72,101.64,136.14,8,10
+Kolar,New Market,11,4,1,74,5.79,106.48,152.67,5,8
+MP Nagar,Ashoka Garden,7,4,1,23,3.76,104.12,105.94,7,1
+Airport,Habibganj,5,5,1,77,12.53,220.36,272.5,0,3
+Lalghati,BHEL,4,1,0,40,12.5,212.0,196.6,6,2
+MP Nagar,Airport,0,5,0,77,11.19,217.28,211.58,7,0
+Indrapuri,New Market,15,1,1,61,10.37,165.44,230.42,4,8
+Lalghati,Indrapuri,22,2,1,90,11.44,171.28,282.45,6,4
+BHEL,Indrapuri,10,5,1,37,1.57,76.84,74.54,2,4
+Airport,Lalghati,8,4,0,66,4.25,90.0,105.36,0,6
+BHEL,Railway Station,2,2,1,30,8.71,180.52,180.62,2,9
+Indrapuri,Kolar,8,6,0,100,11.56,176.72,235.51,4,5
+Habibganj,Shahpura,0,6,0,97,2.26,67.12,88.6,3,10
+Airport,MP Nagar,11,1,0,36,11.19,176.28,174.88,0,7
+MP Nagar,Habibganj,13,6,0,51,1.42,44.04,63.57,7,3
+Ashoka Garden,Lalghati,4,3,0,54,4.78,80.36,109.54,1,6
+Airport,BHEL,16,1,1,64,16.74,220.88,333.23,0,2
+Ashoka Garden,MP Nagar,17,3,0,72,3.76,55.12,92.74,1,7
+Lalghati,Airport,16,6,1,36,4.25,107.0,112.4,6,0
+Shahpura,MP Nagar,1,6,1,72,3.67,79.04,116.66,10,7
+MP Nagar,Shahpura,15,6,0,97,3.67,66.04,107.33,7,10
+Lalghati,Indrapuri,17,4,0,86,11.44,207.28,240.01,6,4
+Indrapuri,New Market,8,5,0,37,10.37,190.44,172.24,4,8
+Ashoka Garden,BHEL,1,4,0,61,7.96,175.52,166.49,1,2
+Kolar,MP Nagar,12,1,0,47,5.82,142.84,119.74,5,7
+Indrapuri,BHEL,2,2,0,21,1.57,106.84,73.24,4,2
+BHEL,Indrapuri,19,4,0,39,1.57,51.84,57.44,2,4
+Airport,Kolar,3,3,1,56,14.03,232.36,296.5,0,5
+Ashoka Garden,Indrapuri,14,4,1,21,6.76,113.12,143.74,1,4
+Lalghati,MP Nagar,3,6,1,42,7.47,108.64,151.37,6,7
+Shahpura,Airport,11,4,1,92,14.75,233.0,350.4,10,0
+New Market,Indrapuri,21,1,1,70,10.37,195.44,236.42,8,4
+Habibganj,BHEL,3,4,0,65,8.25,142.0,161.84,3,2
+Shahpura,Kolar,1,0,0,90,4.91,109.92,132.77,10,5
+Lalghati,Habibganj,16,4,0,57,8.88,161.56,173.01,6,3
+Railway Station,Kolar,18,5,1,33,8.59,193.08,183.12,9,5
+Shahpura,Kolar,11,2,0,49,4.91,130.92,108.52,10,5
+Kolar,Habibganj,16,0,1,62,5.08,141.96,149.54,5,3
+Ashoka Garden,Shahpura,15,1,0,98,7.18,140.16,169.33,1,10
+Habibganj,Lalghati,18,2,0,54,8.88,195.56,181.78,3,6
+Lalghati,New Market,4,3,1,29,5.76,150.12,140.52,6,8
+Lalghati,BHEL,7,6,1,82,12.5,235.0,313.0,6,2
+Lalghati,Shahpura,16,5,0,20,11.14,173.68,173.68,6,10
+Airport,Kolar,22,0,1,96,14.03,253.36,342.38,0,5
+New Market,Ashoka Garden,18,6,1,91,4.99,101.88,160.21,8,1
+Indrapuri,Railway Station,3,3,1,58,7.42,144.04,183.66,4,9
+MP Nagar,New Market,2,0,1,56,3.82,88.84,120.78,7,8
+Airport,Shahpura,23,0,0,68,14.75,201.0,248.52,0,10
+Indrapuri,MP Nagar,15,6,0,88,6.76,123.12,160.28,4,7
+Lalghati,Kolar,17,3,1,29,11.53,220.36,222.43,6,5
+Kolar,Habibganj,23,1,0,79,5.08,122.96,121.69,5,3
+Ashoka Garden,MP Nagar,5,6,1,36,3.76,55.12,96.14,1,7
+Kolar,Habibganj,1,2,1,84,5.08,133.96,168.14,5,3
+New Market,Kolar,19,2,1,87,5.79,151.48,183.57,8,5
+Ashoka Garden,Shahpura,18,3,1,43,7.18,171.16,161.74,1,10
+Lalghati,Ashoka Garden,0,3,1,84,4.78,111.36,158.58,6,1
+Ashoka Garden,BHEL,9,4,0,21,7.96,112.52,130.92,1,2
+New Market,Lalghati,4,6,0,37,5.76,80.12,103.32,8,6
+BHEL,Shahpura,5,4,0,95,8.38,154.56,188.34,2,10
+Habibganj,Shahpura,5,6,1,91,2.26,109.12,115.79,3,10
+BHEL,Indrapuri,9,2,0,72,1.57,60.84,68.65,2,4
+Indrapuri,MP Nagar,16,3,0,51,6.76,100.12,136.3,4,7
+Railway Station,Habibganj,14,4,1,69,4.71,77.52,131.33,9,3
+MP Nagar,New Market,20,0,1,64,3.82,71.84,117.38,7,8
+Airport,Habibganj,7,3,0,44,12.53,213.36,197.26,0,3
+Shahpura,MP Nagar,22,2,0,36,3.67,59.04,79.04,10,7
+New Market,MP Nagar,1,2,1,84,3.82,67.84,133.74,8,7
+Lalghati,New Market,14,0,0,45,5.76,143.12,119.32,6,8
+Airport,New Market,10,0,1,66,8.43,173.16,204.02,0,8
+Ashoka Garden,BHEL,23,0,0,89,7.96,105.52,172.89,1,2
+MP Nagar,Habibganj,5,1,0,91,1.42,79.04,79.69,7,3
+Habibganj,Lalghati,14,5,0,28,8.88,149.56,147.46,3,6
+Ashoka Garden,Habibganj,23,4,0,55,5.07,150.84,129.96,1,3
+New Market,Indrapuri,17,1,0,82,10.37,148.44,213.86,8,4
+Indrapuri,Shahpura,15,5,1,51,6.89,146.68,176.55,4,10
+BHEL,Kolar,13,4,0,74,13.11,171.32,223.69,2,5
+New Market,Railway Station,7,1,0,78,4.02,138.24,115.59,8,9
+Airport,Shahpura,5,4,1,91,14.75,257.0,355.2,0,10
+Ashoka Garden,Airport,9,6,1,23,8.99,124.88,172.86,1,0
+Airport,Kolar,23,1,0,45,14.03,231.36,215.26,0,5
+Habibganj,Railway Station,8,5,0,78,4.71,139.52,122.93,3,9
+MP Nagar,Lalghati,5,1,0,85,7.47,128.64,170.92,7,6
+MP Nagar,Kolar,13,3,0,35,5.82,99.84,107.84,7,5
+Railway Station,Ashoka Garden,16,5,0,42,0.98,96.76,65.26,9,1
+Indrapuri,Railway Station,11,3,1,31,7.42,133.04,155.65,4,9
+Habibganj,Shahpura,2,6,0,77,2.26,103.12,87.32,3,10
+BHEL,Indrapuri,19,2,1,97,1.57,95.84,101.54,2,4
+Habibganj,BHEL,20,2,0,43,8.25,160.0,145.3,3,2
+Shahpura,Ashoka Garden,16,1,0,63,7.18,130.16,147.15,10,1
+New Market,Lalghati,10,0,0,71,5.76,145.12,135.2,8,6
+MP Nagar,Railway Station,15,0,1,53,3.31,90.72,113.81,7,9
+MP Nagar,Kolar,21,4,0,40,5.82,93.84,106.64,7,5
+Railway Station,BHEL,21,2,1,91,8.71,163.52,235.03,9,2
+Shahpura,Lalghati,17,1,0,91,11.14,202.68,235.06,10,6
+Ashoka Garden,Shahpura,8,2,0,76,7.18,108.16,142.75,1,10
+New Market,Indrapuri,3,1,0,70,10.37,139.44,185.75,8,4
+Ashoka Garden,Airport,15,1,0,51,8.99,160.88,174.14,1,0
+Habibganj,Railway Station,4,1,1,95,4.71,143.52,163.83,3,9
+Railway Station,Kolar,23,4,0,72,8.59,117.08,160.77,9,5
+Lalghati,Railway Station,7,2,1,97,4.47,85.64,148.22,6,9
+New Market,BHEL,16,0,1,83,11.86,203.32,295.91,8,2
+Railway Station,BHEL,13,4,1,96,8.71,140.52,230.43,9,2
+Shahpura,Lalghati,8,0,1,68,11.14,148.68,238.15,10,6
+Ashoka Garden,Lalghati,23,0,1,82,4.78,70.36,150.38,1,6
+MP Nagar,Kolar,23,4,0,83,5.82,147.84,152.59,7,5
+Ashoka Garden,MP Nagar,3,6,1,55,3.76,128.12,127.81,1,7
+Airport,BHEL,1,6,0,63,16.74,222.88,275.82,0,2
+MP Nagar,BHEL,12,4,1,39,8.3,149.6,169.52,7,2
+Habibganj,Kolar,5,6,1,83,5.08,141.96,169.74,3,5
+Ashoka Garden,MP Nagar,7,0,0,65,3.76,96.12,100.94,1,7
+Lalghati,Indrapuri,7,3,1,49,11.44,191.28,215.54,6,4
+Kolar,Airport,15,6,1,28,14.03,248.36,258.03,5,0
+Ashoka Garden,Shahpura,20,3,1,81,7.18,174.16,211.46,1,10
+Railway Station,Habibganj,11,6,1,48,4.71,71.52,110.82,9,3
+Kolar,BHEL,13,4,0,63,13.11,233.32,236.09,5,2
+New Market,Lalghati,13,5,1,96,5.76,85.12,169.79,8,6
+Habibganj,MP Nagar,3,5,0,37,1.42,39.04,53.44,3,7
+Shahpura,Railway Station,14,2,1,44,6.92,111.04,145.25,10,9
+Indrapuri,Kolar,4,2,1,64,11.56,214.72,257.41,4,5
+New Market,Railway Station,1,1,1,88,4.02,69.24,137.38,8,9
+Airport,Shahpura,15,6,0,46,14.75,213.0,216.2,0,10
+Railway Station,New Market,18,6,0,35,4.02,96.24,90.64,9,8
+Airport,Shahpura,3,6,0,52,14.75,187.0,245.72,0,10
+Railway Station,Shahpura,17,0,0,25,6.92,102.04,118.84,9,10
+Lalghati,Shahpura,9,4,0,97,11.14,220.68,238.66,6,10
+Railway Station,Shahpura,15,5,0,94,6.92,141.04,166.01,9,10
+New Market,Habibganj,10,4,1,36,4.74,145.88,128.53,8,3
+Shahpura,MP Nagar,5,4,0,78,3.67,73.04,95.29,10,7
+Ashoka Garden,Indrapuri,22,3,0,55,6.76,169.12,152.48,1,4
+Indrapuri,Lalghati,16,2,1,20,11.44,150.28,207.34,4,6
+Railway Station,New Market,23,1,1,69,4.02,133.24,132.62,9,8
+Habibganj,BHEL,15,6,1,84,8.25,140.0,222.6,3,2
+Airport,Indrapuri,1,0,0,42,15.69,214.28,225.48,0,4
+BHEL,Indrapuri,2,3,1,38,1.57,73.84,73.64,2,4
+Kolar,MP Nagar,6,0,0,77,5.82,79.84,121.41,5,7
+BHEL,Railway Station,10,4,1,49,8.71,141.52,172.82,2,9
+Kolar,Habibganj,20,6,1,99,5.08,125.96,166.54,5,3
+BHEL,Lalghati,14,0,0,20,12.5,205.0,194.5,2,6
+MP Nagar,Habibganj,19,5,0,49,1.42,78.04,63.34,7,3
+Ashoka Garden,New Market,18,0,0,97,4.99,69.88,125.84,1,8
+MP Nagar,Shahpura,18,3,1,32,3.67,56.04,95.25,7,10
+Kolar,MP Nagar,13,4,0,52,5.82,93.84,124.21,5,7
+Ashoka Garden,Kolar,20,3,0,63,9.32,182.84,182.4,1,5
+MP Nagar,Ashoka Garden,8,2,1,52,3.76,80.12,118.17,7,1
+MP Nagar,BHEL,15,0,1,76,8.3,138.6,195.24,7,2
+Indrapuri,New Market,15,0,1,95,10.37,141.44,258.5,4,8
+Habibganj,Lalghati,0,1,0,34,8.88,186.56,158.56,3,6
+BHEL,Indrapuri,0,3,0,82,1.57,85.84,83.42,2,4
+Ashoka Garden,Shahpura,20,5,0,53,7.18,161.16,154.32,1,10
+New Market,Habibganj,19,2,1,23,4.74,125.88,122.53,8,3
+Indrapuri,Lalghati,23,5,1,45,11.44,181.28,213.54,4,6
+Railway Station,Habibganj,8,3,0,25,4.71,125.52,105.22,9,3
+Ashoka Garden,Railway Station,10,1,0,74,0.98,64.76,62.91,1,9
+Kolar,Indrapuri,9,4,0,31,11.56,218.72,190.72,5,4
+New Market,Shahpura,20,2,0,40,6.72,165.64,134.14,8,10
+MP Nagar,Airport,4,1,1,20,11.19,144.28,203.14,7,0
+New Market,Lalghati,10,2,1,61,5.76,142.12,159.37,8,6
+Airport,Railway Station,7,3,1,71,8.55,157.6,202.64,0,9
+Airport,Indrapuri,9,5,1,43,15.69,230.28,274.34,0,4
+MP Nagar,Ashoka Garden,6,2,1,51,3.76,74.12,116.97,7,1
+Lalghati,BHEL,17,5,0,63,12.5,224.0,227.2,6,2
+Railway Station,Shahpura,19,5,1,63,6.92,169.04,181.46,9,10
+New Market,Habibganj,7,6,0,56,4.74,125.88,119.14,8,3
+Lalghati,BHEL,23,3,1,96,12.5,206.0,307.2,6,2
+Kolar,Railway Station,12,4,0,74,8.59,188.08,176.61,5,9
+MP Nagar,Ashoka Garden,16,0,1,79,3.76,125.12,127.17,7,1
+Habibganj,New Market,9,5,1,98,4.74,113.88,158.41,3,8
+Lalghati,Kolar,8,6,1,76,11.53,190.36,252.1,6,5
+Railway Station,Lalghati,13,6,0,26,4.47,71.64,89.24,9,6
+MP Nagar,Indrapuri,8,3,0,43,6.76,122.12,121.42,7,4
+New Market,Lalghati,5,4,0,74,5.76,81.12,120.98,8,6
+Kolar,Railway Station,17,2,1,79,8.59,144.08,200.51,5,9
+Airport,New Market,19,1,1,54,8.43,141.16,197.62,0,8
+Railway Station,BHEL,23,3,1,82,8.71,145.52,231.43,9,2
+BHEL,Indrapuri,6,2,1,35,1.57,42.84,67.41,2,4
+BHEL,Habibganj,6,0,0,58,8.25,177.0,169.86,2,3
+Kolar,BHEL,19,0,0,34,13.11,238.32,209.62,5,2
+Indrapuri,Railway Station,10,0,0,69,7.42,151.04,154.09,4,9
+Shahpura,Airport,5,2,1,25,14.75,204.0,257.8,10,0
+Indrapuri,Kolar,15,2,0,48,11.56,180.72,179.32,4,5
+Ashoka Garden,MP Nagar,13,6,1,87,3.76,81.12,135.39,1,7
+Railway Station,BHEL,8,4,0,50,8.71,129.52,141.52,9,2
+Airport,Kolar,13,4,0,27,14.03,209.36,208.66,0,5
+New Market,Ashoka Garden,13,0,1,99,4.99,147.88,169.41,8,1
+New Market,Shahpura,10,0,1,76,6.72,149.64,174.7,8,10
+BHEL,Indrapuri,23,3,0,84,1.57,77.84,81.47,2,4
+Ashoka Garden,Airport,15,5,1,27,8.99,161.88,180.26,1,0
+Kolar,Habibganj,14,4,1,39,5.08,114.96,123.95,5,3
+Habibganj,New Market,4,0,0,40,4.74,125.88,105.58,3,8
+BHEL,Kolar,9,0,1,68,13.11,179.32,272.65,2,5
+Habibganj,Lalghati,9,5,1,78,8.88,142.56,204.38,3,6
+Kolar,Lalghati,16,3,1,75,11.53,162.36,246.5,5,6
+Ashoka Garden,MP Nagar,19,2,1,23,3.76,109.12,107.22,1,7
+MP Nagar,Airport,23,1,0,46,11.19,145.28,168.48,7,0
+Ashoka Garden,Railway Station,5,6,1,52,0.98,72.76,76.66,1,9
+MP Nagar,Railway Station,10,5,1,43,3.31,65.72,92.86,7,9
+New Market,MP Nagar,18,1,1,67,3.82,76.84,118.38,8,7
+Indrapuri,Habibganj,23,0,1,52,6.68,155.16,175.22,4,3
+Kolar,Indrapuri,15,3,0,74,11.56,181.72,207.92,5,4
+New Market,Railway Station,6,3,0,26,4.02,92.24,89.44,8,9
+New Market,Ashoka Garden,4,1,0,72,4.99,148.88,128.56,8,1
+Shahpura,BHEL,11,4,0,44,8.38,151.56,143.86,10,2
+Indrapuri,New Market,17,1,0,79,10.37,197.44,197.36,4,8
+Indrapuri,Lalghati,13,2,1,43,11.44,154.28,208.14,4,6
+Airport,Lalghati,15,4,0,34,4.25,123.0,100.6,0,6
+Indrapuri,Ashoka Garden,22,2,0,30,6.76,171.12,136.12,4,1
+Airport,Kolar,7,1,1,61,14.03,193.36,288.7,0,5
+Airport,BHEL,13,2,1,47,16.74,211.88,283.26,0,2
+Railway Station,Shahpura,14,1,0,50,6.92,112.04,120.84,9,10
+Lalghati,New Market,21,0,0,64,5.76,111.12,126.98,6,8
+Habibganj,BHEL,19,4,0,74,8.25,119.0,157.24,3,2
+MP Nagar,BHEL,19,2,0,38,8.3,173.6,149.8,7,2
+Airport,Lalghati,12,2,1,83,4.25,132.0,153.8,0,6
+Indrapuri,Kolar,11,0,1,36,11.56,215.72,221.86,4,5
+New Market,Ashoka Garden,5,4,0,84,4.99,134.88,138.84,8,1
+Indrapuri,Kolar,6,4,0,46,11.56,168.72,176.72,4,5
+Lalghati,Shahpura,11,3,1,58,11.14,186.68,245.75,6,10
+Habibganj,New Market,15,5,0,40,4.74,104.88,99.28,3,8
+BHEL,Railway Station,15,6,1,49,8.71,137.52,172.02,2,9
+New Market,Lalghati,18,1,1,33,5.76,87.12,126.54,8,6
+Indrapuri,Airport,4,5,1,22,15.69,239.28,276.14,4,0
+Habibganj,Ashoka Garden,17,6,1,29,5.07,142.84,131.09,3,1
+Indrapuri,Railway Station,15,3,0,37,7.42,147.04,134.44,4,9
+Kolar,MP Nagar,12,2,1,64,5.82,158.84,163.58,5,7
+Lalghati,New Market,2,1,0,36,5.76,147.12,120.52,6,8
+BHEL,MP Nagar,14,1,1,33,8.3,175.6,174.83,2,7
+Airport,BHEL,2,3,0,96,16.74,283.88,326.56,0,2
+Shahpura,Habibganj,2,1,1,87,2.26,37.12,101.39,10,3
+Railway Station,Ashoka Garden,5,4,0,47,0.98,71.76,57.76,9,1
+MP Nagar,Airport,19,0,0,58,11.19,223.28,213.38,7,0
+Ashoka Garden,Lalghati,2,6,0,22,4.78,123.36,105.16,1,6
+Ashoka Garden,Airport,19,6,1,59,8.99,171.88,211.83,1,0
+Indrapuri,BHEL,5,6,1,61,1.57,38.84,78.38,4,2
+Airport,BHEL,21,0,1,75,16.74,287.88,346.63,0,2
+Shahpura,Lalghati,0,2,0,46,11.14,207.68,183.88,10,6
+New Market,MP Nagar,15,1,1,26,3.82,116.84,110.16,8,7
+BHEL,Railway Station,18,0,1,58,8.71,189.52,211.33,2,9
+Shahpura,Lalghati,17,6,1,81,11.14,170.68,277.29,10,6
+Railway Station,Lalghati,23,1,0,30,4.47,96.64,94.54,9,6
+Kolar,New Market,4,1,0,69,5.79,131.48,131.41,5,8
+Indrapuri,BHEL,22,4,1,61,1.57,104.84,93.23,4,2
+Ashoka Garden,Habibganj,20,4,1,40,5.07,108.84,122.61,1,3
+Habibganj,Airport,12,4,0,74,12.53,183.36,219.42,3,0
+Indrapuri,Kolar,6,2,0,93,11.56,157.72,231.71,4,5
+Airport,Kolar,10,4,1,99,14.03,226.36,336.98,0,5
+Airport,New Market,7,5,1,42,8.43,163.16,173.79,0,8
+Shahpura,Ashoka Garden,22,0,0,97,7.18,137.16,168.73,10,1
+Lalghati,Shahpura,13,4,0,61,11.14,172.68,201.27,6,10
+Habibganj,New Market,6,3,1,89,4.74,79.88,151.61,3,8
+Kolar,New Market,4,0,0,89,5.79,150.48,152.71,5,8
+Lalghati,Habibganj,8,1,0,97,8.88,161.56,196.46,6,3
+Shahpura,Habibganj,3,1,0,22,2.26,62.12,66.12,10,3
+New Market,Railway Station,18,2,0,90,4.02,101.24,119.08,8,9
+New Market,BHEL,9,6,0,42,11.86,171.32,180.12,8,2
+Railway Station,Lalghati,14,3,1,45,4.47,91.64,111.97,9,6
+BHEL,Ashoka Garden,2,1,0,71,7.96,147.52,159.6,2,1
+New Market,Lalghati,15,3,1,37,5.76,99.12,128.94,8,6
+Habibganj,Ashoka Garden,18,2,0,21,5.07,74.84,95.64,3,1
+Kolar,New Market,9,3,0,97,5.79,136.48,149.91,5,8
+Lalghati,Ashoka Garden,10,1,1,72,4.78,113.36,139.5,6,1
+Airport,Habibganj,15,2,1,64,12.53,220.36,272.5,0,3
+Railway Station,Lalghati,11,4,0,57,4.47,89.64,107.82,9,6
+Kolar,Railway Station,10,2,1,93,8.59,170.08,234.33,5,9
+Airport,Kolar,15,1,1,21,14.03,252.36,258.83,0,5
+Ashoka Garden,New Market,21,5,1,86,4.99,133.88,166.61,1,8
+Indrapuri,Lalghati,18,2,1,56,11.44,208.28,254.39,4,6
+Lalghati,Kolar,1,5,1,63,11.53,181.36,250.3,6,5
+Lalghati,BHEL,21,5,1,95,12.5,168.0,299.6,6,2
+Kolar,Ashoka Garden,5,6,1,100,9.32,140.84,240.74,5,1
+Kolar,Airport,16,5,1,53,14.03,199.36,289.9,5,0
+Railway Station,Shahpura,13,1,0,98,6.92,130.04,163.81,9,10
+Airport,Shahpura,14,2,0,79,14.75,251.0,258.52,0,10
+BHEL,MP Nagar,22,0,1,85,8.3,181.6,231.76,2,7
+Lalghati,BHEL,4,1,1,34,12.5,236.0,237.2,6,2
+Airport,BHEL,8,4,1,68,16.74,263.88,341.83,0,2
+Indrapuri,Habibganj,11,3,0,89,6.68,163.16,167.21,4,3
+Airport,Indrapuri,10,2,1,47,15.69,201.28,268.54,0,4
+Ashoka Garden,MP Nagar,14,0,1,75,3.76,90.12,120.17,1,7
+Indrapuri,Ashoka Garden,0,5,0,75,6.76,153.12,147.68,4,1
+MP Nagar,New Market,10,5,0,50,3.82,120.84,96.34,7,8
+Kolar,Airport,15,3,0,36,14.03,213.36,209.86,5,0
+Habibganj,Lalghati,22,6,1,22,8.88,167.56,180.07,3,6
+Airport,Lalghati,3,1,1,32,4.25,75.0,106.0,0,6
+Lalghati,Railway Station,13,1,1,26,4.47,71.64,107.97,6,9
+Kolar,Ashoka Garden,21,0,1,31,9.32,184.84,188.81,5,1
+Airport,Lalghati,0,3,0,69,4.25,70.0,101.36,0,6
+New Market,Ashoka Garden,6,4,1,64,4.99,145.88,149.03,8,1
+Shahpura,New Market,8,5,1,90,6.72,139.64,196.82,10,8
+MP Nagar,New Market,1,3,0,79,3.82,56.84,93.77,7,8
+Airport,Shahpura,18,3,0,24,14.75,218.0,217.3,0,10
+Kolar,Lalghati,17,1,0,82,11.53,203.36,240.44,5,6
+Airport,BHEL,11,0,1,49,16.74,258.88,292.66,0,2
+Indrapuri,Habibganj,9,1,1,81,6.68,155.16,199.26,4,3
+Railway Station,New Market,14,1,1,88,4.02,90.24,141.58,9,8
+Indrapuri,Railway Station,1,2,1,70,7.42,142.04,183.26,4,9
+New Market,BHEL,16,4,0,98,11.86,208.32,245.86,8,2
+New Market,Railway Station,2,6,1,43,4.02,106.24,109.49,8,9
+Habibganj,Kolar,1,5,0,38,5.08,130.96,109.96,3,5
+Airport,Railway Station,12,6,0,86,8.55,131.6,186.03,0,9
+Lalghati,Ashoka Garden,0,6,1,69,4.78,80.36,132.9,6,1
+Shahpura,Airport,0,0,0,47,14.75,243.0,224.8,10,0
+BHEL,Lalghati,17,2,0,70,12.5,227.0,227.8,2,6
+Airport,Ashoka Garden,11,3,1,58,8.99,187.88,215.03,0,1
+Indrapuri,New Market,16,5,1,84,10.37,204.44,271.1,4,8
+MP Nagar,Shahpura,6,6,1,75,3.67,55.04,111.86,7,10
+Railway Station,Indrapuri,6,2,0,55,7.42,128.04,149.49,9,4
+BHEL,Shahpura,9,4,0,41,8.38,187.56,154.66,2,10
+Railway Station,Lalghati,15,5,0,80,4.47,111.64,112.22,9,6
+MP Nagar,Shahpura,8,2,1,21,3.67,69.04,97.85,7,10
+Kolar,Airport,6,4,0,92,14.03,227.36,278.84,5,0
+Indrapuri,Kolar,12,3,1,85,11.56,222.72,294.75,4,5
+BHEL,New Market,8,4,1,39,11.86,230.32,228.63,2,8
+Kolar,Indrapuri,12,5,0,74,11.56,153.72,202.32,5,4
+New Market,Indrapuri,3,1,1,99,10.37,142.44,258.7,8,4
+MP Nagar,BHEL,9,6,1,74,8.3,147.6,197.04,7,2
+MP Nagar,Indrapuri,17,6,0,69,6.76,128.12,141.9,7,4
+Ashoka Garden,Kolar,12,6,1,57,9.32,164.84,215.18,1,5
+Indrapuri,Habibganj,14,3,0,54,6.68,157.16,148.08,4,3
+Railway Station,Shahpura,3,0,0,81,6.92,124.04,162.61,9,10
+BHEL,Ashoka Garden,1,1,0,59,7.96,145.52,159.2,2,1
+Habibganj,BHEL,20,2,0,47,8.25,150.0,142.3,3,2
+Ashoka Garden,New Market,9,3,0,74,4.99,135.88,124.66,1,8
+Shahpura,New Market,17,5,1,46,6.72,143.64,149.37,10,8
+New Market,Railway Station,3,1,0,33,4.02,97.24,90.94,8,9
+Lalghati,Ashoka Garden,6,3,0,85,4.78,96.36,128.32,6,1
+New Market,Airport,7,4,0,94,8.43,167.16,191.53,8,0
+BHEL,Lalghati,9,1,1,87,12.5,167.0,299.4,2,6
+Kolar,Shahpura,21,6,1,69,4.91,145.92,147.89,5,10
+MP Nagar,BHEL,4,0,0,99,8.3,141.6,184.67,7,2
+Kolar,BHEL,15,6,0,49,13.11,182.32,194.32,5,2
+Shahpura,BHEL,7,0,1,57,8.38,187.56,206.18,10,2
+Railway Station,MP Nagar,12,0,1,35,3.31,75.72,94.86,9,7
+Lalghati,MP Nagar,17,4,0,82,7.47,133.64,171.92,6,7
+Railway Station,Indrapuri,6,3,1,39,7.42,116.04,152.25,9,4
+Shahpura,Ashoka Garden,0,2,1,74,7.18,134.16,178.22,10,1
+Kolar,MP Nagar,17,5,1,41,5.82,155.84,142.86,5,7
+Airport,Habibganj,19,2,0,45,12.53,160.36,184.36,0,3
+Habibganj,Shahpura,9,2,1,46,2.26,83.12,83.74,3,10
+BHEL,MP Nagar,0,5,1,39,8.3,176.6,175.13,2,7
+BHEL,Indrapuri,20,4,0,20,1.57,85.84,66.94,2,4
+Ashoka Garden,Kolar,6,6,0,69,9.32,132.84,172.33,1,5
+Ashoka Garden,Lalghati,8,5,1,58,4.78,81.36,133.1,1,6
+Shahpura,BHEL,15,1,0,57,8.38,124.56,159.85,10,2
+Ashoka Garden,Lalghati,14,0,1,34,4.78,82.36,113.83,1,6
+Lalghati,Shahpura,11,4,1,66,11.14,178.68,244.15,6,10
+New Market,Indrapuri,8,0,0,28,10.37,188.44,171.64,8,4
+Kolar,MP Nagar,11,0,0,92,5.82,125.84,148.19,5,7
+Indrapuri,Kolar,13,3,0,49,11.56,172.72,177.52,4,5
+BHEL,Habibganj,4,1,0,82,8.25,180.0,191.68,2,3
+Habibganj,BHEL,19,6,1,80,8.25,152.0,197.2,3,2
+Shahpura,Railway Station,15,6,0,58,6.92,173.04,155.27,10,9
+Habibganj,BHEL,18,3,0,45,8.25,163.0,146.2,3,2
+MP Nagar,Habibganj,22,1,1,28,1.42,37.04,64.45,7,3
+Kolar,New Market,5,6,1,60,5.79,98.48,151.07,5,8
+Habibganj,Railway Station,11,3,0,37,4.71,110.52,100.72,3,9
+BHEL,New Market,5,2,1,74,11.86,153.32,249.45,2,8
+Kolar,Railway Station,5,6,1,31,8.59,147.08,172.5,5,9
+Indrapuri,Shahpura,9,5,0,55,6.89,153.68,149.16,4,10
+Railway Station,Shahpura,5,3,1,91,6.92,128.04,197.86,9,10
+Habibganj,MP Nagar,3,4,0,87,1.42,78.04,79.49,3,7
+Airport,MP Nagar,9,5,1,54,11.19,220.28,253.19,0,7
+Airport,Lalghati,2,1,1,39,4.25,135.0,120.12,0,6
+Ashoka Garden,Railway Station,21,3,0,69,0.98,91.76,71.01,1,9
+BHEL,Ashoka Garden,13,6,0,54,7.96,159.52,162.0,2,1
+Shahpura,MP Nagar,19,3,1,78,3.67,117.04,124.26,10,7
+Ashoka Garden,Railway Station,9,0,1,49,0.98,93.76,73.42,1,9
+Habibganj,Shahpura,5,0,1,45,2.26,83.12,83.74,3,10
+Airport,Indrapuri,6,6,0,86,15.69,258.28,307.33,0,4
+MP Nagar,Airport,4,4,1,77,11.19,218.28,252.79,7,0
+New Market,Habibganj,16,5,1,46,4.74,71.88,111.26,8,3
+MP Nagar,Airport,13,1,0,27,11.19,175.28,174.58,7,0
+MP Nagar,Shahpura,10,4,0,100,3.67,113.04,116.73,7,10
+Shahpura,New Market,11,1,1,99,6.72,143.64,197.62,10,8
+Ashoka Garden,Indrapuri,13,3,1,52,6.76,102.12,165.77,1,4
+MP Nagar,Railway Station,2,3,0,48,3.31,97.72,85.12,7,9
+Ashoka Garden,MP Nagar,6,6,1,68,3.76,103.12,122.77,1,7
+Shahpura,Railway Station,11,6,1,51,6.92,95.04,166.66,10,9
+MP Nagar,Indrapuri,12,3,1,24,6.76,123.12,145.74,7,4
+New Market,Shahpura,19,2,0,89,6.72,156.64,166.44,8,10
+Indrapuri,Railway Station,16,0,1,52,7.42,144.04,183.66,4,9
+Ashoka Garden,BHEL,15,3,1,61,7.96,119.52,186.53,1,2
+Airport,Habibganj,16,6,0,21,12.53,230.36,202.36,0,3
+Shahpura,BHEL,0,4,1,80,8.38,113.56,191.38,10,2
+Indrapuri,New Market,0,2,0,68,10.37,210.44,201.26,4,8
+Shahpura,Airport,11,0,0,56,14.75,259.0,260.12,10,0
+Habibganj,Shahpura,1,4,0,96,2.26,38.12,82.8,3,10
+MP Nagar,Lalghati,9,0,0,98,7.47,106.64,166.52,7,6
+Indrapuri,New Market,2,3,1,25,10.37,212.44,207.62,4,8
+New Market,BHEL,3,6,0,29,11.86,223.32,194.62,8,2
+Airport,Indrapuri,14,0,0,20,15.69,200.28,222.68,0,4
+Kolar,New Market,10,5,1,52,5.79,102.48,151.87,5,8
+Habibganj,Lalghati,6,2,1,92,8.88,148.56,234.9,3,6
+Habibganj,New Market,22,6,1,30,4.74,95.88,116.06,3,8
+Indrapuri,MP Nagar,3,6,0,25,6.76,113.12,119.52,4,7
+Shahpura,New Market,12,3,1,59,6.72,164.64,177.7,10,8
+MP Nagar,Ashoka Garden,14,3,1,36,3.76,96.12,104.34,7,1
+Shahpura,Kolar,2,1,0,86,4.91,82.92,127.37,10,5
+Kolar,BHEL,15,0,1,61,13.11,226.32,282.05,5,2
+Habibganj,Railway Station,5,2,0,88,4.71,102.52,128.61,3,9
+Railway Station,Airport,7,2,0,56,8.55,188.6,176.36,9,0
+BHEL,Habibganj,7,2,0,86,8.25,135.0,182.68,2,3
+Railway Station,Indrapuri,2,2,0,100,7.42,141.04,172.73,9,4
+BHEL,MP Nagar,11,5,1,91,8.3,121.6,219.76,2,7
+Airport,Kolar,15,2,1,84,14.03,198.36,331.38,0,5
+MP Nagar,BHEL,7,0,1,42,8.3,181.6,176.63,7,2
+MP Nagar,Habibganj,23,2,0,76,1.42,32.04,61.17,7,3
+New Market,Shahpura,13,1,1,93,6.72,143.64,197.62,8,10
+BHEL,Habibganj,11,1,1,79,8.25,149.0,196.6,2,3
+Lalghati,Airport,12,0,0,79,4.25,99.0,107.16,6,0
+Shahpura,Ashoka Garden,7,2,1,78,7.18,126.16,176.62,10,1
+Habibganj,New Market,9,0,1,97,4.74,97.88,155.21,3,8
+Habibganj,Ashoka Garden,21,1,1,97,5.07,97.84,160.74,3,1
+Shahpura,BHEL,10,2,1,88,8.38,186.56,234.1,10,2
+New Market,Lalghati,4,5,0,85,5.76,116.12,145.44,8,6
+MP Nagar,Habibganj,14,4,0,32,1.42,60.04,57.94,7,3
+Shahpura,Habibganj,3,1,0,22,2.26,110.12,80.02,10,3
+Railway Station,Indrapuri,5,5,1,49,7.42,149.04,158.85,9,4
+Shahpura,Airport,3,2,1,36,14.75,187.0,254.4,10,0
+New Market,BHEL,21,5,1,23,11.86,223.32,226.98,8,2
+Shahpura,Lalghati,8,5,0,73,11.14,162.68,199.27,10,6
+Indrapuri,Lalghati,10,5,1,73,11.44,226.28,257.99,4,6
+MP Nagar,Habibganj,19,6,1,32,1.42,53.04,67.65,7,3
+Indrapuri,New Market,6,6,0,38,10.37,198.44,174.64,4,8
+Airport,Shahpura,13,3,0,34,14.75,266.0,231.7,0,10
+Indrapuri,Habibganj,5,4,1,41,6.68,146.16,149.39,4,3
+Ashoka Garden,Railway Station,18,5,1,53,0.98,30.76,68.26,1,9
+Airport,Shahpura,21,1,0,22,14.75,193.0,212.2,0,10
+Ashoka Garden,BHEL,0,4,1,40,7.96,147.52,165.02,1,2
+MP Nagar,Indrapuri,0,2,0,50,6.76,117.12,120.32,7,4
+BHEL,Habibganj,6,2,1,60,8.25,176.0,202.0,2,3
+Railway Station,Kolar,4,2,0,86,8.59,193.08,198.87,9,5
+New Market,Airport,21,2,1,78,8.43,191.16,207.62,8,0
+Ashoka Garden,Indrapuri,19,4,0,26,6.76,163.12,133.72,1,4
+Indrapuri,Airport,11,6,1,60,15.69,212.28,316.39,4,0
+Lalghati,Habibganj,8,6,0,51,8.88,129.56,166.61,6,3
+MP Nagar,Indrapuri,7,2,0,37,6.76,106.12,118.12,7,4
+Kolar,Lalghati,7,6,0,24,11.53,199.36,184.66,5,6
+Habibganj,Kolar,17,0,1,78,5.08,77.96,136.74,3,5
+New Market,Shahpura,5,3,0,89,6.72,102.64,155.64,8,10
+Habibganj,MP Nagar,14,2,1,83,1.42,71.04,94.06,3,7
+New Market,MP Nagar,12,0,0,33,3.82,122.84,96.94,8,7
+Railway Station,New Market,23,0,0,59,4.02,131.24,113.49,9,8
+New Market,Indrapuri,19,0,0,50,10.37,174.44,167.44,8,4
+Shahpura,MP Nagar,6,2,0,75,3.67,86.04,97.89,10,7
+Lalghati,BHEL,3,0,0,47,12.5,164.0,184.8,6,2
+Railway Station,New Market,4,3,0,36,4.02,91.24,89.14,9,8
+Indrapuri,BHEL,9,0,0,52,1.57,84.84,74.88,4,2
+New Market,Shahpura,3,6,1,83,6.72,152.64,199.42,8,10
+MP Nagar,Railway Station,20,6,1,21,3.31,67.72,93.26,7,9
+Airport,Railway Station,17,0,0,49,8.55,161.6,148.3,0,9
+Airport,MP Nagar,22,4,1,83,11.19,205.28,285.05,0,7
+BHEL,Ashoka Garden,18,1,0,42,7.96,174.52,147.22,2,1
+Habibganj,Indrapuri,13,5,0,97,6.68,167.16,168.01,3,4
+New Market,Lalghati,20,4,0,63,5.76,157.12,138.8,8,6
+BHEL,Habibganj,7,3,0,63,8.25,171.0,168.06,2,3
+Railway Station,Lalghati,4,6,0,94,4.47,131.64,131.26,9,6
+Ashoka Garden,BHEL,14,6,0,82,7.96,113.52,174.49,1,2
+BHEL,Airport,5,4,1,27,16.74,253.88,291.66,2,0
+Shahpura,Lalghati,3,5,0,21,11.14,206.68,183.58,10,6
+BHEL,Railway Station,9,1,0,95,8.71,170.52,195.97,2,9
+Lalghati,MP Nagar,7,3,1,69,7.47,137.64,183.1,6,7
+Kolar,Shahpura,19,4,1,57,4.91,126.92,144.09,5,10
+Ashoka Garden,Railway Station,1,4,1,74,0.98,93.76,82.48,1,9
+Railway Station,Habibganj,13,0,1,88,4.71,102.52,155.63,9,3
+MP Nagar,Kolar,21,5,1,44,5.82,125.84,135.01,7,5
+Habibganj,Airport,6,2,0,73,12.53,227.36,228.22,3,0
+Kolar,Shahpura,23,3,0,44,4.91,138.92,110.92,5,10
+Habibganj,Airport,16,4,0,34,12.53,222.36,199.96,3,0
+BHEL,Indrapuri,7,2,0,61,1.57,86.84,75.48,2,4
+BHEL,New Market,5,1,0,93,11.86,165.32,237.26,2,8
+Kolar,Indrapuri,22,5,0,91,11.56,164.72,233.11,5,4
+Railway Station,New Market,20,5,0,24,4.02,79.24,86.44,9,8
+Airport,Ashoka Garden,1,4,0,43,8.99,179.88,157.48,0,1
+Airport,Ashoka Garden,17,5,1,82,8.99,191.88,245.41,0,1
+Shahpura,MP Nagar,14,1,1,47,3.67,67.04,97.45,10,7
+Kolar,Airport,5,4,0,58,14.03,240.36,248.1,5,0
+Indrapuri,Kolar,23,1,1,38,11.56,189.72,216.66,4,5
+MP Nagar,Habibganj,9,5,0,50,1.42,83.04,64.84,7,3
+Shahpura,Ashoka Garden,3,0,1,59,7.18,121.16,175.62,10,1
+Indrapuri,New Market,23,1,1,85,10.37,154.44,261.1,4,8
+Habibganj,Railway Station,12,6,1,64,4.71,93.52,134.53,3,9
+Habibganj,New Market,11,3,0,25,4.74,124.88,105.28,3,8
+Kolar,Airport,15,4,0,93,14.03,197.36,272.84,5,0
+Indrapuri,Railway Station,6,2,0,64,7.42,178.04,161.81,4,9
+Airport,Habibganj,7,4,0,78,12.53,214.36,225.62,0,3
+Kolar,Railway Station,20,6,0,47,8.59,155.08,146.68,5,9
+Railway Station,Kolar,8,3,1,70,8.59,137.08,199.11,9,5
+Railway Station,Lalghati,5,4,0,27,4.47,85.64,92.04,9,6
+Ashoka Garden,Lalghati,9,5,0,36,4.78,98.36,97.66,1,6
+Airport,Indrapuri,15,0,0,23,15.69,266.28,239.68,0,4
+Kolar,New Market,19,2,1,98,5.79,97.48,172.77,5,8
+BHEL,Shahpura,2,3,1,67,8.38,129.56,194.58,2,10
+Kolar,Ashoka Garden,18,3,1,26,9.32,190.84,190.11,5,1
+Shahpura,Indrapuri,19,0,0,53,6.89,105.68,138.91,10,4
+Airport,Ashoka Garden,5,4,1,33,8.99,118.88,171.66,0,1
+Lalghati,Habibganj,5,3,0,26,8.88,169.56,153.46,6,3
+MP Nagar,Lalghati,23,1,0,32,7.47,177.64,144.04,7,6
+Habibganj,Airport,14,4,1,52,12.53,180.36,264.5,3,0
+Ashoka Garden,Indrapuri,4,6,0,83,6.76,120.12,159.68,1,4
+Habibganj,MP Nagar,3,0,1,60,1.42,71.04,82.66,3,7
+Airport,Shahpura,6,5,1,80,14.75,247.0,309.8,0,10
+Kolar,Indrapuri,11,3,0,24,11.56,178.72,178.72,5,4
+Railway Station,MP Nagar,16,4,0,90,3.31,58.72,101.03,9,7
+New Market,Ashoka Garden,0,4,1,60,4.99,95.88,139.03,8,1
+Kolar,Railway Station,17,0,0,28,8.59,123.08,139.08,5,9
+MP Nagar,Shahpura,2,5,1,73,3.67,91.04,119.06,7,10
+Airport,Shahpura,5,1,0,26,14.75,248.0,226.3,0,10
+BHEL,Shahpura,16,4,0,64,8.38,183.56,173.14,2,10
+MP Nagar,Indrapuri,9,3,0,85,6.76,162.12,168.08,7,4
+Kolar,Shahpura,15,5,0,52,4.91,108.92,116.75,5,10
+Lalghati,Kolar,16,2,1,48,11.53,165.36,211.43,6,5
+Airport,Shahpura,22,5,0,90,14.75,265.0,296.04,0,10
+MP Nagar,Habibganj,9,2,0,55,1.42,68.04,68.37,7,3
+Habibganj,Railway Station,15,4,1,38,4.71,142.52,127.21,3,9
+MP Nagar,Habibganj,19,0,0,27,1.42,87.04,66.04,7,3
+MP Nagar,Kolar,6,4,0,68,5.82,101.84,125.81,7,5
+Kolar,Ashoka Garden,5,1,1,71,9.32,157.84,213.78,5,1
+Kolar,Railway Station,2,1,0,53,8.59,175.08,172.71,5,9
+Indrapuri,Railway Station,19,3,1,91,7.42,134.04,207.46,4,9
+New Market,Lalghati,10,5,1,77,5.76,103.12,151.57,8,6
+Shahpura,Lalghati,12,2,0,49,11.14,187.68,177.88,10,6
+Kolar,BHEL,14,3,0,64,13.11,216.32,232.69,5,2
+Lalghati,Kolar,14,4,1,73,11.53,171.36,248.3,6,5
+BHEL,Railway Station,15,3,1,66,8.71,146.52,202.73,2,9
+Kolar,Habibganj,5,2,1,64,5.08,132.96,147.74,5,3
+Indrapuri,Ashoka Garden,9,0,0,100,6.76,94.12,154.48,4,1
+Kolar,Shahpura,14,3,0,65,4.91,139.92,125.07,5,10
+Habibganj,Railway Station,16,2,0,71,4.71,96.52,111.96,3,9
+Airport,MP Nagar,9,1,1,95,11.19,206.28,285.25,0,7
+Shahpura,New Market,14,6,0,45,6.72,137.64,125.74,10,8
+New Market,MP Nagar,2,6,1,82,3.82,56.84,131.54,8,7
+Shahpura,BHEL,9,3,0,61,8.38,112.56,157.45,10,2
+Airport,Railway Station,22,2,0,62,8.55,137.6,164.42,0,9
+Airport,Lalghati,14,1,0,97,4.25,87.0,119.32,0,6
+BHEL,Lalghati,13,3,1,34,12.5,194.0,228.8,2,6
+Habibganj,Airport,4,6,1,85,12.53,220.36,310.58,3,0
+Airport,Shahpura,7,1,0,87,14.75,255.0,294.04,0,10
+MP Nagar,New Market,7,3,0,99,3.82,92.84,114.71,7,8
+New Market,Airport,17,4,0,44,8.43,186.16,154.66,8,0
+Airport,Ashoka Garden,16,2,0,32,8.99,148.88,148.18,0,1
+Habibganj,Railway Station,14,1,1,94,4.71,98.52,154.83,3,9
+MP Nagar,Shahpura,16,2,0,37,3.67,106.04,90.64,7,10
+BHEL,New Market,1,5,1,89,11.86,156.32,286.51,2,8
+MP Nagar,Habibganj,0,2,0,33,1.42,82.04,64.54,7,3
+Airport,MP Nagar,10,4,1,65,11.19,197.28,248.59,0,7
+Shahpura,Habibganj,21,1,1,92,2.26,95.12,112.99,10,3
+Ashoka Garden,Kolar,4,6,0,60,9.32,179.84,181.73,1,5
+Ashoka Garden,BHEL,21,6,0,39,7.96,134.52,135.32,1,2
+Ashoka Garden,MP Nagar,8,5,1,60,3.76,60.12,114.17,1,7
+Indrapuri,Kolar,4,2,0,76,11.56,190.72,209.72,4,5
+Airport,Kolar,21,0,0,60,14.03,221.36,244.3,0,5
+BHEL,Indrapuri,15,4,0,97,1.57,48.84,75.67,2,4
+Shahpura,New Market,3,0,0,77,6.72,151.64,146.83,10,8
+BHEL,Kolar,20,5,0,26,13.11,171.32,192.12,2,5
+Lalghati,New Market,18,4,0,90,5.76,117.12,145.64,6,8
+Indrapuri,BHEL,3,5,0,32,1.57,66.84,61.24,4,2
+New Market,Ashoka Garden,14,1,1,92,4.99,98.88,159.61,8,1
+Airport,Lalghati,6,3,0,72,4.25,64.0,100.16,0,6
+New Market,Indrapuri,6,6,1,46,10.37,202.44,204.93,8,4
+MP Nagar,Indrapuri,4,2,0,59,6.76,140.12,144.3,7,4
+Kolar,MP Nagar,12,6,1,79,5.82,98.84,151.58,5,7
+Railway Station,Lalghati,18,4,1,72,4.47,129.64,138.3,9,6
+Habibganj,Shahpura,22,6,0,60,2.26,91.12,83.72,3,10
+MP Nagar,Railway Station,0,2,1,26,3.31,69.72,93.66,7,9
+Ashoka Garden,BHEL,19,6,0,36,7.96,162.52,143.62,1,2
+Indrapuri,Lalghati,20,3,1,46,11.44,183.28,213.94,4,6
+Lalghati,New Market,12,5,1,28,5.76,134.12,135.94,6,8
+Shahpura,Lalghati,9,1,0,80,11.14,174.68,201.67,10,6
+MP Nagar,Railway Station,6,0,1,29,3.31,94.72,98.66,7,9
+Airport,Railway Station,11,5,0,27,8.55,163.6,148.9,0,9
+Ashoka Garden,Habibganj,9,1,1,42,5.07,141.84,130.79,1,3
+Railway Station,Habibganj,12,2,1,31,4.71,114.52,119.42,9,3
+New Market,Kolar,2,5,0,56,5.79,124.48,130.0,8,5
+Indrapuri,Airport,9,0,1,42,15.69,264.28,281.14,4,0
+Indrapuri,Railway Station,2,6,0,77,7.42,153.04,154.49,4,9
+New Market,Railway Station,11,0,0,77,4.02,111.24,107.49,8,9
+Habibganj,Kolar,19,2,1,60,5.08,145.96,150.34,3,5
+Shahpura,Habibganj,7,5,1,87,2.26,113.12,116.59,10,3
+Railway Station,Lalghati,10,6,1,23,4.47,84.64,110.57,9,6
+Shahpura,Indrapuri,14,3,1,93,6.89,136.68,199.09,10,4
+Indrapuri,BHEL,16,6,0,40,1.57,63.84,60.34,4,2
+Airport,New Market,8,0,0,75,8.43,146.16,164.75,0,8
+MP Nagar,Airport,11,3,0,77,11.19,214.28,210.68,7,0
+Indrapuri,Airport,4,1,1,86,15.69,276.28,374.85,4,0
+Ashoka Garden,Shahpura,17,0,1,64,7.18,111.16,173.62,1,10
+BHEL,MP Nagar,18,4,1,97,8.3,148.6,225.16,2,7
+Railway Station,MP Nagar,12,3,1,30,3.31,54.72,90.66,9,7
+Lalghati,Ashoka Garden,18,2,1,66,4.78,109.36,138.7,6,1
+Habibganj,Railway Station,17,6,1,64,4.71,109.52,137.73,3,9
+Airport,MP Nagar,15,2,0,25,11.19,177.28,175.18,0,7
+Ashoka Garden,Indrapuri,10,0,1,78,6.76,148.12,174.97,1,4
+MP Nagar,Ashoka Garden,19,0,1,20,3.76,117.12,109.62,7,1
+Ashoka Garden,Kolar,5,1,0,72,9.32,131.84,172.13,1,5
+Shahpura,BHEL,6,5,1,96,8.38,129.56,222.7,10,2
+Lalghati,Kolar,21,5,0,31,11.53,159.36,174.56,6,5
+MP Nagar,Indrapuri,2,1,0,25,6.76,140.12,126.82,7,4
+MP Nagar,Habibganj,21,5,0,50,1.42,100.04,69.94,7,3
+BHEL,Kolar,14,4,0,65,13.11,169.32,223.29,2,5
+Airport,New Market,19,2,1,89,8.43,118.16,221.26,0,8
+New Market,Lalghati,8,2,0,23,5.76,124.12,113.62,8,6
+Railway Station,Airport,6,4,0,31,8.55,135.6,141.2,9,0
+Lalghati,Kolar,15,2,1,60,11.53,207.36,255.5,6,5
+Kolar,MP Nagar,23,4,0,56,5.82,134.84,132.72,5,7
+Habibganj,Indrapuri,4,6,0,80,6.68,166.16,150.78,3,4
+Ashoka Garden,New Market,16,2,1,29,4.99,130.88,126.66,1,8
+Habibganj,Lalghati,9,0,0,78,8.88,145.56,169.81,3,6
+Habibganj,Airport,22,2,1,29,12.53,216.36,233.63,3,0
+Ashoka Garden,Shahpura,23,6,1,24,7.18,134.16,152.99,1,10
+New Market,Shahpura,23,1,1,52,6.72,99.64,164.7,8,10
+Railway Station,Ashoka Garden,4,3,0,52,0.98,91.76,71.01,9,1
+Shahpura,BHEL,19,1,1,42,8.38,159.56,172.47,10,2
+Shahpura,BHEL,17,1,0,33,8.38,171.56,149.86,10,2
+Ashoka Garden,Railway Station,4,6,1,50,0.98,54.76,62.71,1,9
+MP Nagar,Ashoka Garden,6,4,0,28,3.76,61.12,80.32,7,1
+Airport,Shahpura,21,0,1,45,14.75,236.0,264.2,0,10
+Ashoka Garden,Shahpura,18,3,1,69,7.18,97.16,170.82,1,10
+Indrapuri,MP Nagar,5,0,1,41,6.76,101.12,141.34,4,7
+Indrapuri,BHEL,17,6,1,36,1.57,34.84,65.81,4,2
+MP Nagar,Habibganj,12,4,0,66,1.42,31.04,60.97,7,3
+Lalghati,Habibganj,3,4,1,91,8.88,148.56,234.9,6,3
+Kolar,Ashoka Garden,18,6,1,53,9.32,191.84,220.58,5,1
+Habibganj,Railway Station,5,3,1,56,4.71,101.52,136.13,3,9
+Indrapuri,Habibganj,4,5,1,31,6.68,126.16,145.39,4,3
+Lalghati,MP Nagar,19,2,0,23,7.47,102.64,124.24,6,7
+Indrapuri,Habibganj,12,3,1,79,6.68,160.16,176.22,4,3
+Airport,Shahpura,5,5,0,40,14.75,216.0,216.8,0,10
+New Market,Railway Station,23,3,1,40,4.02,137.24,118.38,8,9
+Shahpura,Kolar,5,2,0,41,4.91,147.92,113.62,10,5
+MP Nagar,Shahpura,8,2,1,54,3.67,105.04,121.86,7,10
+Airport,BHEL,15,2,0,51,16.74,213.88,274.02,0,2
+BHEL,Indrapuri,1,4,1,68,1.57,104.84,93.23,2,4
+Airport,Ashoka Garden,18,2,1,39,8.99,142.88,176.46,0,1
+Indrapuri,BHEL,12,3,0,40,1.57,89.84,68.14,4,2
+Kolar,Habibganj,9,3,1,24,5.08,130.96,127.63,5,3
+Airport,Railway Station,21,5,0,32,8.55,115.6,137.2,0,9
+MP Nagar,Ashoka Garden,18,2,0,93,3.76,68.12,108.96,7,1
+Railway Station,Lalghati,12,1,1,35,4.47,127.64,120.23,9,6
+BHEL,Airport,13,6,1,49,16.74,214.88,283.86,2,0
+Habibganj,Kolar,1,5,0,27,5.08,76.96,96.16,3,5
+MP Nagar,BHEL,12,2,1,93,8.3,122.6,219.96,7,2
+MP Nagar,Shahpura,12,3,1,99,3.67,84.04,134.46,7,10
+Habibganj,Railway Station,11,1,1,73,4.71,123.52,140.53,3,9
+Shahpura,Habibganj,0,1,1,43,2.26,86.12,84.57,10,3
+Ashoka Garden,Shahpura,10,4,0,85,7.18,163.16,173.93,1,10
+Kolar,Lalghati,1,3,1,92,11.53,206.36,290.98,5,6
+Habibganj,Airport,11,6,1,52,12.53,193.36,267.1,3,0
+Airport,Habibganj,13,3,1,33,12.53,238.36,238.07,0,3
+BHEL,MP Nagar,14,1,1,99,8.3,162.6,227.96,2,7
+Indrapuri,Railway Station,2,5,0,98,7.42,102.04,164.93,4,9
+Ashoka Garden,BHEL,1,0,1,64,7.96,126.52,187.93,1,2
+New Market,Ashoka Garden,11,1,1,57,4.99,74.88,134.83,8,1
+New Market,Shahpura,8,0,1,53,6.72,90.64,162.9,8,10
+Ashoka Garden,Airport,5,3,1,97,8.99,149.88,237.01,1,0
+New Market,Shahpura,7,0,0,37,6.72,111.64,118.84,8,10
+BHEL,Railway Station,12,5,1,26,8.71,153.52,175.22,2,9
+MP Nagar,Indrapuri,3,3,1,81,6.76,118.12,193.19,7,4
+Lalghati,Kolar,3,4,0,57,11.53,207.36,212.7,6,5
+Indrapuri,Kolar,1,6,0,40,11.56,168.72,176.72,4,5
+Railway Station,Lalghati,17,3,1,99,4.47,89.64,149.02,9,6
+BHEL,Shahpura,11,5,0,53,8.38,152.56,165.45,2,10
+New Market,BHEL,7,0,1,42,11.86,190.32,220.38,8,2
+New Market,Habibganj,20,2,1,81,4.74,133.88,162.41,8,3
+Habibganj,MP Nagar,20,6,1,71,1.42,54.04,79.26,3,7
+Ashoka Garden,New Market,8,2,0,49,4.99,87.88,97.48,1,8
+MP Nagar,Ashoka Garden,15,4,1,95,3.76,57.12,130.59,7,1
+Indrapuri,Habibganj,7,5,0,88,6.68,134.16,161.41,4,3
+MP Nagar,Lalghati,23,4,0,71,7.47,99.64,144.38,7,6
+Ashoka Garden,Airport,22,4,1,26,8.99,126.88,173.26,1,0
+Kolar,Indrapuri,13,6,0,34,11.56,164.72,175.92,5,4
+BHEL,Indrapuri,16,0,0,66,1.57,62.84,69.05,2,4
+Habibganj,MP Nagar,7,3,1,87,1.42,46.04,89.06,3,7
+MP Nagar,Ashoka Garden,19,5,1,86,3.76,133.12,145.79,7,1
+Shahpura,Ashoka Garden,22,3,0,29,7.18,133.16,128.26,10,1
+Airport,Kolar,18,0,1,69,14.03,205.36,291.1,0,5
+MP Nagar,BHEL,2,5,1,40,8.3,177.6,175.43,7,2
+Ashoka Garden,Habibganj,20,5,1,60,5.07,133.84,147.78,1,3
+BHEL,MP Nagar,5,4,1,73,8.3,148.6,197.24,2,7
+New Market,Kolar,13,4,1,20,5.79,106.48,130.78,8,5
+Airport,Railway Station,13,1,1,37,8.55,145.6,171.72,0,9
+MP Nagar,Ashoka Garden,4,0,0,98,3.76,111.12,117.56,7,1
+Railway Station,Shahpura,0,6,0,49,6.92,154.04,132.34,9,10
+New Market,Ashoka Garden,17,5,1,60,4.99,97.88,139.43,8,1
+Ashoka Garden,MP Nagar,2,5,1,38,3.76,105.12,106.14,1,7
+Ashoka Garden,New Market,15,3,1,61,4.99,121.88,144.23,1,8
+MP Nagar,Railway Station,12,2,1,91,3.31,93.72,130.35,7,9
+Kolar,New Market,23,1,1,67,5.79,128.48,157.07,5,8
+Airport,New Market,1,3,1,37,8.43,146.16,170.39,0,8
+Kolar,Lalghati,6,2,0,67,11.53,186.36,208.5,5,6
+Lalghati,Kolar,6,5,1,42,11.53,221.36,222.63,6,5
+MP Nagar,Ashoka Garden,12,6,1,63,3.76,109.12,123.97,7,1
+Railway Station,Airport,12,6,1,96,8.55,141.6,227.96,9,0
+BHEL,Shahpura,23,6,0,42,8.38,170.56,149.56,2,10
+Railway Station,Airport,8,2,1,98,8.55,179.6,235.56,9,0
+MP Nagar,Lalghati,12,4,0,36,7.47,114.64,126.64,7,6
+Airport,Habibganj,7,4,1,90,12.53,167.36,299.98,0,3
+MP Nagar,BHEL,12,6,1,43,8.3,149.6,169.52,7,2
+BHEL,Shahpura,5,2,0,31,8.38,161.56,146.86,2,10
+New Market,BHEL,5,1,1,55,11.86,159.32,250.65,8,2
+BHEL,Habibganj,14,5,1,57,8.25,118.0,190.4,2,3
+Indrapuri,Kolar,3,5,1,71,11.56,215.72,257.61,4,5
+Ashoka Garden,Airport,10,1,1,53,8.99,129.88,203.43,1,0
+MP Nagar,Kolar,1,5,0,75,5.82,158.84,139.92,7,5
+BHEL,Kolar,2,4,0,52,13.11,227.32,234.89,2,5
+Kolar,Railway Station,8,4,1,68,8.59,151.08,201.91,5,9
+Indrapuri,Ashoka Garden,6,5,0,93,6.76,118.12,159.28,4,1
+MP Nagar,Shahpura,3,4,0,67,3.67,90.04,98.69,7,10
+Ashoka Garden,Lalghati,14,0,0,44,4.78,78.36,93.56,1,6
+Airport,Shahpura,16,0,1,40,14.75,210.0,259.0,0,10
+Kolar,New Market,2,1,0,64,5.79,130.48,131.2,5,8
+Shahpura,MP Nagar,20,5,1,75,3.67,128.04,126.65,10,7
+MP Nagar,Habibganj,0,3,0,76,1.42,81.04,72.23,7,3
+BHEL,Kolar,20,5,1,68,13.11,233.32,283.45,2,5
+Airport,Ashoka Garden,23,2,1,48,8.99,169.88,181.86,0,1
+Airport,Shahpura,18,4,0,56,14.75,257.0,259.72,0,10
+Shahpura,Habibganj,19,1,1,70,2.26,50.12,90.57,10,3
+BHEL,Ashoka Garden,21,0,1,70,7.96,178.52,198.33,2,1
+MP Nagar,Lalghati,13,4,1,50,7.47,109.64,151.57,7,6
+Kolar,Lalghati,16,6,1,70,11.53,162.36,246.5,5,6
+Ashoka Garden,Lalghati,10,6,1,43,4.78,110.36,119.43,1,6
+New Market,Shahpura,19,5,1,74,6.72,144.64,173.7,8,10
+Railway Station,Ashoka Garden,23,4,1,23,0.98,31.76,58.11,9,1
+Railway Station,Lalghati,7,6,0,74,4.47,83.64,106.62,9,6
+BHEL,Kolar,2,4,0,94,13.11,194.32,259.86,2,5
+BHEL,Lalghati,16,0,1,48,12.5,218.0,233.6,2,6
+Habibganj,Railway Station,7,0,0,27,4.71,98.52,97.12,3,9
+MP Nagar,Lalghati,10,5,1,81,7.47,159.64,213.42,7,6
+Railway Station,MP Nagar,10,0,1,35,3.31,71.72,94.06,9,7
+Airport,Habibganj,4,6,1,67,12.53,200.36,268.5,0,3
+Railway Station,Ashoka Garden,19,5,1,53,0.98,88.76,80.98,9,1
+Habibganj,Airport,20,1,1,52,12.53,183.36,265.1,3,0
+Habibganj,MP Nagar,15,4,0,57,1.42,94.04,76.13,3,7
+Indrapuri,BHEL,10,4,1,92,1.57,65.84,95.54,4,2
+Kolar,Lalghati,7,0,0,67,11.53,160.36,203.3,5,6
+MP Nagar,Habibganj,4,3,0,72,1.42,73.04,69.83,7,3
+New Market,BHEL,9,2,0,28,11.86,182.32,182.32,8,2
+BHEL,New Market,23,2,0,31,11.86,198.32,187.12,2,8
+Shahpura,Railway Station,20,4,0,65,6.92,128.04,143.73,10,9
+Habibganj,Ashoka Garden,13,6,0,55,5.07,139.84,126.66,3,1
+MP Nagar,Shahpura,12,1,1,33,3.67,60.04,96.05,7,10
+Habibganj,Lalghati,22,6,1,37,8.88,188.56,184.81,3,6
+Airport,Lalghati,18,2,0,33,4.25,112.0,97.3,0,6
+Lalghati,BHEL,7,4,1,80,12.5,163.0,260.6,6,2
+Indrapuri,Railway Station,5,6,1,83,7.42,140.04,208.66,4,9
+Lalghati,Kolar,18,0,1,41,11.53,191.36,216.63,6,5
+New Market,Railway Station,0,3,0,42,4.02,112.24,95.44,8,9
+Railway Station,New Market,6,4,1,66,4.02,85.24,122.94,9,8
+Airport,Indrapuri,2,2,1,39,15.69,205.28,269.34,0,4
+MP Nagar,Lalghati,21,4,1,92,7.47,136.64,208.82,7,6
+Indrapuri,MP Nagar,7,6,1,30,6.76,150.12,151.14,4,7
+MP Nagar,Habibganj,11,1,1,55,1.42,77.04,83.86,7,3
+BHEL,Habibganj,5,3,1,94,8.25,142.0,223.0,2,3
+Shahpura,New Market,6,5,0,72,6.72,128.64,141.54,10,8
+Railway Station,BHEL,16,5,0,46,8.71,131.52,141.92,9,2
+New Market,Airport,7,6,1,45,8.43,178.16,176.96,8,0
+Indrapuri,Airport,19,1,0,52,15.69,201.28,259.4,4,0
+MP Nagar,Airport,18,2,1,76,11.19,160.28,241.19,7,0
+Railway Station,Habibganj,17,6,1,91,4.71,88.52,152.83,9,3
+BHEL,Lalghati,11,0,1,87,12.5,183.0,302.6,2,6
+Lalghati,Airport,5,2,0,94,4.25,97.0,121.32,6,0
+BHEL,MP Nagar,0,0,1,54,8.3,181.6,203.84,2,7
+Kolar,Shahpura,16,5,1,36,4.91,145.92,130.33,5,10
+BHEL,Airport,5,6,1,34,16.74,226.88,286.26,2,0
+Indrapuri,BHEL,12,5,0,92,1.57,65.84,79.07,4,2
+Shahpura,BHEL,10,3,0,44,8.38,112.56,134.96,10,2
+New Market,Habibganj,14,2,0,72,4.74,115.88,116.18,8,3
+Ashoka Garden,New Market,1,2,0,21,4.99,107.88,102.28,1,8
+Kolar,Lalghati,10,2,1,72,11.53,192.36,252.5,5,6
+Railway Station,Shahpura,15,3,0,27,6.92,118.04,122.04,9,10
+MP Nagar,Habibganj,18,1,0,49,1.42,45.04,54.64,7,3
+Habibganj,Indrapuri,19,1,1,43,6.68,97.16,139.59,3,4
+Ashoka Garden,Kolar,6,0,0,100,9.32,153.84,200.83,1,5
+New Market,Shahpura,5,1,1,49,6.72,129.64,146.57,8,10
+Airport,MP Nagar,17,4,0,32,11.19,162.28,171.88,0,7
+Ashoka Garden,New Market,17,5,0,85,4.99,117.88,135.44,1,8
+MP Nagar,Lalghati,13,4,1,40,7.47,137.64,157.17,7,6
+MP Nagar,Kolar,14,0,0,52,5.82,84.84,122.41,7,5
+Indrapuri,Habibganj,7,0,0,32,6.68,139.16,125.86,4,3
+New Market,Railway Station,12,3,1,71,4.02,110.24,127.94,8,9
+Indrapuri,Lalghati,23,3,0,28,11.44,162.28,174.28,4,6
+Kolar,Lalghati,16,4,1,84,11.53,222.36,294.18,5,6
+Lalghati,BHEL,23,0,1,100,12.5,189.0,303.8,6,2
+Habibganj,Kolar,23,2,1,50,5.08,116.96,124.35,3,5
+BHEL,Railway Station,2,2,1,100,8.71,162.52,234.83,2,9
+Lalghati,BHEL,3,5,1,89,12.5,172.0,300.4,6,2
+Railway Station,BHEL,8,6,1,88,8.71,137.52,229.83,9,2
+BHEL,MP Nagar,12,3,1,52,8.3,165.6,200.64,2,7
+Airport,Ashoka Garden,16,0,1,41,8.99,174.88,182.86,0,1
+Kolar,Airport,8,1,0,62,14.03,222.36,244.5,5,0
+Indrapuri,Habibganj,8,5,1,88,6.68,161.16,200.46,4,3
+Habibganj,Airport,23,4,0,85,12.53,229.36,259.08,3,0
+Kolar,New Market,2,3,0,80,5.79,92.48,123.6,5,8
+Lalghati,BHEL,21,1,1,32,12.5,229.0,235.8,6,2
+New Market,Indrapuri,10,1,0,24,10.37,199.44,174.94,8,4
+Kolar,Railway Station,20,4,1,29,8.59,169.08,176.9,5,9
+Lalghati,Indrapuri,18,3,1,78,11.44,187.28,250.19,6,4
+Kolar,Indrapuri,12,6,0,83,11.56,222.72,244.71,5,4
+Habibganj,MP Nagar,4,4,1,73,1.42,36.04,75.66,3,7
+Kolar,MP Nagar,5,0,1,53,5.82,145.84,160.98,5,7
+Airport,Habibganj,15,0,1,51,12.53,179.36,264.3,0,3
+New Market,BHEL,11,6,1,41,11.86,178.32,217.98,8,2
+Airport,Kolar,3,4,1,93,14.03,181.36,327.98,0,5
+Airport,New Market,16,5,0,59,8.43,164.16,168.35,0,8
+Kolar,New Market,0,4,1,84,5.79,144.48,182.17,5,8
+Habibganj,MP Nagar,4,3,0,69,1.42,30.04,60.77,3,7
+Ashoka Garden,New Market,12,3,1,52,4.99,92.88,138.43,1,8
+Railway Station,Lalghati,18,3,1,93,4.47,137.64,158.62,9,6
+Ashoka Garden,Kolar,19,2,1,26,9.32,167.84,185.41,1,5
+Ashoka Garden,Railway Station,20,1,0,68,0.98,52.76,60.24,1,9
+MP Nagar,Airport,23,5,1,67,11.19,198.28,248.79,7,0
+Airport,Indrapuri,23,2,1,43,15.69,266.28,281.54,0,4
+Ashoka Garden,Railway Station,10,4,0,54,0.98,39.76,57.64,1,9
+Ashoka Garden,BHEL,0,2,1,76,7.96,177.52,198.13,1,2
+New Market,Habibganj,4,6,0,52,4.74,88.88,110.78,8,3
+Shahpura,Kolar,3,6,0,92,4.91,78.92,126.57,10,5
+Airport,Ashoka Garden,22,1,1,75,8.99,180.88,213.63,0,1
+Airport,New Market,10,2,1,58,8.43,114.16,192.22,0,8
+Lalghati,BHEL,6,4,1,46,12.5,210.0,232.0,6,2
+New Market,MP Nagar,14,2,0,98,3.82,88.84,113.91,8,7
+Habibganj,Kolar,9,1,0,56,5.08,136.96,125.89,3,5
+Airport,Indrapuri,13,5,1,46,15.69,224.28,273.14,0,4
+New Market,Indrapuri,21,5,1,38,10.37,210.44,207.02,8,4
+New Market,Railway Station,1,1,1,28,4.02,86.24,105.49,8,9
+Shahpura,Ashoka Garden,22,1,0,33,7.18,115.16,123.96,10,1
+Habibganj,New Market,1,0,0,23,4.74,144.88,111.28,3,8
+Ashoka Garden,BHEL,23,6,0,87,7.96,143.52,180.49,1,2
+Airport,Kolar,8,2,0,38,14.03,213.36,209.86,0,5
+Indrapuri,Airport,12,4,0,62,15.69,224.28,264.0,4,0
+New Market,Habibganj,23,3,1,71,4.74,103.88,137.03,8,3
+New Market,BHEL,14,1,1,32,11.86,179.32,218.18,8,2
+Habibganj,Airport,1,2,1,90,12.53,203.36,307.18,3,0
+Railway Station,MP Nagar,13,6,1,43,3.31,78.72,95.46,9,7
+Airport,New Market,21,3,1,27,8.43,129.16,166.99,0,8
+Ashoka Garden,Airport,11,3,1,28,8.99,145.88,177.06,1,0
+New Market,Indrapuri,13,6,0,40,10.37,150.44,161.64,8,4
+Shahpura,Habibganj,22,2,0,65,2.26,39.12,72.26,10,3
+Lalghati,Shahpura,2,1,0,87,11.14,153.68,225.26,6,10
+Airport,Habibganj,1,6,0,76,12.53,190.36,220.82,0,3
+Kolar,Lalghati,21,5,0,48,11.53,165.36,175.76,5,6
+MP Nagar,Indrapuri,10,1,1,53,6.76,157.12,176.77,7,4
+Kolar,Lalghati,19,6,1,60,11.53,171.36,248.3,5,6
+BHEL,New Market,1,1,0,31,11.86,187.32,183.82,2,8
+BHEL,Kolar,0,5,1,76,13.11,244.32,285.65,2,5
+Lalghati,MP Nagar,18,1,1,99,7.47,110.64,203.62,6,7
+Railway Station,BHEL,5,2,0,73,8.71,156.52,170.04,9,2
+Railway Station,Ashoka Garden,10,3,0,50,0.98,41.76,49.76,9,1
+Kolar,Lalghati,2,6,1,42,11.53,167.36,211.83,5,6
+Lalghati,Shahpura,0,6,1,36,11.14,144.68,202.62,6,10
+Airport,Kolar,8,5,1,84,14.03,231.36,337.98,0,5
+Lalghati,Indrapuri,3,3,0,76,11.44,209.28,212.04,6,4
+Indrapuri,New Market,8,0,1,94,10.37,167.44,263.7,4,8
+Airport,Ashoka Garden,14,0,0,65,8.99,158.88,173.74,0,1
+Kolar,Ashoka Garden,14,6,1,40,9.32,122.84,176.41,5,1
+Lalghati,Habibganj,19,1,1,83,8.88,185.56,242.3,6,3
+Airport,Ashoka Garden,14,5,0,94,8.99,119.88,189.6,0,1
+BHEL,MP Nagar,16,5,0,34,8.3,152.6,143.5,2,7
+Ashoka Garden,Kolar,20,3,0,44,9.32,125.84,146.64,1,5
+Kolar,Shahpura,4,4,0,55,4.91,73.92,109.75,5,10
+Ashoka Garden,Indrapuri,13,6,1,62,6.76,121.12,169.57,1,4
+Lalghati,Railway Station,10,0,0,65,4.47,75.64,105.02,6,9
+Indrapuri,Lalghati,16,1,1,92,11.44,151.28,278.45,4,6
+BHEL,Shahpura,14,1,0,43,8.38,123.56,137.16,2,10
+BHEL,New Market,13,3,1,66,11.86,191.32,257.05,2,8
+Shahpura,Airport,0,1,1,90,14.75,212.0,346.2,10,0
+MP Nagar,New Market,4,4,1,47,3.82,104.84,106.81,7,8
+New Market,Kolar,21,6,1,93,5.79,98.48,172.97,8,5
+Lalghati,BHEL,22,1,0,82,12.5,224.0,257.6,6,2
+Kolar,Indrapuri,17,2,0,52,11.56,211.72,213.92,5,4
+New Market,Indrapuri,8,0,0,67,10.37,158.44,189.55,8,4
+Airport,Shahpura,15,0,0,31,14.75,229.0,220.6,0,10
+Indrapuri,Airport,21,4,0,25,15.69,198.28,222.28,4,0
+Kolar,Habibganj,14,0,0,32,5.08,118.96,106.36,5,3
+New Market,BHEL,15,2,0,51,11.86,214.32,217.89,8,2
+Indrapuri,Railway Station,6,6,0,26,7.42,157.04,137.44,4,9
+Shahpura,BHEL,21,1,1,85,8.38,134.56,223.7,10,2
+Lalghati,Indrapuri,5,3,1,41,11.44,221.28,221.54,6,4
+New Market,BHEL,7,6,1,58,11.86,153.32,249.45,8,2
+MP Nagar,Lalghati,4,1,0,98,7.47,145.64,174.32,7,6
+Indrapuri,New Market,22,4,1,42,10.37,162.44,196.93,4,8
+BHEL,Kolar,7,6,0,68,13.11,189.32,227.29,2,5
+MP Nagar,Lalghati,2,2,1,68,7.47,154.64,186.5,7,6
+Shahpura,MP Nagar,11,1,1,36,3.67,111.04,106.85,10,7
+Ashoka Garden,BHEL,10,5,0,64,7.96,164.52,163.19,1,2
+Kolar,Lalghati,9,5,0,76,11.53,165.36,204.3,5,6
+Shahpura,Railway Station,17,3,1,86,6.92,159.04,204.06,10,9
+Habibganj,Shahpura,22,0,0,34,2.26,55.12,64.72,3,10
+Shahpura,Indrapuri,15,0,0,47,6.89,165.68,135.58,10,4
+MP Nagar,Ashoka Garden,18,0,1,21,3.76,102.12,105.54,7,1
+Kolar,Airport,6,0,0,93,14.03,180.36,269.44,5,0
+Kolar,Habibganj,2,6,0,94,5.08,88.96,130.87,5,3
+Lalghati,Shahpura,1,0,1,28,11.14,215.68,216.82,6,10
+New Market,Railway Station,12,2,0,97,4.02,138.24,127.95,8,9
+Shahpura,Lalghati,21,3,0,97,11.14,210.68,236.66,10,6
+Kolar,Airport,5,0,1,46,14.03,256.36,259.63,5,0
+BHEL,New Market,1,3,1,46,11.86,177.32,217.78,2,8
+Kolar,Ashoka Garden,15,5,0,44,9.32,149.84,151.44,5,1
+Lalghati,Ashoka Garden,4,4,1,52,4.78,86.36,134.1,6,1
+Shahpura,New Market,18,4,0,85,6.72,154.64,166.04,10,8
+BHEL,Lalghati,13,3,0,33,12.5,229.0,201.7,2,6
+Habibganj,BHEL,2,6,1,40,8.25,142.0,167.4,3,2
+Lalghati,BHEL,16,1,1,84,12.5,224.0,310.8,6,2
+Indrapuri,Airport,9,6,0,85,15.69,248.28,305.33,4,0
+Indrapuri,Shahpura,19,5,0,51,6.89,163.68,152.16,4,10
+Railway Station,BHEL,9,4,1,92,8.71,161.52,234.63,9,2
+Kolar,Ashoka Garden,0,2,0,88,9.32,143.84,198.83,5,1
+Habibganj,Shahpura,14,4,1,84,2.26,43.12,102.59,3,10
+New Market,Ashoka Garden,6,1,1,51,4.99,128.88,145.63,8,1
+Railway Station,Shahpura,22,5,1,95,6.92,109.04,194.06,9,10
+Ashoka Garden,MP Nagar,3,1,1,48,3.76,62.12,97.54,1,7
+New Market,Habibganj,6,5,1,29,4.74,116.88,120.26,8,3
+Kolar,Airport,11,6,1,33,14.03,187.36,245.83,5,0
+Shahpura,Railway Station,21,4,1,59,6.92,158.04,179.26,10,9
+MP Nagar,Ashoka Garden,10,3,0,20,3.76,78.12,83.72,7,1
+Shahpura,MP Nagar,2,6,0,66,3.67,61.04,92.89,10,7
+New Market,Shahpura,11,3,1,48,6.72,104.64,141.57,8,10
+Lalghati,New Market,20,2,1,86,5.76,145.12,181.79,6,8
+MP Nagar,Airport,12,2,0,32,11.19,160.28,171.48,7,0
+Airport,New Market,18,0,1,22,8.43,172.16,175.59,0,8
+Kolar,Shahpura,18,0,0,68,4.91,139.92,125.07,5,10
+BHEL,New Market,16,5,1,58,11.86,184.32,255.65,2,8
+Kolar,Indrapuri,3,6,1,24,11.56,148.72,208.46,5,4
+Railway Station,Lalghati,12,1,1,50,4.47,127.64,120.23,9,6
+MP Nagar,Habibganj,20,6,0,40,1.42,49.04,55.44,7,3
+Railway Station,Indrapuri,6,3,0,96,7.42,151.04,174.73,9,4
+New Market,MP Nagar,13,6,0,71,3.82,128.84,110.76,8,7
+Kolar,Indrapuri,19,1,1,84,11.56,223.72,294.95,5,4
+Shahpura,Railway Station,1,2,0,88,6.92,107.04,159.21,10,9
+Habibganj,Airport,15,6,0,84,12.53,215.36,256.28,3,0
+Railway Station,New Market,22,3,1,53,4.02,72.24,120.34,9,8
+Lalghati,Indrapuri,22,6,0,42,11.44,176.28,177.08,6,4
+Ashoka Garden,Indrapuri,21,6,1,68,6.76,153.12,175.97,1,4
+New Market,Habibganj,1,1,0,70,4.74,87.88,110.58,8,3
+Airport,New Market,6,3,0,56,8.43,130.16,161.55,0,8
+New Market,Kolar,2,1,0,55,5.79,146.48,135.91,8,5
+Shahpura,Ashoka Garden,9,6,0,86,7.18,155.16,172.33,10,1
+MP Nagar,New Market,20,4,0,57,3.82,130.84,111.36,7,8
+New Market,Lalghati,22,6,1,99,5.76,114.12,175.59,8,6
+Railway Station,BHEL,12,0,0,70,8.71,194.52,179.75,9,2
+New Market,BHEL,18,4,0,55,11.86,231.32,222.54,8,2
+Airport,Habibganj,3,4,1,87,12.53,162.36,298.98,0,3
+Shahpura,Lalghati,14,1,0,84,11.14,179.68,230.46,10,6
+MP Nagar,Ashoka Garden,23,5,0,69,3.76,86.12,98.94,7,1
+Lalghati,MP Nagar,11,5,0,41,7.47,112.64,126.24,6,7
+Ashoka Garden,Habibganj,16,2,0,37,5.07,70.84,94.84,1,3
+Lalghati,Kolar,2,0,1,40,11.53,151.36,208.63,6,5
+Airport,Habibganj,15,1,0,53,12.53,195.36,221.82,0,3
+Airport,Habibganj,10,1,1,87,12.53,238.36,314.18,0,3
+New Market,Ashoka Garden,2,0,1,83,4.99,133.88,166.61,8,1
+Shahpura,Airport,9,3,0,46,14.75,235.0,222.4,10,0
+Railway Station,Habibganj,12,3,1,28,4.71,118.52,120.22,9,3
+Ashoka Garden,Airport,14,0,1,95,8.99,175.88,242.21,1,0
+BHEL,Lalghati,7,2,1,77,12.5,177.0,263.4,2,6
+BHEL,MP Nagar,6,4,0,79,8.3,125.6,159.14,2,7
+Kolar,Habibganj,12,5,1,43,5.08,92.96,119.55,5,3
+Shahpura,Lalghati,18,3,1,76,11.14,205.68,249.55,10,6
+Airport,Habibganj,20,4,1,27,12.53,182.36,226.83,0,3
+Shahpura,New Market,11,4,0,99,6.72,96.64,154.44,10,8
+Airport,Railway Station,21,3,0,27,8.55,181.6,154.3,0,9
+Lalghati,Railway Station,12,6,0,33,4.47,92.64,93.44,6,9
+Railway Station,Airport,0,1,0,50,8.55,158.6,147.4,9,0
+New Market,MP Nagar,7,1,1,33,3.82,68.84,99.61,8,7
+MP Nagar,Lalghati,14,4,1,58,7.47,140.64,183.7,7,6
+New Market,Lalghati,7,6,0,65,5.76,156.12,138.5,8,6
+Shahpura,Ashoka Garden,11,1,1,24,7.18,111.16,148.39,10,1
+Ashoka Garden,Habibganj,11,0,1,72,5.07,133.84,147.78,1,3
+Indrapuri,MP Nagar,23,0,0,77,6.76,99.12,136.1,4,7
+Lalghati,MP Nagar,17,4,0,61,7.47,103.64,145.18,6,7
+Airport,Habibganj,18,6,0,70,12.53,176.36,218.02,0,3
+BHEL,Ashoka Garden,17,1,1,56,7.96,175.52,197.73,2,1
+Kolar,New Market,19,4,0,50,5.79,146.48,120.58,5,8
+Railway Station,Habibganj,21,0,0,33,4.71,102.52,98.32,9,3
+BHEL,Kolar,0,6,0,51,13.11,221.32,233.69,2,5
+Indrapuri,MP Nagar,11,0,1,52,6.76,129.12,171.17,4,7
+Habibganj,MP Nagar,23,3,0,89,1.42,86.04,81.71,3,7
+Kolar,MP Nagar,14,4,1,44,5.82,131.84,136.21,5,7
+Railway Station,Airport,20,0,1,39,8.55,171.6,176.92,9,0
+Ashoka Garden,MP Nagar,0,1,1,81,3.76,79.12,134.99,1,7
+Shahpura,Indrapuri,11,5,0,59,6.89,155.68,149.76,10,4
+Railway Station,Shahpura,7,5,1,59,6.92,165.04,180.66,9,10
+Railway Station,New Market,2,1,1,34,4.02,114.24,111.48,9,8
+Ashoka Garden,Railway Station,13,5,1,94,0.98,94.76,91.83,1,9
+Kolar,Habibganj,1,5,0,29,5.08,141.96,113.26,5,3
+Airport,Habibganj,13,5,1,48,12.53,192.36,228.83,0,3
+Habibganj,Lalghati,16,4,0,57,8.88,186.56,179.08,3,6
+Railway Station,Indrapuri,23,3,1,82,7.42,149.04,210.46,9,4
+Airport,Ashoka Garden,8,2,1,69,8.99,174.88,212.43,0,1
+Ashoka Garden,Shahpura,10,6,1,68,7.18,159.16,183.22,1,10
+Ashoka Garden,Railway Station,23,2,1,40,0.98,53.76,62.51,1,9
+MP Nagar,Ashoka Garden,16,6,1,64,3.76,65.12,115.17,7,1
+New Market,Indrapuri,18,6,1,76,10.37,180.44,233.42,8,4
+Airport,Shahpura,13,0,0,70,14.75,262.0,260.88,0,10
+BHEL,Indrapuri,10,0,0,35,1.57,102.84,72.04,2,4
+Shahpura,Railway Station,17,4,0,30,6.92,128.04,124.54,10,9
+Railway Station,MP Nagar,21,1,0,88,3.31,80.72,105.43,9,7
+Airport,Habibganj,6,5,0,58,12.53,212.36,225.22,0,3
+Shahpura,Kolar,8,6,1,89,4.91,130.92,164.67,10,5
+Ashoka Garden,Lalghati,8,6,1,70,4.78,112.36,139.3,1,6
+Habibganj,Lalghati,21,1,1,90,8.88,172.56,239.7,3,6
+BHEL,Shahpura,15,2,0,35,8.38,152.56,144.16,2,10
+BHEL,Shahpura,9,6,0,46,8.38,126.56,137.76,2,10
+BHEL,Habibganj,17,6,0,80,8.25,173.0,168.66,2,3
+Kolar,Lalghati,13,4,1,74,11.53,166.36,247.3,5,6
+Lalghati,BHEL,13,6,1,73,12.5,176.0,263.2,6,2
+New Market,Shahpura,10,2,1,85,6.72,141.64,197.22,8,10
+Railway Station,Shahpura,22,3,1,81,6.92,128.04,197.86,9,10
+BHEL,Kolar,5,3,0,62,13.11,170.32,223.49,2,5
+Kolar,Indrapuri,12,5,1,38,11.56,196.72,218.06,5,4
+Airport,Habibganj,22,5,1,34,12.53,220.36,234.43,0,3
+Kolar,BHEL,23,5,1,61,13.11,247.32,286.25,5,2
+Indrapuri,Habibganj,15,4,0,40,6.68,90.16,114.16,4,3
+Habibganj,Railway Station,20,5,1,95,4.71,126.52,160.43,3,9
+BHEL,Kolar,9,0,1,48,13.11,234.32,244.18,2,5
+Ashoka Garden,Airport,4,2,1,46,8.99,183.88,184.66,1,0
+BHEL,Kolar,9,6,0,72,13.11,220.32,233.49,2,5
+Lalghati,Shahpura,18,0,0,71,11.14,164.68,199.67,6,10
+BHEL,Kolar,5,1,0,94,13.11,180.32,257.06,2,5
+Indrapuri,Habibganj,19,0,1,34,6.68,119.16,143.99,4,3
+Ashoka Garden,Lalghati,8,5,0,36,4.78,85.36,94.96,1,6
+Railway Station,Habibganj,19,6,1,91,4.71,77.52,150.63,9,3
+BHEL,MP Nagar,18,6,1,60,8.3,173.6,202.24,2,7
+Lalghati,Railway Station,10,3,0,38,4.47,127.64,103.84,6,9
+Railway Station,MP Nagar,19,1,0,28,3.31,97.72,85.12,9,7
+New Market,Airport,1,4,1,26,8.43,147.16,170.59,8,0
+Airport,New Market,6,4,1,59,8.43,113.16,192.02,0,8
+Kolar,BHEL,2,6,1,95,13.11,171.32,310.51,5,2
+Indrapuri,Kolar,6,5,0,43,11.56,183.72,180.22,4,5
+New Market,Shahpura,6,0,0,46,6.72,148.64,129.04,8,10
+Ashoka Garden,BHEL,14,3,0,26,7.96,161.52,143.32,1,2
+Lalghati,Railway Station,19,1,1,81,4.47,95.64,150.22,6,9
+Airport,Indrapuri,18,3,0,94,15.69,199.28,295.53,0,4
+Ashoka Garden,BHEL,18,6,0,78,7.96,147.52,159.6,1,2
+BHEL,Habibganj,13,6,1,46,8.25,127.0,164.4,2,3
+Airport,BHEL,4,0,0,81,16.74,226.88,315.16,0,2
+MP Nagar,BHEL,17,1,1,98,8.3,185.6,232.56,7,2
+Airport,Habibganj,17,3,1,36,12.53,162.36,222.83,0,3
+Airport,BHEL,23,3,1,33,16.74,226.88,286.26,0,2
+Airport,Indrapuri,3,2,1,57,15.69,228.28,319.59,0,4
+Lalghati,Railway Station,2,0,1,58,4.47,112.64,134.9,6,9
+Lalghati,Railway Station,3,5,0,47,4.47,83.64,91.64,6,9
+BHEL,Indrapuri,11,0,0,57,1.57,61.84,68.85,2,4
+New Market,Shahpura,4,3,0,43,6.72,152.64,130.24,8,10
+New Market,Lalghati,18,2,1,27,5.76,117.12,132.54,8,6
+BHEL,MP Nagar,7,0,0,93,8.3,130.6,182.47,2,7
+Ashoka Garden,BHEL,21,5,1,77,7.96,121.52,186.93,1,2
+New Market,Indrapuri,16,4,1,76,10.37,142.44,225.82,8,4
+Shahpura,BHEL,1,5,1,22,8.38,134.56,167.47,10,2
+MP Nagar,Railway Station,20,5,0,38,3.31,63.72,76.52,7,9
+Railway Station,Shahpura,13,3,0,56,6.92,108.04,139.73,9,10
+Kolar,Shahpura,9,5,1,92,4.91,101.92,158.87,5,10
+MP Nagar,Habibganj,21,6,0,74,1.42,30.04,60.77,7,3
+Airport,Shahpura,9,4,1,44,14.75,238.0,264.6,0,10
+Kolar,New Market,4,5,1,89,5.79,127.48,178.77,5,8
+Lalghati,New Market,11,2,1,31,5.76,94.12,127.94,6,8
+Indrapuri,Ashoka Garden,21,2,0,41,6.76,162.12,133.42,4,1
+MP Nagar,Railway Station,14,3,1,94,3.31,99.72,131.55,7,9
+Habibganj,MP Nagar,15,2,1,35,1.42,103.04,80.82,3,7
+Habibganj,Indrapuri,6,4,1,84,6.68,120.16,192.26,3,4
+Indrapuri,Railway Station,23,0,0,84,7.42,156.04,175.73,4,9
+Kolar,Shahpura,15,4,1,65,4.91,88.92,136.49,5,10
+Railway Station,Lalghati,1,2,0,39,4.47,78.64,90.64,9,6
+Shahpura,MP Nagar,18,5,0,72,3.67,105.04,102.11,10,7
+Lalghati,Airport,18,5,0,30,4.25,108.0,96.1,6,0
+Ashoka Garden,Lalghati,2,0,0,98,4.78,69.36,122.92,1,6
+New Market,Airport,10,5,0,31,8.43,190.16,155.86,8,0
+Ashoka Garden,Lalghati,1,0,0,64,4.78,143.36,124.79,1,6
+BHEL,MP Nagar,0,5,1,53,8.3,136.6,194.84,2,7
+Indrapuri,Lalghati,13,6,1,95,11.44,200.28,288.25,4,6
+New Market,Ashoka Garden,17,2,1,70,4.99,94.88,138.83,8,1
+Ashoka Garden,MP Nagar,15,5,1,43,3.76,135.12,115.02,1,7
+Shahpura,MP Nagar,14,1,0,22,3.67,74.04,82.04,10,7
